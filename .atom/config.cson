@@ -1,0 +1,23 @@
+"*":
+  core:
+    openEmptyEditorOnStart: false
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 28
+    preferredLineLength: 99
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "8f885020-abe5-4fde-8c59-fc13bc7c6c9d"
+  minimap:
+    absoluteMode: true
+    adjustAbsoluteModeHeight: true
+  "tabs-to-spaces":
+    onSave: "untabify"
+  welcome:
+    showOnStartup: false
