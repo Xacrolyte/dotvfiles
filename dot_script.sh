@@ -1,5 +1,13 @@
 #!/bin/bash
-sudo -v
+
+app = "top geany fish htop imagemagick redshift telegram teamviewer python3 python3-pip tmux mosh tlp"
+snap = "vlc bucklespring"
+
+#############################################################
+
+
+
+
 # This script creates symlinks from the home directory to any desired dotfiles in ~/dotfiles
 # Symlinks are being made to constantly update files of any changes without any manual labour or hassle
 # Symlinks are created by the command ( ln -s ) Read the man page for ln for more information. We are using the -s argument to create symbolic links of the dot files. Google the same for more information on the topic.
@@ -9,7 +17,7 @@ sudo -v
 dir=~/dotvfiles                    # dotfiles directory
 olddir=~/olddotvfiles             # old dotfiles backup directory
 files=".bashrc .displayrc .nanorc .dmrc .gitconfig .nvidia-settings-rc .profile .viminfo .Xdefaults .xscreensaver Vagrantfile"   # list of files/folders to symlink in homedir
-#sudo -v
+
 
 # create dotfiles_old in homedir
 #echo "Creating $olddir for backup of any existing dotfiles in ~"
@@ -22,7 +30,6 @@ files=".bashrc .displayrc .nanorc .dmrc .gitconfig .nvidia-settings-rc .profile 
 #echo "Changing to the $dir directory"
 #cd $dir
 #echo "...done"
-
 
 # Backup & Symlinks
 #for file in $files; do
@@ -37,5 +44,12 @@ for file in $files; do
     echo
 done
 
-
 # DON'T RUN THIS SCRIPT TWICE IN THE SAME INSTANCE IF YOU DID YOUR oldir is probably properly fucked with symlinks.
+
+#################################################
+
+
+apt upgrade -y
+apt update
+apt autoclean
+apt autoremove
