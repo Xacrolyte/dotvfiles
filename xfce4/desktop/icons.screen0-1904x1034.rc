@@ -5,10 +5,6 @@
 row=3
 col=1
 
-[/home/vipulgupta2048/Desktop/Telegram]
-row=1
-col=3
-
 [/home/vipulgupta2048/Desktop/Desktop]
 row=2
 col=0
@@ -21,9 +17,21 @@ col=2
 row=4
 col=0
 
+[/home/vipulgupta2048/Desktop/Screenshot_2018-03-13_07-39-24.png]
+row=5
+col=0
+
 [/home/vipulgupta2048/Desktop/plymouth_preview_script]
 row=4
 col=1
+
+[/home/vipulgupta2048/Desktop/Telegram]
+row=1
+col=3
+
+[/home/vipulgupta2048/Desktop/.jpeg]
+row=6
+col=0
 
 [84967E1A967E0D44]
 row=0
