@@ -16,8 +16,15 @@ If you are a Fish user, luck will find you if you take a peek at my dotfiles.
 ## Geany and Atom
 I use Geany and Atom as my editors, the dotfiles contains everything from keymaps to colorscheme configs. 
 
-## MIT license
+## Resources to learn more about dotfiles 
+Adding. Also describing Homely.py.
 
+## Plymouth
+
+## Inspiration
+In progress.
+
+## MIT license
 Will add more description soon. 
 
 
