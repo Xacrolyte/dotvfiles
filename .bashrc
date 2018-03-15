@@ -116,7 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
-#The fix for making 'tap touchpad to click' persistent 
-synclient TapButton1=1 
-
-#
+#The fix for making 'tap touchpad to click' persistent
+synclient TapButton1=1
