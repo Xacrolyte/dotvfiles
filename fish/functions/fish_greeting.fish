@@ -3,7 +3,7 @@ function fish_greeting
   ___======____='(set_color FF7F00)'-'(set_color FF0)'-'(set_color FF7F00)'-='(set_color F00)')
 /T            \_'(set_color FF0)'--='(set_color FF7F00)'=='(set_color F00)')
 [ \ '(set_color FF7F00)'('(set_color FF0)'0'(set_color FF7F00)')   '(set_color F00)'\~    \_'(set_color FF0)'-='(set_color FF7F00)'='(set_color F00)')   Hey there, 
- \      / )J'(set_color FF7F00)'~~    \\'(set_color FF0)'-='(set_color F00)')   I am Fish, an awesome terminal and bash-killer. 
+ \      / )J'(set_color FF7F00)'~~    \\'(set_color FF0)'-='(set_color F00)')   I am Fish, an awesome bash-killer. 
   \\\\___/  )JJ'(set_color FF7F00)'~'(set_color FF0)'~~   '(set_color F00)'\)  
    \_____/JJJ'(set_color FF7F00)'~~'(set_color FF0)'~~    '(set_color F00)'\\
    '(set_color FF7F00)'/ '(set_color FF0)'\  '(set_color FF0)', \\'(set_color F00)'J'(set_color FF7F00)'~~~'(set_color FF0)'~~     '(set_color FF7F00)'\\

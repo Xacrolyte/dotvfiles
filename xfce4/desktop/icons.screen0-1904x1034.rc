@@ -1,13 +1,13 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/vipulgupta2048/Desktop/Screenshot_2018-03-16_12-24-13.png]
+row=5
+col=0
+
 [/home/vipulgupta2048/Desktop/groove.xspf]
 row=3
 col=1
-
-[/home/vipulgupta2048/Desktop/Telegram]
-row=1
-col=3
 
 [/home/vipulgupta2048/Desktop/Desktop]
 row=2
@@ -25,13 +25,13 @@ col=0
 row=4
 col=1
 
-[0CB471A6B47192C6]
-row=1
-col=1
-
-[google-drive://vipulgupta2048@gmail.com/]
-row=3
+[/home/vipulgupta2048/Desktop/adsd.jpeg]
+row=6
 col=0
+
+[/home/vipulgupta2048/Desktop/Telegram]
+row=1
+col=3
 
 [84967E1A967E0D44]
 row=0
@@ -45,15 +45,23 @@ col=2
 row=1
 col=0
 
-[Trash]
+[0CB471A6B47192C6]
 row=1
-col=2
+col=1
 
-[/]
-row=0
+[google-drive://vipulgupta2048@gmail.com/]
+row=3
 col=0
 
 [/home/vipulgupta2048]
 row=2
 col=1
+
+[/]
+row=0
+col=0
+
+[Trash]
+row=1
+col=2
 
