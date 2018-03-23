@@ -1,16 +1,20 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/vipulgupta2048/Desktop/Screenshot_2018-03-16_12-24-13.png]
-row=5
-col=0
-
 [/home/vipulgupta2048/Desktop/groove.xspf]
 row=3
 col=1
 
+[/home/vipulgupta2048/Desktop/Updater]
+row=5
+col=0
+
+[/home/vipulgupta2048/Desktop/Telegram]
+row=1
+col=3
+
 [/home/vipulgupta2048/Desktop/Desktop]
-row=2
+row=3
 col=0
 
 [/home/vipulgupta2048/Desktop/X desktop Stuff]
@@ -21,26 +25,6 @@ col=2
 row=4
 col=0
 
-[/home/vipulgupta2048/Desktop/plymouth_preview_script]
-row=4
-col=1
-
-[/home/vipulgupta2048/Desktop/adsd.jpeg]
-row=6
-col=0
-
-[/home/vipulgupta2048/Desktop/Telegram]
-row=1
-col=3
-
-[84967E1A967E0D44]
-row=0
-col=1
-
-[423B-3EAB]
-row=0
-col=2
-
 [0C827B1A827B078A]
 row=1
 col=0
@@ -50,18 +34,26 @@ row=1
 col=1
 
 [google-drive://vipulgupta2048@gmail.com/]
-row=3
+row=2
 col=0
 
-[/home/vipulgupta2048]
-row=2
+[84967E1A967E0D44]
+row=0
 col=1
+
+[423B-3EAB]
+row=0
+col=2
+
+[Trash]
+row=1
+col=2
 
 [/]
 row=0
 col=0
 
-[Trash]
-row=1
-col=2
+[/home/vipulgupta2048]
+row=2
+col=1
 

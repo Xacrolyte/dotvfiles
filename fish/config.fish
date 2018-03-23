@@ -9,8 +9,9 @@ source $OMF_PATH/init.fish
 #Greeting message
 #set fish_greeting I am terminal named fish. Let\'s get high/started/both.
 
-# TLP power saving 
-tlp start
+# FOR GOLANG
+set -x -U GOPATH $HOME/go
+
 #for virtualenv
 eval (python -m virtualfish )
 
