@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Zs
+Description=A theme that features the Zorin logo.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/zs
+ScriptFile=/lib/plymouth/themes/zs/zs.script

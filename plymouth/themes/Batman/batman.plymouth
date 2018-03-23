@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Batman
+Description=A theme that features the Dark Knight logo.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/Batman
+ScriptFile=/lib/plymouth/themes/Batman/batman.script

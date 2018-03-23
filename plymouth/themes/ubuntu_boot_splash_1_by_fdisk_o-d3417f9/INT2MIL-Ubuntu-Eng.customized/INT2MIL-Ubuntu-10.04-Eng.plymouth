@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=INT2MIL-Ubuntu-10.04-Eng theme
+Description=Ubuntu plymounth theme
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/INT2MIL-Ubuntu-10.04-Eng
+ScriptFile=/lib/plymouth/themes/INT2MIL-Ubuntu-10.04-Eng/mdv.script

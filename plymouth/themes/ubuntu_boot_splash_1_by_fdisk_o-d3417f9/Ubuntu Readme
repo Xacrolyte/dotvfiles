@@ -1,0 +1,32 @@
+Note: No guarantee that this item be seen correctly in all screen resolutions available
+
+Advertencia: No garantizo que este tema se vea correctamente en todas las resoluciones de pantallas disponibles
+
+-----------------------------------------------------------
+
+
+English install:
+
+Then extract the contents of the zip INT2MIL-Ubuntu-10.04-Eng to your home or Desktop folder, then open a terminal and run this (firstly navigate to the folder where you extracted it using a terminal; if you extracted it on your Desktop, that would be: cd ~/Desktop):
+
+sudo cp -R INT2MIL-Ubuntu-10.04-Eng/ /lib/plymouth/themes/
+sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/INT2MIL-Ubuntu-10.04-Eng/INT2MIL-Ubuntu-10.04-Eng.plymouth 100
+sudo update-alternatives --config default.plymouth  #here, choose the number of the theme you want to use then hit enter
+sudo update-initramfs -u
+
+Reboot and ready... should be running the new theme.
+
+
+----------------------------------------------------------
+
+
+Instalación en Español:
+
+Extraer el archivo zip "INT2MIL-Ubuntu-10.04-Spa" a la carpeta home o al Escritorio, a continuación, abra un terminal y ejecute este codigo (antes, vaya a la carpeta en la que extrajo el tema utilizando el terminal; si lo extrago en el escritorio, sería lo siguiente: cd ~/Escritorio):
+
+sudo cp -R INT2MIL-Ubuntu-10.04-Spa/ /lib/plymouth/themes/
+sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/INT2MIL-Ubuntu-10.04-Spa/INT2MIL-Ubuntu-10.04-Spa.plymouth 100
+sudo update-alternatives --config default.plymouth  #aquí, elija el número del tema que desee utilizar y a continuación, pulse enter
+sudo update-initramfs -u
+
+Reinicie y listo... debería tener funcionando el nuevo tema.

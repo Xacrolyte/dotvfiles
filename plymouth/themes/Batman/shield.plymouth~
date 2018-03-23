@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Shield
+Description=A theme that features the Shield logo.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/Shield
+ScriptFile=/lib/plymouth/themes/Shield/Shield.script

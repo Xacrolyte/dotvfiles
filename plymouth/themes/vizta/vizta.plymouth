@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Vizta
+Description=Vizta plugin.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/vizta
+ScriptFile=/usr/share/plymouth/themes/vizta/vizta.script

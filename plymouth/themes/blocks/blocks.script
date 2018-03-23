@@ -1,0 +1,482 @@
+# This is an example plymouth plugin script
+
+Window.SetBackgroundTopColor(0.234, 0.43, 0.705);
+Window.SetBackgroundBottomColor(0.16, 0.25, 0.44);
+
+
+fun refresh_callback ()
+  {
+  }
+  
+Plymouth.SetRefreshFunction (refresh_callback);
+
+
+#----------------------------------------- Debug --------------------------------
+
+DebugString = "";
+fun Debug(text)
+{
+  DebugString += "  " + text;
+  global.DebugSprite = Sprite(Image.Text(DebugString, 1, 1, 1, 1));
+}
+
+
+#----------------------------------------- Block Images --------------------------------
+
+BlockImages[0] = Image("red-block.png");
+BlockImages[1] = Image("red-block.png");
+BlockImages[2] = Image("red-block.png");
+
+
+
+
+#----------------------------------------- Block Shape --------------------------------
+
+
+
+BlockShape = fun (x, y)
+{
+  global.new_shape = [] | global.BlockShape;
+  new_shape.shapes =
+      [[[0,1,0,0],      #
+        [0,1,0,0],      #
+        [0,1,0,0],      #
+        [0,1,0,0],],    #
+
+       [[0,1,1],        ##
+        [0,1,0],        #
+        [0,1,0],],      #
+
+       [[1,1,0],        ##
+        [0,1,0],         #
+        [0,1,0],],       #
+
+       [[1,1],          ##
+        [1,1],],        ##
+
+       [[1,0,0],        #
+        [1,1,0],        ##
+        [0,1,0],],       #
+
+       [[0,1,0],         #
+        [1,1,0],        ##
+        [1,0,0],],      #
+
+       [[0,1,0],         #
+        [1,1,0],        ##
+        [0,1,0],],       #
+                    ];
+  
+  new_shape.shape_count = 7;
+  new_shape.shape_index = 0;
+  new_shape.shape_size = 0;
+  new_shape.rotation = 0;
+  new_shape.x = x;
+  new_shape.y = y;
+  new_shape.offset_x = 0;
+  new_shape.offset_y = 0;
+  
+  new_shape.SetShape(0);
+  return new_shape;
+} | [];
+
+
+BlockShape.IsSet = fun (x, y)
+{
+  
+  if (rotation == 0)
+  {
+    my_x = x;
+    my_y = y;
+  }
+  else if (rotation == 1)
+  {
+    my_x = y;
+    my_y = shape_size - x - 1;
+  }
+  else if (rotation == 2)
+  {
+    my_x = shape_size - x - 1;
+    my_y = shape_size - y - 1;
+  }
+  else if (rotation == 3)
+  {
+    my_x = shape_size - y - 1;
+    my_y = x;
+  }
+  shapes[shape_index][my_y][my_x];
+};
+
+BlockShape.SetPosition = fun (x, y)
+{ 
+  this.offset_x = x;
+  this.offset_y = y;
+  
+  for (local.y=0;y<4;y++)
+    for (local.x=0;x<4;x++)
+      {
+        if (this.sprite[y][x])
+          this.sprite[y][x].SetPosition(this.x + (x + this.offset_x) * 32, this.y + (y + this.offset_y) * 32, 0);
+      }
+};
+
+BlockShape.SetShape = fun (shape_index)
+{ 
+  this.shape_index = shape_index;
+  for (local.x=0;x<4;x++)
+    if (shapes[shape_index][0][x] != NULL)
+      new_shape.shape_size = x + 1;
+  
+  for (local.y=0;y<4;y++)
+    for (local.x=0;x<4;x++)
+      {
+        if (IsSet(x, y))
+          {
+            if (!this.sprite[y][x])
+              this.sprite[y][x] = Sprite(BlockImages[0]);
+          }
+        else 
+            this.sprite[y][x] = NULL;
+      }
+  SetPosition(offset_x, offset_y);
+};
+
+BlockShape.SetRotation = fun (rotation)
+{ 
+  if (rotation < 0) rotation = 3;
+  if (rotation >= 4 ) rotation = 0;
+  this.rotation = rotation;
+  SetShape(shape_index);
+};
+
+
+#----------------------------------------- Block Pile --------------------------------
+
+BlockPile = fun (x, y)
+{
+  new_pile = [];
+  new_pile.block_width = 10;
+  new_pile.block_height = 15;
+  new_pile.width = new_pile.block_width * 32;
+  new_pile.height = new_pile.block_height * 32;
+  new_pile.x = x;
+  new_pile.y = y;
+
+  return new_pile | global.BlockPile;
+} | [];
+
+BlockPile.Set = fun (x, y)
+{
+  this.filled[y][x] = 1;
+  this.sprite[y][x] = Sprite(BlockImages[0]);
+  this.sprite[y][x].SetPosition(this.x+x*32, this.y+y*32, 0);
+};
+
+BlockPile.Clear = fun (x, y)
+{
+  this.filled[y][x] = 0;
+  this.sprite[y][x] = NULL;
+};
+
+
+BlockPile.IsSet = fun (x, y)
+{
+  if (x<0) return 1;
+  if (x>=block_width) return 1;
+  if (y<0) return 1;
+  if (y>=block_height) return 1;
+  return filled[y][x];
+};
+
+BlockPile.ShiftLine = fun (line)
+{
+  for (local.x=0; x<new_pile.block_width; x++)
+    {
+      
+    }
+};
+
+BlockPile.ClearLine = fun (line)
+{
+  for (local.x=0; x<block_width; x++)
+    {
+      if (IsSet(x, line))
+        Clear(x, line);
+      if (line>0 && IsSet(x, line-1))
+        Set(x, line);
+    }
+
+  if (line>0)
+    ClearLine(line-1);
+};
+
+BlockPile.CheckLine = fun (y)
+{
+  for (local.x=0; x<block_width; x++)
+    {
+      if (!IsSet(x, y)) return;
+    }
+  ClearLine(y);
+  CheckLine(y);
+};
+
+BlockPile.CheckLines = fun ()
+{
+  for (local.y=0; y<block_height; y++)
+    {
+      CheckLine(y);
+    }
+};
+
+#----------------------------------------- Block Faller --------------------------------
+
+BlockFaller = fun ()
+{
+  new_faller = [] | global.BlockFaller;
+  new_faller.pile = BlockPile(Window.GetX(), Window.GetY());
+  new_faller.shape = BlockShape(Window.GetX(), Window.GetY());
+  new_faller.shape.SetShape(2);
+  new_faller.background = Sprite(Image("bg.png"));
+  new_faller.background.SetPosition(Window.GetX(), Window.GetY(), -1000);
+  new_faller.background.SetZ(-100);
+  
+  return new_faller;
+} | [];
+
+BlockFaller.MoveIsLegal = fun (x_move, y_move)
+{
+  for (local.x=0; x<4; x++)
+    for (local.y=0; y<4; y++)
+      {
+        if (shape.IsSet(x, y) && pile.IsSet(shape.offset_x + x + x_move, shape.offset_y + y + y_move))
+            return 0;
+      }
+  return 1;
+};
+
+BlockFaller.CommitShape = fun ()
+{
+  for (local.x=0; x<4; x++)
+    for (local.y=0; y<4; y++)
+      {
+        if (shape.IsSet(x, y))
+            pile.Set(shape.offset_x + x, shape.offset_y + y);
+      }
+  pile.ClearLines();
+};
+
+BlockFaller.MoveLeft = fun ()
+{
+  if (MoveIsLegal(-1, 0))
+    {
+      shape.SetPosition(shape.offset_x-1, shape.offset_y);
+    }
+};
+
+BlockFaller.MoveRight = fun ()
+{
+  if (MoveIsLegal(1, 0))
+    {
+      shape.SetPosition(shape.offset_x+1, shape.offset_y);
+    }
+};
+
+BlockFaller.MoveDown = fun ()
+{
+  if (MoveIsLegal(0, 1))
+    {
+      shape.SetPosition(shape.offset_x, shape.offset_y+1);
+    }
+  else
+    {
+      CommitShape();
+      pile.CheckLines();
+      shape.SetShape(Math.Int(Math.Random()*shape.shape_count));
+      shape.SetPosition(0, 0);
+      if (!MoveIsLegal(0, 0))
+        {
+          Debug("GAME OVER");
+        }
+    }
+};
+
+BlockFaller.Rotate = fun (direction)
+{
+  shape.SetRotation(shape.rotation+direction);
+  for (local.x=0; x<4; x++)
+    for (local.y=0; y<4; y++)
+      {
+        if (shape.IsSet(x, y) && pile.IsSet(shape.offset_x + x, shape.offset_y + y))
+          {
+            shape.SetRotation(shape.rotation-direction);
+            return;
+          }
+      }
+};
+
+BlockFaller.RotateLeft = fun ()
+{
+  Rotate(-1);
+};
+
+BlockFaller.RotateRight = fun ()
+{
+  Rotate(1);
+};
+
+#----------------------------------------- Blocks body --------------------------------
+
+
+myfaller = BlockFaller();
+
+fun inkey_callback (key)
+  {
+    if      (key == "j")
+        {
+          myfaller.MoveLeft();
+        }
+    else if (key == "l")
+        {
+          myfaller.MoveRight();
+        }
+    else if (key == "k")
+        {
+          myfaller.MoveDown();
+          time_last_click = time;
+        }
+    else if (key == "a")
+        {
+          myfaller.RotateLeft();
+        }
+    else if (key == "s")
+        {
+          myfaller.RotateRight();
+        }
+  }
+
+Plymouth.SetKeyboardInputFunction(inkey_callback);
+
+fun progress_callback (duration, progress)
+  {
+    if (global.time_last_click == NULL)
+      global.time_last_click = duration;
+    global.time = duration;
+    
+    timestep = 0.5;
+    
+    while (global.time > global.time_last_click + timestep)
+        {
+            global.time_last_click += timestep;
+            myfaller.MoveDown();
+        }
+  }
+
+Plymouth.SetBootProgressFunction(progress_callback);
+
+
+#----------------------------------------- Dialogue --------------------------------
+
+status = "normal";
+
+fun dialog_setup()
+  {
+    local.box;
+    local.lock;
+    local.entry;
+    
+    box.image = Image("box.png");
+    lock.image = Image("lock.png");
+    entry.image = Image("entry.png");
+    
+    box.sprite = Sprite(box.image);
+    box.x = Window.GetX() + Window.GetWidth()  / 2 - box.image.GetWidth ()/2;
+    box.y = Window.GetY() + Window.GetHeight() / 2 - box.image.GetHeight()/2;
+    box.z = 10000;
+    box.sprite.SetPosition(box.x, box.y, box.z);
+    
+    lock.sprite = Sprite(lock.image);
+    lock.x = box.x + box.image.GetWidth()/2 - (lock.image.GetWidth() + entry.image.GetWidth()) / 2;
+    lock.y = box.y + box.image.GetHeight()/2 - lock.image.GetHeight()/2;
+    lock.z = box.z + 1;
+    lock.sprite.SetPosition(lock.x, lock.y, lock.z);
+    
+    entry.sprite = Sprite(entry.image);
+    entry.x = lock.x + lock.image.GetWidth();
+    entry.y = box.y + box.image.GetHeight()/2 - entry.image.GetHeight()/2;
+    entry.z = box.z + 1;
+    entry.sprite.SetPosition(entry.x, entry.y, entry.z);
+    
+    global.dialog.box = box;
+    global.dialog.lock = lock;
+    global.dialog.entry = entry;
+    global.dialog.bullet_image = Image("bullet.png");
+    dialog_opacity (1);
+  }
+    
+fun dialog_opacity(opacity)
+  {
+    dialog.box.sprite.SetOpacity (opacity);
+    dialog.lock.sprite.SetOpacity (opacity);
+    dialog.entry.sprite.SetOpacity (opacity);
+    for (index = 0; dialog.bullet[index]; index++)
+      {
+        dialog.bullet[index].sprite.SetOpacity(opacity);
+      }
+  }
+
+fun display_normal_callback ()
+  {
+    global.status = "normal";
+    if (global.dialog)
+      dialog_opacity (0);
+  }
+
+fun display_password_callback (prompt, bullets)
+  {
+    global.status = "password";
+    if (!global.dialog)
+	dialog_setup();
+    else
+	dialog_opacity(1);
+    for (index = 0; dialog.bullet[index] || index < bullets; index++)
+      {
+        if (!dialog.bullet[index])
+          {
+            dialog.bullet[index].sprite = Sprite(dialog.bullet_image);
+            dialog.bullet[index].x = dialog.entry.x + index * dialog.bullet_image.GetWidth();
+            dialog.bullet[index].y = dialog.entry.y + dialog.entry.image.GetHeight() / 2 - dialog.bullet_image.GetHeight() / 2;
+            dialog.bullet[index].z = dialog.entry.z + 1;
+            dialog.bullet[index].sprite.SetPosition(dialog.bullet[index].x, dialog.bullet[index].y, dialog.bullet[index].z);
+          }
+        if (index < bullets)
+          dialog.bullet[index].sprite.SetOpacity(1);
+        else
+          dialog.bullet[index].sprite.SetOpacity(0);
+      }
+  }
+
+Plymouth.SetDisplayNormalFunction(display_normal_callback);
+Plymouth.SetDisplayPasswordFunction(display_password_callback);
+
+
+#----------------------------------------- Quit --------------------------------
+
+fun quit_callback ()
+{
+  logo.sprite.SetOpacity (1);
+}
+
+Plymouth.SetQuitFunction(quit_callback);
+
+#----------------------------------------- Message --------------------------------
+
+message_sprite = Sprite();
+message_sprite.SetPosition(10, 10, 10000);
+
+fun message_callback (text)
+{
+  my_image = Image.Text(text, 1, 1, 1);
+  message_sprite.SetImage(my_image);
+}
+
+Plymouth.SetMessageFunction(message_callback);

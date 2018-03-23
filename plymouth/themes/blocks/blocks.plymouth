@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Blocks
+Description=A Russian inspired falling blocks game
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/blocks
+ScriptFile=/usr/share/plymouth/themes/blocks/blocks.script

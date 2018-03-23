@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Hydra
+Description=Hydra Plymouth Splash
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/Hydra
+ScriptFile=/lib/plymouth/themes/Hydra/hydra.script
