@@ -1,6 +1,6 @@
 [Configuration]
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
-FontName=DejaVu Sans Mono 20
+FontName=DejaVu Sans Mono 22
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBordersDefault=FALSE

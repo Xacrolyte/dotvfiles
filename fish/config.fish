@@ -10,7 +10,7 @@ source $OMF_PATH/init.fish
 #set fish_greeting I am terminal named fish. Let\'s get high/started/both.
 
 # FOR GOLANG
-set -x -U GOPATH $HOME/go
+set -x -U GOPATH $HOME
 
 #for virtualenv
 eval (python -m virtualfish )
