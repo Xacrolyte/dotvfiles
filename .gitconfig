@@ -3,3 +3,5 @@
 	name = Vipul Gupta
 [http]
 	postBuffer = 157286400
+[commit]
+	template = ~/.gitmessage
