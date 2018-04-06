@@ -12,6 +12,9 @@ source $OMF_PATH/init.fish
 # FOR GOLANG
 set -x -U GOPATH $HOME
 
+#For eyes and Redshift
+redshift -O 4200K
+
 #for virtualenv
 eval (python -m virtualfish )
 
