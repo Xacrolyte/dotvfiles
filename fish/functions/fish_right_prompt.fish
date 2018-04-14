@@ -1,3 +1,3 @@
 function fish_right_prompt --description 'Write the right of the prompt' 
-	echo ""
+	echo $ENV_NAME
 end

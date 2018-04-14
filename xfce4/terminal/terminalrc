@@ -1,6 +1,5 @@
 [Configuration]
-BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
-FontName=DejaVu Sans Mono 22
+FontName=DejaVu Sans Mono 15
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBordersDefault=FALSE
@@ -18,7 +17,8 @@ MiscTabCloseMiddleClick=TRUE
 MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
 MiscScrollAlternateScreen=TRUE
-BackgroundDarkness=0.590000
+BackgroundDarkness=0.640000
 ColorForeground=#17f018
 CommandLoginShell=TRUE
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 
