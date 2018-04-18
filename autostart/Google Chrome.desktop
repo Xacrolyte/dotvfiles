@@ -2,11 +2,11 @@
 Encoding=UTF-8
 Version=0.9.4
 Type=Application
-Name=Buckle spring
-Comment=God knows everything
-Exec=bucklespring.buckle
+Name=Google Chrome
+Comment=
+Exec=google-chrome
 OnlyShowIn=XFCE;
 StartupNotify=false
 Terminal=false
-Hidden=false
+Hidden=true
 

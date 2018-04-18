@@ -1,6 +1,10 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/vipulgupta2048/Desktop/Screenshot_2018-04-16_11-21-49.png]
+row=6
+col=0
+
 [/home/vipulgupta2048/Desktop/FInals]
 row=4
 col=0
@@ -17,9 +21,9 @@ col=0
 row=2
 col=2
 
-[/home/vipulgupta2048/Desktop/sugar stuff]
-row=3
-col=2
+[/home/vipulgupta2048/Desktop/build.log]
+row=7
+col=0
 
 [/home/vipulgupta2048/Desktop/live-image-amd64.hybrid.iso]
 row=5
@@ -29,13 +33,17 @@ col=0
 row=1
 col=3
 
-[/home/vipulgupta2048/Desktop/Screenshot_2018-04-11_12-08-19.png]
-row=6
+[/home/vipulgupta2048/Desktop/Screenshot_2018-04-18_04-32-24.png]
+row=8
 col=0
 
-[/home/vipulgupta2048/Desktop/1_R__j2J498PPImEZvLvVwTw.jpeg]
-row=7
-col=0
+[84967E1A967E0D44]
+row=0
+col=1
+
+[423B-3EAB]
+row=0
+col=2
 
 [0C827B1A827B078A]
 row=1
@@ -48,14 +56,6 @@ col=1
 [google-drive://vipulgupta2048@gmail.com/]
 row=2
 col=0
-
-[84967E1A967E0D44]
-row=0
-col=1
-
-[423B-3EAB]
-row=0
-col=2
 
 [Trash]
 row=1
