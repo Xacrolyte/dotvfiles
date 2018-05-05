@@ -80,7 +80,7 @@
       </property>
       <property name="&lt;Primary&gt;Escape" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="&lt;Super&gt;g" type="string" value="Exec=env XDG_CURRENT_DESKTOP=GNOME gnome-control-center --overview"/>
-      <property name="&lt;Super&gt;v" type="string" value="snap run vlc"/>
+      <property name="&lt;Super&gt;v" type="string" value="snap run vlc "/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
