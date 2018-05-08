@@ -9,6 +9,6 @@ Name=Redshift
 Type=Application
 Terminal=false
 X-GNOME-Autostart-enabled=true
-Exec=redshift-gtk
+Exec=redshift -O 4200K
 Comment=Color temperature adjustment tool
 

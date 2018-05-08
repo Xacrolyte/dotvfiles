@@ -32,8 +32,8 @@ def activity(repo):
     return False
 
 if __name__ == '__main__':
-    g = Github("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx")  # Enter your access token here
-    sugar_activities = g.get_organization("~~~~~~~~~~")  # Replace with organisation name
+    g = Github("94cb9120ef578a8a6412203da548b37004873485s")  # Enter your access token here
+    sugar_activities = g.get_organization("sugarlabs")  # Replace with organisation name
     file = open('Results.txt', 'w')
 
     for repo in sugar_activities.get_repos():

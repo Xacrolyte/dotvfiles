@@ -1,33 +1,57 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/vipulgupta2048/Desktop/screenshot_subversion_lock.png]
-row=6
+[/home/vipulgupta2048/Desktop/github-filefinder.py]
+row=7
 col=0
 
-[/home/vipulgupta2048/Desktop/Telegram]
-row=1
-col=3
-
-[/home/vipulgupta2048/Desktop/live-image-amd64.hybrid.iso]
-row=5
+[/home/vipulgupta2048/Desktop/FInals]
+row=4
 col=0
 
 [/home/vipulgupta2048/Desktop/groove.xspf]
 row=3
 col=1
 
-[/home/vipulgupta2048/Desktop/FInals]
-row=4
-col=0
-
 [/home/vipulgupta2048/Desktop/Desktop]
 row=3
 col=0
 
+[/home/vipulgupta2048/Desktop/repo-statuschecker.py]
+row=4
+col=1
+
 [/home/vipulgupta2048/Desktop/X desktop Stuff]
 row=2
 col=2
+
+[/home/vipulgupta2048/Desktop/script.py]
+row=8
+col=0
+
+[/home/vipulgupta2048/Desktop/screenshot_subversion_lock.png]
+row=6
+col=0
+
+[/home/vipulgupta2048/Desktop/live-image-amd64.hybrid.iso]
+row=5
+col=0
+
+[/home/vipulgupta2048/Desktop/Telegram]
+row=1
+col=3
+
+[/home/vipulgupta2048/Desktop/configparser.py]
+row=6
+col=1
+
+[/home/vipulgupta2048/Desktop/activity.info]
+row=5
+col=1
+
+[/home/vipulgupta2048/Desktop/__pycache__]
+row=7
+col=1
 
 [0C827B1A827B078A]
 row=1
@@ -48,6 +72,10 @@ col=1
 [423B-3EAB]
 row=0
 col=2
+
+[Android]
+row=8
+col=1
 
 [Trash]
 row=1
