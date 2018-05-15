@@ -504,9 +504,6 @@ fun statusHandler(status) {
 			fsck_progress_fade_sprite.SetOpacity(0);
 		}
 	}
-	
 }
-
 Plymouth.SetUpdateStatusFunction(statusHandler);
-
 /**/

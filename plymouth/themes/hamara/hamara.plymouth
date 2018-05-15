@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=Hamara, based on Bizcom Glow
+Description=Hamara logo 
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/hamara
+HorizontalAlignment=.5
+VerticalAlignment=.5
+Transition=merge-fade
+TransitionDuration=0.5
+BackgroundStartColor=0xffffff
+BackgroundEndColor=0xffffff
