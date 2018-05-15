@@ -21,6 +21,10 @@ col=0
 row=2
 col=2
 
+[/home/vipulgupta2048/Desktop/Screenshot_2018-05-14_15-47-06.png]
+row=7
+col=0
+
 [/home/vipulgupta2048/Desktop/pitching]
 row=6
 col=0
@@ -41,10 +45,6 @@ col=0
 row=1
 col=1
 
-[56CCBAA7CCBA80B3]
-row=7
-col=0
-
 [84967E1A967E0D44]
 row=0
 col=1
@@ -57,15 +57,15 @@ col=2
 row=2
 col=0
 
-[Trash]
-row=1
-col=2
+[/home/vipulgupta2048]
+row=2
+col=1
 
 [/]
 row=0
 col=0
 
-[/home/vipulgupta2048]
-row=2
-col=1
+[Trash]
+row=1
+col=2
 
