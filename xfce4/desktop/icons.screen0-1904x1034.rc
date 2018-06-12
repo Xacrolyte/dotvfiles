@@ -1,9 +1,13 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/vipulgupta2048/Desktop/workssssssssssss]
+[/home/vipulgupta2048/Desktop/Explara _ Registrations.pdf]
 row=7
 col=0
+
+[/home/vipulgupta2048/Desktop/test.txt]
+row=4
+col=1
 
 [/home/vipulgupta2048/Desktop/groove.xspf]
 row=3
@@ -13,25 +17,17 @@ col=1
 row=3
 col=0
 
-[/home/vipulgupta2048/Desktop/Narcos]
-row=4
-col=1
-
-[/home/vipulgupta2048/Desktop/Screenshot_2018-05-23_11-07-43.png]
+[/home/vipulgupta2048/Desktop/Updater]
 row=8
 col=0
 
-[/home/vipulgupta2048/Desktop/projects]
-row=6
+[/home/vipulgupta2048/Desktop/config.py]
+row=5
 col=0
 
 [/home/vipulgupta2048/Desktop/X desktop Stuff]
 row=2
 col=2
-
-[/home/vipulgupta2048/Desktop/convince.md]
-row=5
-col=0
 
 [/home/vipulgupta2048/Desktop/live-image-amd64.hybrid.iso]
 row=4
@@ -40,6 +36,10 @@ col=0
 [/home/vipulgupta2048/Desktop/Telegram]
 row=1
 col=3
+
+[/home/vipulgupta2048/Desktop/activity.info]
+row=6
+col=0
 
 [0CB471A6B47192C6]
 row=1
@@ -57,19 +57,23 @@ col=1
 row=0
 col=2
 
-[0C827B1A827B078A]
-row=1
-col=0
-
-[/home/vipulgupta2048]
-row=2
+[56CCBAA7CCBA80B3]
+row=5
 col=1
 
-[/]
-row=0
+[0C827B1A827B078A]
+row=1
 col=0
 
 [Trash]
 row=1
 col=2
+
+[/]
+row=0
+col=0
+
+[/home/vipulgupta2048]
+row=2
+col=1
 

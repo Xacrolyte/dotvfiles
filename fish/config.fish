@@ -10,7 +10,7 @@ source $OMF_PATH/init.fish
 #set fish_greeting I am terminal named fish. Let\'s get high/started/both.
 
 # Redshift
-redshift -O 4200K
+# redshift -O 4200K
 
 # FOR GOLANG
 set -x -U GOPATH $HOME

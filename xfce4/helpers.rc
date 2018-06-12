@@ -1,4 +1,4 @@
 FileManager=Thunar
-WebBrowser=custom-WebBrowser
 TerminalEmulator=debian-x-terminal-emulator
 
+WebBrowser=google-chrome

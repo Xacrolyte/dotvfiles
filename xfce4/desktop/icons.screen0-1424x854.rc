@@ -30,12 +30,16 @@ row=1
 col=3
 
 [/home/vipulgupta2048/Desktop/Screenshot_2018-06-08_23-57-08.png]
-row=3
-col=2
-
-[/home/vipulgupta2048/Desktop/activity.info]
 row=5
 col=1
+
+[/home/vipulgupta2048/Desktop/activity.info]
+row=6
+col=0
+
+[0C827B1A827B078A]
+row=1
+col=0
 
 [0CB471A6B47192C6]
 row=1
@@ -52,10 +56,6 @@ col=1
 [423B-3EAB]
 row=0
 col=2
-
-[0C827B1A827B078A]
-row=1
-col=0
 
 [Trash]
 row=1
