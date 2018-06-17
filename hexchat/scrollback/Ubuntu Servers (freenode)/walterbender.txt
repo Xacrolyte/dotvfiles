@@ -1,0 +1,158 @@
+T 1526666140 25<walterbender25>	I will be back in 5 minutes
+T 1526666218 31<2116vipulgupta204831>	Roger that.
+T 1526666533 25<walterbender25>	re The Linux Foundation, do you have a link so I can read more about what would be required by Sugar Labs?
+T 1526666550 25<walterbender25>	We of course want to be supportive of our developers
+T 1526666564 25<walterbender25>	but we don't have much by way of funding
+T 1526666569 31<2116vipulgupta204831>	I am not sure I get you. 
+T 1526666597 31<2116vipulgupta204831>	Wait, let me summarise. 
+T 1526666609 25<walterbender25>	to be honest, dealing with the oversight board is so aggravating, I have done little fundraising the last few years
+T 1526666625 25<walterbender25>	that make it too difficult for me to spend the money I raise :P
+T 1526666647 31<2116vipulgupta204831>	I understand, I just wanted to ask if it is even possible. 
+T 1526666656 31<2116vipulgupta204831>	I don't want to ask anymore of it. 
+T 1526666664 31<2116vipulgupta204831>	If it's not.
+T 1526666677 25<walterbender25>	I need to read about the program... but I imagine it is possible
+T 1526666686 31<2116vipulgupta204831>	Context is; Yes sure. 
+T 1526666735 31<2116vipulgupta204831>	The Linux Foundation is having an Open Source Summit at 
+T 1526666738 31<2116vipulgupta204831>	1. https://events.linuxfoundation.org/events/open-source-summit-japan-2018/
+T 1526666757 31<2116vipulgupta204831>	2. https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/
+T 1526666773 31<2116vipulgupta204831>	Also, 3. https://events.linuxfoundation.org/events/linux-security-summit-north-america-2018/
+T 1526666818 31<2116vipulgupta204831>	I have been selected for Scholarship (50% of Ticket fees) for attending both the events in Tokyo and Vancouver. 
+T 1526666834 25<walterbender25>	So you'd be interested in some sort of scholarship, as per https://events.linuxfoundation.org/events/open-source-summit-japan-2018/attend/scholarship-opportunities/
+T 1526666847 31<2116vipulgupta204831>	I applied there, i got the scholarship 
+T 1526666852 25<walterbender25>	great
+T 1526666855 31<2116vipulgupta204831>	Soooo
+T 1526666880 31<2116vipulgupta204831>	I can redeem the code I received and get the ticket for 50% but since the travel is so costly. 
+T 1526666889 31<2116vipulgupta204831>	You can apply for Travel Fund too. 
+T 1526666897 25<walterbender25>	Sugar Labs may be able to help some... but I will need to convince the oversight board, which is never easy
+T 1526666906 31<2116vipulgupta204831>	I have done that and my application is under processing. 
+T 1526666914 25<walterbender25>	but I can argue we should use some of the GSoC funds for this sort of thing
+T 1526666954 31<2116vipulgupta204831>	IF (BIG if) the travel fund does come through, I would need a very little amount for the remaining funds that I would need to make it to the conference.
+T 1526666984 31<2116vipulgupta204831>	I won't be able to go without it and the amount is way to big to ask. I am not like that. 
+T 1526666994 25<walterbender25>	I cannot guarantee anything but it is worth asking
+T 1526667020 25<walterbender25>	a rough estimate of how much we are talking about would be helpful
+T 1526667052 31<2116vipulgupta204831>	I would surely given it to you, If I know how much would they approve or not? 
+T 1526667097 31<2116vipulgupta204831>	For now maybe a 100-200$, I really don't know. I am sorry for being unclear regarding this. 
+T 1526667113 31<2116vipulgupta204831>	I will report to you as soon as something clears up. 
+T 1526667116 31<2116vipulgupta204831>	 
+T 1526667116 31<2116vipulgupta204831>	 
+T 1526667121 31<2116vipulgupta204831>	 Issue #2
+T 1526667133 31<2116vipulgupta204831>	Dev-sprint Issues
+T 1526667245 25<walterbender25>	I will work on some for you... when is this scheduled?
+T 1526667262 31<2116vipulgupta204831>	26th before the I/O Extended.
+T 1526667275 25<walterbender25>	soo
+T 1526667278 25<walterbender25>	soon
+T 1526667282 31<2116vipulgupta204831>	26th PyDelhi Meetup - I will send you an email. 
+T 1526667288 25<walterbender25>	I will try to work on something over the weekend
+T 1526667288 31<2116vipulgupta204831>	with all the details.
+T 1526667319 31<2116vipulgupta204831>	Don't be specific. People will dig up issues themselves. You would know how sprints work.
+T 1526667353 31<2116vipulgupta204831>	It would be around 1 pm IST to 5 pm IST, so people can be diverted here to if they have any queries.
+T 1526667361 25<walterbender25>	OK
+T 1526667371 31<2116vipulgupta204831>	 
+T 1526667371 31<2116vipulgupta204831>	 
+T 1526667377 31<2116vipulgupta204831>	Issue #3
+T 1526667387 31<2116vipulgupta204831>	Girlscript - Are we doing it?
+T 1526667439 25<walterbender25>	I'd like to speak with the organizer to find out what they are looking for...
+T 1526667455 25<walterbender25>	mentoring is a lot of work for something like that...
+T 1526667467 18*	walterbender is under water during GCI
+T 1526667515 31<2116vipulgupta204831>	I am sure, I would let one of the people hit you up regarding the same, you can discuss with them. 
+T 1526667519 31<2116vipulgupta204831>	Cool?
+T 1526667534 25<walterbender25>	yes
+T 1526667544 18*	walterbender needs to run... 
+T 1526667550 31<2116vipulgupta204831>	That's all from my side. Good Night
+T 1526667553 25<walterbender25>	please introduce us
+T 1526667559 25<walterbender25>	ttyl
+T 1526667560 31<2116vipulgupta204831>	Well, Good Morning. I will.
+T 1526667839 21«21-16-31-	21walterbender (~walter@c-73-126-75-183.hsd1.ma.comcast.net) has Quit (Ping timeout: 255 seconds21)
+T 1526672941 16»25»	Disconnected (Connection reset by peer).
+T 1526749884 25<walterbender25>	so very similar to GSoC
+T 1526749894 25<walterbender25>	we'd need to identify mentors
+T 1526749917 25<walterbender25>	do we need to come up with funds for a stipend? That will be difficult at the moment.
+T 1526750514 31<2116vipulgupta204831>	No, they got their own thing for that. 
+T 1526750520 31<2116vipulgupta204831>	No need to worry about that. 
+T 1526750544 31<2116vipulgupta204831>	That's one reason I contacted you. It works for us. It works for them. 
+T 1526750556 31<2116vipulgupta204831>	So will you filling the form ?
+T 1526750561 31<2116vipulgupta204831>	be*
+T 1526750680 25<walterbender25>	I need to think about what projects and who would mentor
+T 1526750722 31<2116vipulgupta204831>	Well, I think there would be just the thing for mentors only. 
+T 1526750731 31<2116vipulgupta204831>	We got a project. 
+T 1526750742 31<2116vipulgupta204831>	See, what my plan could be. 
+T 1526750768 31<2116vipulgupta204831>	They need mentors and They need projects. 2 seperate things. 
+T 1526750810 31<2116vipulgupta204831>	If we could define a project that needs to be done without much of Sugar Labs involvement
+T 1526750817 31<2116vipulgupta204831>	Then this will work 
+T 1526750831 31<2116vipulgupta204831>	I have, registered as a mentor already. 
+T 1526750859 31<2116vipulgupta204831>	Think about it. 
+T 1526752154 31<2116vipulgupta204831>	Also, mentors would be assigned to projects according to skill and familiarity with the topics
+T 1526758863 16»25»	Disconnected (Connection timed out).
+T 1526987532 25<walterbender25>	sure
+T 1526987663 31<2116vipulgupta204831>	So, I don't know how to go about this, I don't want anybody to look bad. 
+T 1526987675 31<2116vipulgupta204831>	But one of mentors Carlos, isn't responding. 
+T 1526987694 25<walterbender25>	I will reach out to him
+T 1526987723 31<2116vipulgupta204831>	It's probably been a week. I don't want create any problems for anyone. But I thought I should report. You being active in the project. 
+T 1526987760 31<2116vipulgupta204831>	For better communication, I proposed Whatsapp as a medium to which the mentors agreed. 
+T 1526987806 31<2116vipulgupta204831>	Lately he just sees the messages. And doesn't reponds. Abdul does, but cannot sufficiently answer the reviews that I put up. Atleast he is active. 
+T 1527873064 25<walterbender25>	OK
+T 1527873985 25<walterbender25>	tell me about the mystery script? this tony's "mess"?
+T 1527874017 31<2116vipulgupta2048_31>	yes, i think 
+T 1527874029 31<2116vipulgupta2048_31>	after ht meeting would be more appropriate
+T 1527874033 31<2116vipulgupta2048_31>	the*
+T 1527874035 31<2116vipulgupta2048_31>	:)
+T 1527874068 25<walterbender25>	we need to do a massive search to sort out these repos...
+T 1527874085 25<walterbender25>	I need to dig up the repos off my old laptop now that I am back home
+T 1527874758 31<2116vipulgupta2048_31>	Hi, should we discuss with the mentors too, I have fixed our weekly mentor meeting at this time too. 
+T 1527874776 31<2116vipulgupta2048_31>	If you are ready for a short meeting, let's head on there. 
+T 1527874797 31<2116vipulgupta2048_31>	It saves a lot of time. 
+T 1527874804 25<walterbender25>	I can join for a few minutes
+T 1527874865 31<2116vipulgupta2048_31>	Not a problem 
+T 1528481181 25<walterbender25>	I'll be around
+T 1528481406 31<2116vipulgupta2048__31>	Thanks. After the meeting, I will ping you.
+T 1528483179 31<2116vipulgupta2048__31>	ping
+T 1528483228 25<walterbender25>	pong
+T 1528483248 31<2116vipulgupta2048__31>	Right, first thing is the email I sent you. 
+T 1528483261 31<2116vipulgupta2048__31>	Any response regarding that. 
+T 1528483324 31<2116vipulgupta2048__31>	I have been doubts regarding the project. I would like to reconsult with you the aim. Because I think I am not doing everything that should be in the Pull requests.
+T 1528483342 25<walterbender25>	it is a learning process
+T 1528483356 25<walterbender25>	quozl has given you good feedback and you get better over time
+T 1528483380 18*	walterbender has lagged behind re reviews as I am really busy with a big project
+T 1528483408 25<walterbender25>	re Tony, he is just one voice, not the entire community
+T 1528483419 25<walterbender25>	he means well, but is not always in sync
+T 1528483426 31<2116vipulgupta2048__31>	No problem regarding that. I am to fix metadata of activities. Yes? 
+T 1528483439 31<2116vipulgupta2048__31>	I noticed that. Re Tony 
+T 1528483496 25<walterbender25>	he created a bunch of repos by uploading the activity bundles, losing all of the git history
+T 1528483503 25<walterbender25>	that made a big mess.
+T 1528483511 25<walterbender25>	we'll sort it out over time, I hope
+T 1528483528 25<walterbender25>	but it should not impact your project directly
+T 1528483576 31<2116vipulgupta2048__31>	That's the thing, for my peace of mind. Can you tell me what my project is? I keep going back to the tracker to see if I haven't missed something you told.
+T 1528483601 25<walterbender25>	re GSSoC, I applaud your efforts. i just hope you guys don't get overwhelmed
+T 1528483626 25<walterbender25>	re conferences, let's see what comes along
+T 1528483650 25<walterbender25>	anything else? it must be late for you?
+T 1528483657 31<2116vipulgupta2048__31>	at's the thing, for my peace of mind. Can you tell me what my project is? I keep going back to the tracker to see if I haven't missed something you told.
+T 1528483682 25<walterbender25>	you are doing fine... as you get more experience, you get more productive
+T 1528483685 25<walterbender25>	it is natural
+T 1528483711 31<2116vipulgupta2048__31>	Yes, I am aware of that. But what is the aim of the project?
+T 1528483734 25<walterbender25>	the aim? to get the repos in shape so we can support launching ASLO3
+T 1528483759 25<walterbender25>	it will make long-term maintenance be much easier for everyone (although not everyone agrees)
+T 1528483776 31<2116vipulgupta2048__31>	Got it, that's all I need. I will get back to fixing the repo's metadata for the start. 
+T 1528483800 25<walterbender25>	being the person who has (1) written the most activities; and (2) been burdened with a lot of the ASLO maintenance, I am a big advocate of this project
+T 1528483808 25<walterbender25>	I cannot sustain the old way of working
+T 1528483842 31<2116vipulgupta2048__31>	Whatever you say, walter. I would like to get it done. For the better of the community. 
+T 1528483864 25<walterbender25>	It will be a nice step forward for the community
+T 1528483877 25<walterbender25>	Re Carlos, I will speak with him, gently
+T 1528483877 31<2116vipulgupta2048__31>	Sugar Labs needs help, we are glad to be the ones providing it. That's what I told Yash as well.
+T 1528483882 31<2116vipulgupta2048__31>	Re Carlos. If you notice in the email I have left a point between 1 and 3. 
+T 1528483892 25<walterbender25>	He is not the first mentor to commit and then not have time... it happens
+T 1528483928 25<walterbender25>	but he needs to acknowledge his role going forward.
+T 1528483935 31<2116vipulgupta2048__31>	Should I mail you what you wanted?
+T 1528483955 25<walterbender25>	I think this is enough
+T 1528483958 31<2116vipulgupta2048__31>	I missed the point on purpose. So that no hard actions are taken. I don't want nothing bad for everyone
+T 1528484000 31<2116vipulgupta2048__31>	But with evaluations coming up and it's been 3 weeks with no or less contact. I and Abdul are both worried
+T 1528484006 16»25»	Disconnected (Connection reset by peer).
+T 1528484030 16»25»	Disconnected ().
+T 1528484043 28>NickServ28<	identify ****
+T 1528484043 hello
+T 1528484043 27»28»28	vipulgupta2048__ sets mode +Z vipulgupta2048__
+T 1528484043 27»28»28	vipulgupta2048__ sets mode +i vipulgupta2048__
+T 1528484049 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1528484076 31<2116vipulgupta2048__31>	Got disconnected; did you say anything?
+T 1528484122 31<2116vipulgupta2048__31>	Otherwise, I am done. Will get back to fixing some more activity.info's
+T 1528484155 31<2116vipulgupta2048__31>	Thanks walterbender for the pep talk, and for listening patiently. Really means a lot.
+T 1528484362 21«21-16-31-	21walterbender (~walter@c-73-126-75-183.hsd1.ma.comcast.net) has Quit (Ping timeout: 260 seconds21)

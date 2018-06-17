@@ -1,0 +1,9 @@
+#!/bin/bash
+
+app="nano"
+file=".nanorc"
+
+sudo apt install $app
+ln -s .nanorc ~
+
+echo "Finished installing Nano Editor"

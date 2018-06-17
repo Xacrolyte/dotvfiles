@@ -1,25 +1,13 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/vipulgupta2048/Desktop/Telegram]
-row=1
-col=3
-
-[/home/vipulgupta2048/Desktop/live-image-amd64.hybrid.iso]
+[/home/vipulgupta2048/Desktop/New File]
 row=4
-col=0
-
-[/home/vipulgupta2048/Desktop/Screenshot_2018-05-12_01-33-04.png]
-row=5
 col=0
 
 [/home/vipulgupta2048/Desktop/groove.xspf]
 row=3
 col=1
-
-[/home/vipulgupta2048/Desktop/FInals]
-row=3
-col=2
 
 [/home/vipulgupta2048/Desktop/Desktop]
 row=3
@@ -29,9 +17,21 @@ col=0
 row=2
 col=2
 
-[84967E1A967E0D44]
-row=0
+[/home/vipulgupta2048/Desktop/.nanorc]
+row=5
+col=0
+
+[/home/vipulgupta2048/Desktop/Redmi Note 4 Lineage OS]
+row=4
 col=1
+
+[/home/vipulgupta2048/Desktop/Screenshot_2018-06-28_22-58-41.png]
+row=6
+col=0
+
+[/home/vipulgupta2048/Desktop/popcorntime]
+row=7
+col=0
 
 [423B-3EAB]
 row=0
@@ -48,6 +48,10 @@ col=1
 [google-drive://vipulgupta2048@gmail.com/]
 row=2
 col=0
+
+[84967E1A967E0D44]
+row=0
+col=1
 
 [Trash]
 row=1

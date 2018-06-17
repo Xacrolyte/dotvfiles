@@ -37,7 +37,7 @@
 ; (gtk_accel_path "<Actions>/terminal-window/move-tab-right" "")
 (gtk_accel_path "<Actions>/terminal-window/goto-tab-9" "<Alt>9")
 (gtk_accel_path "<Actions>/terminal-window/goto-tab-8" "<Alt>8")
-; (gtk_accel_path "<Actions>/terminal-window/set-title" "")
+(gtk_accel_path "<Actions>/terminal-window/set-title" "<Primary>t")
 ; (gtk_accel_path "<Actions>/terminal-window/paste-selection" "")
 (gtk_accel_path "<Actions>/terminal-window/goto-tab-5" "<Alt>5")
 (gtk_accel_path "<Actions>/terminal-window/goto-tab-6" "<Alt>6")

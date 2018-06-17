@@ -2,44 +2,36 @@
 4.10.3+=true
 
 [/home/vipulgupta2048/Desktop/New File]
-row=4
-col=0
+row=3
+col=2
 
 [/home/vipulgupta2048/Desktop/groove.xspf]
 row=3
 col=1
 
+[/home/vipulgupta2048/Desktop/Season 3]
+row=0
+col=4
+
+[/home/vipulgupta2048/Desktop/Season 5]
+row=2
+col=4
+
 [/home/vipulgupta2048/Desktop/Desktop]
 row=2
 col=3
+
+[/home/vipulgupta2048/Desktop/Season 4]
+row=1
+col=4
 
 [/home/vipulgupta2048/Desktop/X desktop Stuff]
 row=2
 col=2
 
-[/home/vipulgupta2048/Desktop/.nanorc]
-row=5
-col=0
-
-[/home/vipulgupta2048/Desktop/Redmi Note 4 Lineage OS]
-row=4
-col=1
-
-[/home/vipulgupta2048/Desktop/Screenshot_2018-06-28_22-58-41.png]
-row=6
-col=0
-
-[/home/vipulgupta2048/Desktop/popcorntime]
-row=7
-col=0
-
-[423B-3EAB]
-row=0
-col=2
-
-[0C827B1A827B078A]
+[/home/vipulgupta2048/Desktop/Screenshot_2018-06-19_14-54-16.png]
 row=1
-col=0
+col=2
 
 [0CB471A6B47192C6]
 row=1
@@ -52,6 +44,14 @@ col=0
 [84967E1A967E0D44]
 row=0
 col=1
+
+[423B-3EAB]
+row=0
+col=2
+
+[0C827B1A827B078A]
+row=1
+col=0
 
 [Trash]
 row=3

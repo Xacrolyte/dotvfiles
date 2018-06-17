@@ -21,4 +21,6 @@ BackgroundDarkness=0.690000
 ColorForeground=#17f018
 CommandLoginShell=TRUE
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
+TitleMode=TERMINAL_TITLE_HIDE
+ShortcutsNoMenukey=TRUE
 

@@ -1,0 +1,51 @@
+T 1529684972 25<Pro-Panda25>	I guess you won't be able to port sugar game if you haven't worked with an activity code earlier
+T 1529685000 31<2116vipulgupta204831>	Umm.. I would really like to learn
+T 1529685022 31<2116vipulgupta204831>	My task in GSoC is although necessary but very small.
+T 1529685031 31<2116vipulgupta204831>	I like to learn more 
+T 1529685049 25<Pro-Panda25>	Great, see previous commits of port to sugargame to understand what needs to be done
+T 1529685052 31<2116vipulgupta204831>	hence thinking of helping in other projects ASAP when I am done with mine
+T 1529685072 31<2116vipulgupta204831>	Also, would sucrose do for testing and running?
+T 1529685081 25<Pro-Panda25>	yes
+T 1529685092 31<2116vipulgupta204831>	Cool, how to take a screenshot in Sugar
+T 1529685103 25<Pro-Panda25>	prnt screen button
+T 1529685111 31<2116vipulgupta204831>	It's not working. I tried that. 
+T 1529685124 25<Pro-Panda25>	Works for me...
+T 1529685142 31<2116vipulgupta204831>	Is there anything else that would work
+T 1529685163 25<Pro-Panda25>	Take a screenshot in a vm
+T 1529685337 31<2116vipulgupta204831>	Ahh.. very good idea.
+T 1529685344 31<2116vipulgupta204831>	Can I get your personal ID?
+T 1529685358 31<2116vipulgupta204831>	if I need some help, or instant messengers would do?
+T 1529685564 25<Pro-Panda25>	I check Pro-Panda[m] frequently
+T 1529685680 31<2116vipulgupta204831>	Works for me. 
+T 1529686041 25<Pro-Panda25>	Cool
+T 1529687463 21«21-16-31-	21Pro-Panda (31208d1c@gateway/web/freenode/ip.49.32.141.28) has Quit (21)
+T 1529689563 Python interface unloaded
+T 1530896174 25<Pro-Panda25>	It does work for me. I left a response on the issue
+T 1530896235 31<2116vipulgupta204831>	Where would the log be available. I work on sucrose.
+T 1530896250 31<2116vipulgupta204831>	And mine is Xubuntu 16.04
+T 1530896259 31<2116vipulgupta204831>	So not much changed.
+T 1530896278 18*	Pro-Panda comes back soon
+T 1530897117 31<2116vipulgupta204831>	Where would the log be available. I work on sucrose
+T 1530897126 25<Pro-Panda25>	Hey
+T 1530897139 25<Pro-Panda25>	~/.sugar/...... /logs
+T 1530897153 31<2116vipulgupta204831>	I was thinking whether or not to create a issue. Since I only had to take a ss
+T 1530897263 31<2116vipulgupta204831>	Found it 
+T 1530897266 31<2116vipulgupta204831>	Check it out 
+T 1530897267 31<2116vipulgupta204831>	  from gi.repository import Rsvg
+T 1530897267 31<2116vipulgupta204831>	Traceback (most recent call last):
+T 1530897267 31<2116vipulgupta204831>	  File "/usr/bin/sugar-activity", line 169, in <module>
+T 1530897267 31<2116vipulgupta204831>	    main()
+T 1530897267 31<2116vipulgupta204831>	  File "/usr/bin/sugar-activity", line 121, in main
+T 1530897267 31<2116vipulgupta204831>	    module = __import__(module_name)
+T 1530897267 31<2116vipulgupta204831>	  File "/home/vipulgupta2048/Activities/Jukebox.activity/activity.py", line 53, in <module>
+T 1530897267 31<2116vipulgupta204831>	    from player import GstPlayer
+T 1530897267 31<2116vipulgupta204831>	ImportError: cannot import name GstPlayer
+T 1530897267 31<2116vipulgupta204831>	Exited with status 1, pid 5039 data (None, <open file '<fdopen>', mode 'w' at 0x7fc75fe9a390>, 'b01b30f2fa9458fc7ca271d74dad8f7fcafa5af2')
+T 1530897286 31<2116vipulgupta204831>	GstPlayer ?
+T 1530897318 25<Pro-Panda25>	I am a bit occupied right now, get back to you later ?
+T 1530897345 31<2116vipulgupta204831>	Sure, I will post the same in the issue for your reference.
+T 1530897347 31<2116vipulgupta204831>	Works?
+T 1530897356 25<Pro-Panda25>	Cool
+T 1530897359 31<2116vipulgupta204831>	Thanks.
+T 1530897642 21«21-16-31-	21Pro-Panda (31209afc@gateway/web/freenode/ip.49.32.154.252) has Quit (21)
+T 1530904417 16»25»	Disconnected (Connection reset by peer).

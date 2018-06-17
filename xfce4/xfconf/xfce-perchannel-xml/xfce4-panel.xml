@@ -120,6 +120,7 @@
         <value type="string" value="blueman-applet"/>
         <value type="string" value="xchat-gnome"/>
         <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="anydesk"/>
         <value type="string" value="notes"/>
         <value type="string" value="parole"/>
         <value type="string" value="telegram"/>
