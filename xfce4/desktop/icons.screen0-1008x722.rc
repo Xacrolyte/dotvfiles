@@ -17,21 +17,25 @@ col=0
 row=2
 col=2
 
-[/home/vipulgupta2048/Desktop/.nanorc]
+[/home/vipulgupta2048/Desktop/note.txt]
 row=5
-col=0
+col=1
 
 [/home/vipulgupta2048/Desktop/Redmi Note 4 Lineage OS]
 row=4
 col=1
 
-[/home/vipulgupta2048/Desktop/Screenshot_2018-06-28_22-58-41.png]
-row=5
-col=1
+[/home/vipulgupta2048/Desktop/Telegram]
+row=1
+col=3
 
 [/home/vipulgupta2048/Desktop/popcorntime]
 row=3
 col=2
+
+[84967E1A967E0D44]
+row=0
+col=1
 
 [423B-3EAB]
 row=0
@@ -49,9 +53,9 @@ col=1
 row=2
 col=0
 
-[84967E1A967E0D44]
-row=0
-col=1
+[59D7-7806]
+row=5
+col=0
 
 [Trash]
 row=1

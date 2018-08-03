@@ -1,6 +1,10 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-23-57.png]
+row=4
+col=2
+
 [/home/vipulgupta2048/Desktop/New File]
 row=4
 col=0
@@ -10,51 +14,71 @@ row=3
 col=1
 
 [/home/vipulgupta2048/Desktop/Desktop]
-row=2
-col=3
+row=1
+col=2
 
 [/home/vipulgupta2048/Desktop/X desktop Stuff]
 row=2
 col=2
 
-[/home/vipulgupta2048/Desktop/.nanorc]
-row=5
+[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-21-20.png]
+row=7
+col=1
+
+[/home/vipulgupta2048/Desktop/note.txt]
+row=6
 col=0
 
 [/home/vipulgupta2048/Desktop/Redmi Note 4 Lineage OS]
 row=4
 col=1
 
-[/home/vipulgupta2048/Desktop/Screenshot_2018-06-28_22-58-41.png]
-row=6
+[/home/vipulgupta2048/Desktop/Telegram]
+row=5
+col=1
+
+[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-21-48.png]
+row=8
+col=1
+
+[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-19-41.png]
+row=8
 col=0
 
-[/home/vipulgupta2048/Desktop/popcorntime]
+[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-19-55.png]
+row=6
+col=1
+
+[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-22-29.png]
+row=3
+col=2
+
+[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-15-18.png]
 row=7
 col=0
 
-[google-drive://vipulgupta2048@gmail.com/]
-row=2
+[/home/vipulgupta2048/Desktop/popcorntime]
+row=5
 col=0
 
-[0C827B1A827B078A]
+[0CB471A6B47192C6]
 row=1
+col=1
+
+[google-drive://vipulgupta2048@gmail.com/]
+row=2
 col=0
 
 [84967E1A967E0D44]
 row=0
 col=1
 
-[0CB471A6B47192C6]
-row=1
-col=1
-
 [423B-3EAB]
 row=0
 col=2
 
-[Android]
-row=8
+[0C827B1A827B078A]
+row=1
 col=0
 
 [Trash]
