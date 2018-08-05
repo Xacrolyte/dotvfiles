@@ -1,10 +1,6 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-23-57.png]
-row=4
-col=2
-
 [/home/vipulgupta2048/Desktop/New File]
 row=4
 col=0
@@ -21,10 +17,6 @@ col=2
 row=2
 col=2
 
-[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-21-20.png]
-row=7
-col=1
-
 [/home/vipulgupta2048/Desktop/note.txt]
 row=6
 col=0
@@ -37,28 +29,16 @@ col=1
 row=5
 col=1
 
-[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-21-48.png]
-row=8
-col=1
-
-[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-19-41.png]
-row=8
-col=0
-
-[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-19-55.png]
-row=6
-col=1
-
-[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-22-29.png]
-row=3
-col=2
-
-[/home/vipulgupta2048/Desktop/Screenshot_2018-08-02_01-15-18.png]
-row=7
-col=0
-
 [/home/vipulgupta2048/Desktop/popcorntime]
 row=5
+col=0
+
+[423B-3EAB]
+row=0
+col=2
+
+[0C827B1A827B078A]
+row=1
 col=0
 
 [0CB471A6B47192C6]
@@ -72,14 +52,6 @@ col=0
 [84967E1A967E0D44]
 row=0
 col=1
-
-[423B-3EAB]
-row=0
-col=2
-
-[0C827B1A827B078A]
-row=1
-col=0
 
 [Trash]
 row=3
