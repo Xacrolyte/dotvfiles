@@ -5,19 +5,31 @@
 row=4
 col=0
 
+[/home/vipulgupta2048/Desktop/Desktop]
+row=1
+col=2
+
 [/home/vipulgupta2048/Desktop/groove.xspf]
 row=3
 col=1
 
-[/home/vipulgupta2048/Desktop/Desktop]
-row=1
-col=2
+[/home/vipulgupta2048/Desktop/config.py]
+row=6
+col=1
 
 [/home/vipulgupta2048/Desktop/X desktop Stuff]
 row=2
 col=2
 
 [/home/vipulgupta2048/Desktop/note.txt]
+row=5
+col=0
+
+[/home/vipulgupta2048/Desktop/Telegram]
+row=5
+col=1
+
+[/home/vipulgupta2048/Desktop/a.sh]
 row=6
 col=0
 
@@ -25,19 +37,31 @@ col=0
 row=4
 col=1
 
-[/home/vipulgupta2048/Desktop/Telegram]
-row=5
-col=1
-
-[/home/vipulgupta2048/Desktop/popcorntime]
-row=5
+[/home/vipulgupta2048/Desktop/vanilla.py]
+row=8
 col=0
 
-[423B-3EAB]
-row=0
-col=2
+[/home/vipulgupta2048/Desktop/ased.jpeg]
+row=7
+col=0
+
+[/home/vipulgupta2048/Desktop/__pycache__]
+row=7
+col=1
 
 [0C827B1A827B078A]
+row=8
+col=1
+
+[84967E1A967E0D44]
+row=0
+col=1
+
+[google-drive://vipulgupta2048@gmail.com/]
+row=2
+col=0
+
+[0068-00CA]
 row=1
 col=0
 
@@ -45,13 +69,9 @@ col=0
 row=1
 col=1
 
-[google-drive://vipulgupta2048@gmail.com/]
-row=2
-col=0
-
-[84967E1A967E0D44]
+[423B-3EAB]
 row=0
-col=1
+col=2
 
 [Trash]
 row=3
