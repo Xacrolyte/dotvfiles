@@ -23,4 +23,6 @@ CommandLoginShell=TRUE
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 TitleMode=TERMINAL_TITLE_HIDE
 ShortcutsNoMenukey=TRUE
+ScrollingOnOutput=FALSE
+ScrollingLines=1000000
 
