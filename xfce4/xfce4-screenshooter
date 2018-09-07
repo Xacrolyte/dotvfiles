@@ -1,8 +1,8 @@
 delay=0
 region=1
-action=3
+action=1
 show_mouse=0
 screenshot_dir=file:/home/vipulgupta2048/Desktop
-app=/usr/bin/display-im6
+app=ristretto
 last_user=
 
