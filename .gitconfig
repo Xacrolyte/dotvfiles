@@ -1,9 +1,3 @@
-[user]
-	email = vipulgupta2048@gmail.com
-	name = Vipul Gupta (@vipulgupta2048)
-[http]
-	postBuffer = 157286400
-[commit]
-	template = ~/.gitmessage
-[core]
-	editor = nano
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a8bfa7fa0000bbd9c56a790319bf8ccab4a5a4b53688199ebb9b2fc9f0e8d0
+size 293
