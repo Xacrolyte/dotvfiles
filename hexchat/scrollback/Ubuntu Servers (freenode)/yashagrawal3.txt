@@ -1,3 +1,0 @@
-T 1528533099 25<yashagrawal325>	hello
-T 1528533978 21«21-16-31-	21yashagrawal3 (~yash@2405:204:a101:2366:6cb1:d8af:28af:3851) has Quit (Ping timeout: 260 seconds21)
-T 1528537717 Python interface unloaded

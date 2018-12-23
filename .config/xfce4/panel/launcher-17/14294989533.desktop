@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd29390d9743c336fa0cdcb9bd6e1a504f5b352990a4e282f33e0e654a1ac2de
-size 331
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=exo-open --launch TerminalEmulator
+Icon=utilities-terminal
+StartupNotify=false
+Terminal=false
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+OnlyShowIn=XFCE;
+Name=Terminal Emulator
+Comment=Use the command line
+X-XFCE-Source=file:///usr/share/applications/exo-terminal-emulator.desktop

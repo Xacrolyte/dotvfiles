@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e3cd6e4a535287713f277dd6aa556c7a5473f3fccabc6ebe731bc5e22be2a510
-size 162
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=Hexchat
+Comment=
+Exec=hexchat
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=true
+

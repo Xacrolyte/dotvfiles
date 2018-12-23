@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:022756b1e79b0653c05e19a90fde627a018f015d083792cc94f424ace9afb2e2
-size 1059
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/vipulgupta2048/Desktop/a.jpeg]
+row=1
+col=4
+
+[/home/vipulgupta2048/Desktop/Gmail - Fwd_ Ticket for New Delhi - Boston return flight -- Trip ID 180822211464.pdf]
+row=0
+col=4
+
+[/home/vipulgupta2048/Desktop/light]
+row=2
+col=3
+
+[/home/vipulgupta2048/Desktop/Desktop]
+row=1
+col=2
+
+[/home/vipulgupta2048/Desktop/New File]
+row=2
+col=4
+
+[/home/vipulgupta2048/Desktop/groove.xspf]
+row=4
+col=18
+
+[/home/vipulgupta2048/Desktop/X desktop Stuff]
+row=2
+col=2
+
+[/home/vipulgupta2048/Desktop/live-image-amd64.hybrid.iso]
+row=0
+col=18
+
+[/home/vipulgupta2048/Desktop/a.sh]
+row=1
+col=3
+
+[/home/vipulgupta2048/Desktop/Telegram]
+row=3
+col=18
+
+[/home/vipulgupta2048/Desktop/Redmi Note 4 Lineage OS]
+row=0
+col=3
+
+[/home/vipulgupta2048/Desktop/hack.jpeg]
+row=1
+col=18
+
+[84967E1A967E0D44]
+row=0
+col=1
+
+[423B-3EAB]
+row=0
+col=2
+
+[0C827B1A827B078A]
+row=1
+col=0
+
+[0CB471A6B47192C6]
+row=1
+col=1
+
+[google-drive://vipulgupta2048@gmail.com/]
+row=2
+col=0
+
+[Trash]
+row=2
+col=18
+
+[/]
+row=0
+col=0
+
+[/home/vipulgupta2048]
+row=2
+col=1
+

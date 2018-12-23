@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3fed4c211cd575e75cc9c9249b8401cfcae0c9fd9b04218e4cb7a6144dc2c1e3
-size 111
+delay=0
+region=1
+action=1
+show_mouse=0
+screenshot_dir=file:/home/vipulgupta2048/Desktop
+app=nomacs
+last_user=
+

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4fe4b933eccc3899383c1d0b22d7e2ea358c2d7008fc143e251820946eac3312
-size 797
+T 1525454077 25<octamois25>	Hey Vipul
+T 1525454094 25<octamois25>	We share the same channel as sugar.
+T 1525454168 25<octamois25>	Can you please dig information about sugar-build?
+T 1525454169 25<octamois25>	It has got no maintainers right now, I am not sure it's depreciated or not.
+T 1525454196 25<octamois25>	Will you please look for me the wiki page for that?
+T 1525455317 31<2116vipulgupta2048_31>	I am not sure I get you.
+T 1525455332 31<2116vipulgupta2048_31>	I have been working over something on Sugar-build 
+T 1525455346 31<2116vipulgupta2048_31>	I don't think its depreciated. 
+T 1525455354 31<2116vipulgupta2048_31>	Hi octamois btw. 
+T 1525455420 31<2116vipulgupta2048_31>	Do ask the same on the #sugar
+T 1525455574 25<octamois25>	Cool

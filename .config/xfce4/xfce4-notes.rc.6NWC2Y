@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d37dba21d63261b6db6d57ac659369bc405c1602d20b3dbb7b6b65af2b1703e1
-size 127
+[Notes]
+PosX=1615
+PosY=31
+Width=305
+Height=968
+TabsOrder=Notes;
+LastTab=0
+Above=false
+Sticky=true
+Transparency=8
+Visible=false

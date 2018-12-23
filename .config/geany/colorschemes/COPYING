@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e011a01b85a5f96d2eefd248b9af675ab1fd0f80e6ec25131b606294aaf19592
-size 155
+Licenses
+========
+
+Each theme file (colorschemes/*.conf) contains information about the license
+which it is available under and the terms of distribution.

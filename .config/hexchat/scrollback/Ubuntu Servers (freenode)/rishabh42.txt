@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31d1c09667b6629a1aa258548f565387b7d8f40c0fdf021317f2e25f00b7ef3f
-size 1636
+T 1528477068 25<rishabh4225>	hey Vipul, how're you doing? :)
+T 1528477183 31<2116vipulgupta204831>	Hi 
+T 1528477189 31<2116vipulgupta204831>	I am doing fine. 
+T 1528478314 25<rishabh4225>	got to know recently that you're one of the organizers of GSSOC, all the best man
+T 1528478344 31<2116vipulgupta204831>	No, I am a mentor there. 
+T 1528478357 31<2116vipulgupta204831>	Thanks BTW. Are you participating as well?
+T 1528478384 31<2116vipulgupta204831>	Hey, are you Rishabh Thaney that I contacted on LinkedIn
+T 1528478404 31<2116vipulgupta204831>	I have been wondering that from the start.
+T 1528478620 25<rishabh4225>	yup :)
+T 1528478630 25<rishabh4225>	and yes, I did apply as a mentor
+T 1528478681 25<rishabh4225>	One of my seniors, Uday Upreti also told me that you guys met at Facebook dev circle, nice to connect with you
+T 1528478846 31<2116vipulgupta204831>	Nice to connect with you as well. 
+T 1528478858 31<2116vipulgupta204831>	Uday was great, It was my first meetup.
+T 1528478878 31<2116vipulgupta204831>	If you would like to meet, I manage PyDelhi. We have a meetup tomorrow. Join up
+T 1528478920 31<2116vipulgupta204831>	You can also join in the Sugar project. 
+T 1528478932 31<2116vipulgupta204831>	It's LTS for Sugar by yash 
+T 1528478993 16»25»	Disconnected ().
+T 1528479048 31<2116vipulgupta2048__31>	Hi
+T 1528484006 16»25»	Disconnected (Connection reset by peer).
+T 1528484030 16»25»	Disconnected ().
+T 1528484353 21«21-16-31-	21rishabh42 (~rishabh@182.69.139.221) has Quit (Ping timeout: 248 seconds21)

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:590e148714216f59e90aa7267dd13b12650d4c45c7b16dda501cb50d94c1445c
-size 210
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=Telegram
+Comment=
+Exec=/home/vipulgupta2048/Desktop/X desktop Stuff/Telegram
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=false
+

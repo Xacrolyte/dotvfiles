@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:820400cccb7f46ab2b4a46213285ae09a02543f9649df3911c7aaed9af144c77
-size 276
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-settings-manager" version="1.0">
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="806"/>
+    <property name="window-height" type="int" value="500"/>
+  </property>
+</channel>

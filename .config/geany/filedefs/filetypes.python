@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a43575536e82806868ee93ac6a81e14f5083734746ebadf4d3b1852d0afde778
-size 127
+[build-menu]
+FT_00_LB=_Compile
+FT_00_CM=python3 -m py_compile "%f"
+FT_00_WD=
+EX_00_LB=_Execute
+EX_00_CM=python3 "%f"
+EX_00_WD=

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e111110f7ef51aafe2c0c7e755bad837622c212bbd1b65077c9957b8341f4484
-size 460
+T 1526664610 25<vaibhavdaren25>	hahaha :D , yes 
+T 1526664623 25<vaibhavdaren25>	but there is a lot to learn :_ 
+T 1526664650 31<2116vipulgupta204831>	I call it the ' Too Much too learn Syndrome '
+T 1526664909 25<vaibhavdaren25>	hahaha :D :D 
+T 1526665838 21«21-16-31-	21vaibhavdaren (~vaibhavda@2402:3a80:9e8:6cbb:fca7:489:fb5e:7422) has Quit (Quit: Leaving21)
+T 1526672941 16»25»	Disconnected (Connection reset by peer).

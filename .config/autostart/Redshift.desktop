@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d651c3fd42abd4a6c42e3011bb3dfe620dd8a6842ff735b9214aaba24ccf894f
-size 174
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=Redshift
+Comment=
+Exec=/usr/bin/redshift
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=false
+

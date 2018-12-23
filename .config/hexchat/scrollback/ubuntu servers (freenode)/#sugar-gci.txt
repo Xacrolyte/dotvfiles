@@ -1,3 +1,272 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66d8a7dd2b97f0f52650153f6f17adc0e1efb6ce6f648917303f458111adefb4
-size 21686
+T 1544802293 16»19»	16Now talking on #sugar-gci
+T 1544802394 29<2125rishabh4229>	sure
+T 1544802569 31-21-25-29»	29iqra (27286b8d@gateway/web/freenode/ip.39.40.107.141) has Joined #sugar-gci
+T 1544802589 31-21-25-29»	29aust-n (uid319180@gateway/web/irccloud.com/x-yhblmkmqrnqwdcpd) has Joined #sugar-gci
+T 1544802595 31-21-25-29»	29jaskirat___ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Joined #sugar-gci
+T 1544802638 29<2125jaskirat___29>	Hey
+T 1544802645 21«21-16-31-	21jaskirat_ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Quit (Ping timeout: 256 seconds21)
+T 1544802845 31-21-25-29»	29bezamin (6acfc5cd@gateway/web/freenode/ip.106.207.197.205) has Joined #sugar-gci
+T 1544802870 21«21-16-31-	21bezamin (6acfc5cd@gateway/web/freenode/ip.106.207.197.205) has Quit (21)
+T 1544802933 31-21-25-29»	29benzamin (9d2face8@gateway/web/freenode/ip.157.47.172.232) has Joined #sugar-gci
+T 1544802975 31-21-25-29»	29pikurasa (~devin@fsf/member/pikurasa) has Joined #sugar-gci
+T 1544802982 29<2125pikurasa29>	hi
+T 1544803025 31<2116vipulgupta204831>	Hello everyone
+T 1544803036 29<2125jaskirat___29>	Hello everyone once again
+T 1544803137 31-21-25-29»	29vaibhavdaren (6ac71e95@gateway/web/freenode/ip.106.199.30.149) has Joined #sugar-gci
+T 1544803196 31-21-25-29»	29amaan_ (2f1d7004@gateway/web/freenode/ip.47.29.112.4) has Joined #sugar-gci
+T 1544803228 24<walterbender24>24	hello everyone
+T 1544803229 31-21-25-29»	29Hrishi_ (uid200307@gateway/web/irccloud.com/x-kvojooehlmofszyb) has Joined #sugar-gci
+T 1544803233 31-21-25-29»	29octamois (~octamois@224.29.196.35.bc.googleusercontent.com) has Joined #sugar-gci
+T 1544803239 29<2125Hrishi_29>	Hello
+T 1544803243 24<walterbender24>24	first, let me say thank you for mentoring
+T 1544803247 29<2125octamois29>	Hey Hrishi
+T 1544803252 29<2125jaskirat___29>	Hi
+T 1544803268 24<walterbender24>24	things generally went very smoothly and it could not have worked without your help.
+T 1544803270 31-21-25-29»	29MrBIOS (~aperez@216.52.21.1) has Joined #sugar-gci
+T 1544803286 31-21-25-29»	29Jackie365 (~Thunderbi@202.119.45.248) has Joined #sugar-gci
+T 1544803289 24<walterbender24>24	also a tip of the hat to ibiam for helping as the admin
+T 1544803317 24<walterbender24>24	we have to make a decision about the finalists
+T 1544803319 29<2125jaskirat___29>	thats really Awesome
+T 1544803320 29<2125Hrishi_29>	Thanks for the opportunity :)
+T 1544803353 24<walterbender24>24	I think it is pretty obvious whom are among the top 5, but not which ones are the grand prize winners.
+T 1544803357 29<2125jaskirat___29>	Thanks for this good chance
+T 1544803361 29<2125pikurasa29>	Yes, thanks for opportunity.
+T 1544803371 24<walterbender24>24	Here is my list, in no particular order: sdziuda	
+T 1544803371 24<walterbender24>24	FreddieN
+T 1544803371 24<walterbender24>24	Ashnidh
+T 1544803371 24<walterbender24>24	Austin George
+T 1544803371 24<walterbender24>24	Alejandro Garcia
+T 1544803381 24<walterbender24>24	anyone else we should be considering?
+T 1544803383 31-21-25-29»	29satellit (~satellit@c-76-28-208-105.hsd1.wa.comcast.net) has Joined #sugar-gci
+T 1544803396 24<walterbender24>24	(We actually need one more)
+T 1544803400 31-21-25-29»	29samsongoddy (~samsongod@169.159.80.213) has Joined #sugar-gci
+T 1544803408 29<2125samsongoddy29>	hello
+T 1544803417 29<2125amaan_29>	Maybe Sarthak
+T 1544803438 31-21-25-29»	29ibiam (~myirc@197.210.55.5) has Joined #sugar-gci
+T 1544803443 29<2125Hrishi_29>	walterbender: for Sarthak, +1
+T 1544803447 29<2125ibiam29>	Hi everyone
+T 1544803451 29<2125jaskirat___29>	yeah, He did good work though
+T 1544803457 29<2125ibiam29>	Was on the wrong channel
+T 1544803470 29<2125Hrishi_29>	ibiam: hi
+T 1544803481 29<2125octamois29>	Mayank or amanharitsh or nathanjacob ??
+T 1544803483 24<walterbender24>24	Anyone else, or are we satisfied with this group of 6?
+T 1544803496 29<2125ibiam29>	Hrishi_: hey
+T 1544803506 29<2125octamois29>	aryanharitsh*
+T 1544803510 29<2125Hrishi_29>	We can discuss for who octamois mentioned
+T 1544803515 29<2125ibiam29>	walterbender: I didn't get the group of six
+T 1544803516 31-21-25-29»	29iamarrow0502 (~iamarrow0@189.48.231.35.bc.googleusercontent.com) has Joined #sugar-gci
+T 1544803519 23«23-23-31-	23iamarrow0502 (~iamarrow0@189.48.231.35.bc.googleusercontent.com) has Left #sugar-gci ("The Lounge - https://thelounge.github.io"25)
+T 1544803528 29<2125Hrishi_29>	ibiam: the top 5, and one backup
+T 1544803572 24<walterbender24>24	sdziuda, FreddieN, Ashnidh, Austin, Alejandro, and Sarhak
+T 1544803579 29<2125vaibhavdaren29>	Sarthak +1, mayank singh +1
+T 1544803587 29<2125jaskirat___29>	maybe Mayank too
+T 1544803592 24<walterbender24>24	Here are my observations on these guys
+T 1544803598 29<2125pikurasa29>	The top 5 list seems right to me. I defer to others for the 6th.
+T 1544803623 24<walterbender24>24	Alejandro did great work on core Sugar stuff
+T 1544803629 29<2125Hrishi_29>	I'm fine with it.
+T 1544803642 29<2125Hrishi_29>	Yes, Alejandro did nice porting work
+T 1544803646 29<2125ibiam29>	walterbender: yeah
+T 1544803650 24<walterbender24>24	Austin did great work on Music Blocks and was a constant presence on IRC helping others
+T 1544803657 21«21-16-31-	21Jackie365 (~Thunderbi@202.119.45.248) has Quit (Quit: Jackie36521)
+T 1544803669 24<walterbender24>24	He also contributed before and after GCI
+T 1544803677 29<2125samsongoddy29>	+1
+T 1544803680 29<2125pikurasa29>	and on GH (with other issues)
+T 1544803681 31<2116vipulgupta204831>	+1
+T 1544803688 29<2125pikurasa29>	+1
+T 1544803699 31-21-25-29»	29_vaibhavdaren (~vaibhavda@119.82.82.189) has Joined #sugar-gci
+T 1544803701 29<2125octamois29>	+1 for sarthak
+T 1544803706 24<walterbender24>24	He didn't shy away from difficult tasks although he did get bogged down in one very challenging task
+T 1544803737 24<walterbender24>24	Freddie mostly worked on Sugarizer so I am not sure exactly what he did, but the work he did for Music Blocks was excellent.
+T 1544803754 24<walterbender24>24	HE also did a nice workshop (outside of GCI)
+T 1544803759 29<2125ibiam29>	Yeah
+T 1544803762 24<walterbender24>24	and continues to contribute
+T 1544803770 29<2125samsongoddy29>	Yes, he is good too
+T 1544803777 21«21-16-31-	21_vaibhavdaren (~vaibhavda@119.82.82.189) has Quit (Client Quit21)
+T 1544803781 29<2125samsongoddy29>	I saw some of his PR at www-sugar
+T 1544803782 24<walterbender24>24	sdziuda did nice work
+T 1544803796 24<walterbender24>24	what he did that I reviewed was all excellent
+T 1544803806 24<walterbender24>24	and the same with Ashnidh
+T 1544803808 29<2125vaibhavdaren29>	Alejandro did good work in many tasks
+T 1544803815 24<walterbender24>24	Yes..
+T 1544803824 29<2125Hrishi_29>	I did look at Freddie's work, it was good work
+T 1544803827 31<2116vipulgupta204831>	sdzuida +1 - the work on fixing activities was good as well
+T 1544803860 24<walterbender24>24	I think all 5 are deserving
+T 1544803866 29<2125amaan_29>	Yes
+T 1544803869 29<2125Hrishi_29>	Yes
+T 1544803869 21«21-16-31-	21jaskirat___ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Quit (Ping timeout: 256 seconds21)
+T 1544803870 24<walterbender24>24	but we need to pick 2 and one runner up
+T 1544803876 29<2125pikurasa29>	+1 for Freddie and getting out into the broader community
+T 1544803878 31-21-25-29»	29jaskirat_ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Joined #sugar-gci
+T 1544803887 29<2125samsongoddy29>	Freddie has pontential
+T 1544803896 29<2125samsongoddy29>	He is a community person
+T 1544803911 29<2125jaskirat_29>	+1
+T 1544803917 29<2125amaan_29>	+1
+T 1544803923 29<2125vaibhavdaren29>	+1
+T 1544803925 29<2125samsongoddy29>	His article demonstrate his passion
+T 1544803952 29<2125ibiam29>	I do like Frieddie's community spirit
+T 1544803991 24<walterbender24>24	seems like we are converging on Freddie as one of the finalist.
+T 1544804002 29<2125Hrishi_29>	Yes
+T 1544804009 29<2125ibiam29>	And I also like Alejandro
+T 1544804023 29<2125Hrishi_29>	ibiam: could be a viable finalist
+T 1544804026 24<walterbender24>24	yes... I also like that he did so much for core sugar
+T 1544804030 29<2125ibiam29>	He did a great job in porting some of the activities
+T 1544804031 29<2125jaskirat_29>	he was quite committed and dedicated throughout
+T 1544804055 29<2125ibiam29>	Hrishi_: I think he should be a GPW
+T 1544804079 29<2125Hrishi_29>	ibiam: +1 for that. I did review some of his work, and tested. It was great
+T 1544804080 29<2125pikurasa29>	+1 for Freddie (from my perspective, having mainly focused on MB tasks)
+T 1544804095 24<walterbender24>24	I am fine with those two.
+T 1544804109 29<2125amaan_29>	+1
+T 1544804112 29<2125iqra29>	+1
+T 1544804115 24<walterbender24>24	We do need a runner up as well...
+T 1544804117 29<2125vaibhavdaren29>	+1
+T 1544804123 29<2125octamois29>	Freddie and Alejandro are people who can become core contributors in upcoming time. They hold potential and passion at the same time. If they can look for solution and reach to answers, they earned this.
+T 1544804128 29<2125Hrishi_29>	Austin did really good MB work.
+T 1544804169 24<walterbender24>24	I am biased towards Austin because I worked closely with him... but I would like to hear more about sdziuda and Ashnidh
+T 1544804183 24<walterbender24>24	The little I interacted with them was very positive
+T 1544804246 31-21-25-29»	29jaskirat___ (01bbfb59@gateway/web/freenode/ip.1.187.251.89) has Joined #sugar-gci
+T 1544804275 29<2125Hrishi_29>	Confused between them
+T 1544804275 31<2116vipulgupta204831>	sdziuda worked on some activities fixing metadata of activities. Which was good. 
+T 1544804311 21«21-16-31-	21jaskirat_ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Quit (Ping timeout: 256 seconds21)
+T 1544804312 31<2116vipulgupta204831>	The person worked on feedback and gave results. 
+T 1544804335 29<2125ibiam29>	I like what Austin did in MB
+T 1544804353 29<2125ibiam29>	Didn't really good work
+T 1544804360 29<2125ibiam29>	*Did
+T 1544804396 24<walterbender24>24	I have to say that Austin pushed himself the farthest in terms of coding...
+T 1544804417 29<2125ibiam29>	Yeah
+T 1544804422 24<walterbender24>24	but sdziuda did some very nice projects...
+T 1544804451 29<2125samsongoddy29>	Austin was great on the coding part
+T 1544804457 29<2125samsongoddy29>	I saw his work
+T 1544804475 31<2116vipulgupta204831>	We can also look from the community perspective and the long term. Consider those factors too about them. 
+T 1544804489 31<2116vipulgupta204831>	Did they show any promise in that field
+T 1544804508 24<walterbender24>24	Ashnidh too...
+T 1544804524 29<2125samsongoddy29>	For community wise
+T 1544804528 24<Hrishi_24>24	vipulgupta2048: that would most likely be all the finalists
+T 1544804543 29<2125jaskirat___29>	vivipulgupta2048, It is tough to say because hardly the contributor remain sustained with the org
+T 1544804564 31-21-25-29»	29perrie (~perriefid@197.210.53.214) has Joined #sugar-gci
+T 1544804573 29<2125perrie29>	Hi
+T 1544804577 24<walterbender24>24	By that metric, I need to go with Austin as the runner up...
+T 1544804580 29<2125samsongoddy29>	welcome perrie
+T 1544804590 24<walterbender24>24	he has not slowed down at all since GCI ended
+T 1544804595 29<2125ibiam29>	walterbender: +1
+T 1544804599 24<walterbender24>24	(neither has Freddie)
+T 1544804607 29<2125Hrishi_29>	walterbender: I would still select Austin as gpw
+T 1544804619 29<2125vaibhavdaren29>	walterbender: +1
+T 1544804622 24<walterbender24>24	I am not sure...
+T 1544804644 24<walterbender24>24	I am happy with Freddie and Alejandro too.
+T 1544804661 29<2125ibiam29>	Yeah
+T 1544804662 29<2125samsongoddy29>	Seems like a tough call
+T 1544804682 24<walterbender24>24	BTW, I think #6 should be Sarthak
+T 1544804697 24<walterbender24>24	I just reviewed his work and he has a few gems
+T 1544804705 29<2125perrie29>	Sorry I’m late
+T 1544804706 24<walterbender24>24	and he did a workshop as well
+T 1544804727 24<walterbender24>24	perrie: any one stand out for you whom we should consider?
+T 1544804732 29<2125jaskirat___29>	yup that is considerable as the passion towards the community
+T 1544804829 29<2125jaskirat___29>	.
+T 1544804856 23«25-23-31-	23aust-n (uid319180@gateway/web/irccloud.com/x-yhblmkmqrnqwdcpd) has Left #sugar-gci
+T 1544804878 16»24»24	Hrishi_ was Austin reading messages?
+T 1544804892 29<2125pikurasa29>	yes, how long?
+T 1544804900 29<2125amaan_29>	??
+T 1544804902 29<2125perrie29>	Freddie
+T 1544804906 29<2125perrie29>	Austin
+T 1544804912 24<walterbender24>24	he just apologized to me...
+T 1544804918 24<walterbender24>24	he was here by mistake
+T 1544804919 29<2125pikurasa29>	I would assume unintentional.
+T 1544804930 29<2125pikurasa29>	Prob on devel mailing list
+T 1544804937 24<walterbender24>24	yes
+T 1544805000 29<2125pikurasa29>	Any other students here?
+T 1544805013 24<walterbender24>24	I don't think so...
+T 1544805019 31-21-25-29»	29Mayank8055 (2f1f9605@gateway/web/freenode/ip.47.31.150.5) has Joined #sugar-gci
+T 1544805026 29<2125samsongoddy29>	who is benzamin?
+T 1544805030 29<2125ibiam29>	Yeah
+T 1544805038 29<2125ibiam29>	And Mayank8055
+T 1544805041 29<2125samsongoddy29>	Yeah
+T 1544805043 23«25-23-31-	23Mayank8055 (2f1f9605@gateway/web/freenode/ip.47.31.150.5) has Left #sugar-gci
+T 1544805073 29<2125samsongoddy29>	Seems like Mayank8055 just left
+T 1544805194 29<2125pikurasa29>	Should we move into another channel?
+T 1544805197 24<walterbender24>24	where are we?
+T 1544805205 29<2125samsongoddy29>	this is the safest
+T 1544805214 29<2125samsongoddy29>	I think
+T 1544805219 29<2125ibiam29>	We were talking about Sarthak
+T 1544805249 24<walterbender24>24	@pikurasa, Sarthak did the Mozart in the Jungle project :)
+T 1544805302 29<2125pikurasa29>	Yes, that was a good project.
+T 1544805327 24<walterbender24>24	let me check in with Lionel re the Sugarizer tasks
+T 1544805341 24<walterbender24>24	but I think we are close to consensus:
+T 1544805371 24<walterbender24>24	Alejandro and FreddieN as GPW
+T 1544805381 24<walterbender24>24	Austin as Runner up
+T 1544805394 29<2125amaan_29>	+1
+T 1544805403 29<2125jaskirat___29>	this sounds good
+T 1544805404 24<walterbender24>24	Sdziuda, Ashnidh, and Sarthak as finalists
+T 1544805411 29<2125samsongoddy29>	+1 for me
+T 1544805413 31<2116vipulgupta204831>	Sounds good 
+T 1544805416 31-21-25-29»	29llaske (~llaske@163.5.55.25) has Joined #sugar-gci
+T 1544805417 29<2125iqra29>	+1
+T 1544805420 29<2125rishabh4229>	+1
+T 1544805424 29<2125vaibhavdaren29>	+1
+T 1544805432 29<2125Hrishi_29>	Still confused about Austin and Freddie, both were neck and neck
+T 1544805433 31<2116vipulgupta204831>	llaske, is here.
+T 1544805454 29<2125llaske29>	Hi, sorry I was on the wrong channel
+T 1544805458 29<2125pikurasa29>	From my vantage point Austin was doing more complex tasks
+T 1544805460 29<2125Hrishi_29>	I would leave GPW selection to others
+T 1544805463 29<2125ibiam29>	Hrishi_: yeah
+T 1544805464 29<2125pikurasa29>	hi llaske
+T 1544805481 29<2125llaske29>	For me GPW is clearly Freddie
+T 1544805494 29<2125perrie29>	Yeah pikurasa
+T 1544805500 29<2125samsongoddy29>	Seems like Freddie should be on it
+T 1544805501 29<2125ibiam29>	*me Hrishi about the difficulty between Freddie and Austin
+T 1544805503 29<2125llaske29>	For the quality and quantity of this work
+T 1544805516 29<2125llaske29>	but also his attitude
+T 1544805521 29<2125llaske29>	he help others
+T 1544805528 29<2125ibiam29>	Yeah
+T 1544805532 29<2125llaske29>	on few tasks
+T 1544805534 24<walterbender24>24	llaske, we are mulling over these 6 as finalists: Alejandro, FreddieN, Austin, Sdziuda, Ashnidh, and Sarthak
+T 1544805630 24<walterbender24>24	any additional input on any of these would be helpful.
+T 1544805641 29<2125llaske29>	I'm looking on it
+T 1544805680 24<walterbender24>24	MrBIOS, did you interact with any of these students?
+T 1544805711 29<2125llaske29>	Sdziuda did a good work too but the quality of code is average
+T 1544805812 29<2125llaske29>	I've worked very few with Ashnidh. But the work he did on Sugarizer was good
+T 1544805840 31-21-25-29»	29aust-n (uid319180@gateway/web/irccloud.com/x-yhblmkmqrnqwdcpd) has Joined #sugar-gci
+T 1544805842 29<2125llaske29>	No opinion on Alejandro
+T 1544805845 29<2125samsongoddy29>	forgive me for leaving, I have to catch up with something
+T 1544805848 23«25-23-31-	23aust-n (uid319180@gateway/web/irccloud.com/x-yhblmkmqrnqwdcpd) has Left #sugar-gci
+T 1544805858 24<walterbender24>24	ok
+T 1544805880 29<2125llaske29>	No opinion on Austin
+T 1544805886 24<walterbender24>24	Let me take the list of 6 and review their work again over the weekend
+T 1544805910 24<walterbender24>24	but I think we have a solid group to choose from and all a deserving
+T 1544805933 29<2125amaan_29>	Yes
+T 1544805939 29<2125perrie29>	 Yeah
+T 1544805940 31<2116vipulgupta204831>	+1
+T 1544805946 29<2125iqra29>	+1
+T 1544805952 29<2125vaibhavdaren29>	yes
+T 1544805952 24<walterbender24>24	I will report back before submitting the results to Google.
+T 1544805953 29<2125llaske29>	Sarthak did limited work on my side
+T 1544805959 16»24»24	pikurasa needs to excuse myself. Thank you all!
+T 1544805961 21«21-16-31-	21samsongoddy (~samsongod@169.159.80.213) has Quit (Remote host closed the connection21)
+T 1544805961 29<2125pikurasa29>	+1
+T 1544805966 29<2125Hrishi_29>	Alright
+T 1544805968 21«21-16-31-	21pikurasa (~devin@fsf/member/pikurasa) has Quit (Quit: Leaving.21)
+T 1544805980 29<2125jaskirat___29>	+1
+T 1544805984 24<walterbender24>24	Feel free so send me feedback by email.
+T 1544805999 24<walterbender24>24	thanks again everyone for help with mentoring.
+T 1544806022 29<2125Hrishi_29>	Welcome and thanks everyone for supporting GCI
+T 1544806083 29<2125jaskirat___29>	sure...Thanks a lot for this wonder opportunity again to help students
+T 1544806103 29<2125iqra29>	Thanks for being given the opportunity
+T 1544806161 29<2125vaibhavdaren29>	A great journey with GCI. thanks for opportunity
+T 1544806203 31-21-25-29»	29Shivam_7557 (~kuthar805@47.31.137.236) has Joined #sugar-gci
+T 1544806241 29<2125ibiam29>	Thanks everyone for mentoring
+T 1544806277 29<2125jaskirat___29>	Thanks a lot ibiam and walterbender
+T 1544806291 29<2125perrie29>	Thanks everyone
+T 1544806318 29<2125rishabh4229>	Thanks a lot to everyone!
+T 1544806324 21«21-16-31-	21iqra (27286b8d@gateway/web/freenode/ip.39.40.107.141) has Quit (Quit: Page closed21)
+T 1544806573 21«21-16-31-	21rishabh42 (~rishabh@182.68.222.99) has Quit (Quit: Leaving21)
+T 1544806629 21«21-16-31-	21vaibhavdaren (6ac71e95@gateway/web/freenode/ip.106.199.30.149) has Quit (Quit: Page closed21)
+T 1544806679 31-21-25-29»	29MrBIOS___2 (568b6b19@gateway/web/freenode/ip.86.139.107.25) has Joined #sugar-gci
+T 1544806696 21«21-16-31-	21MrBIOS___2 (568b6b19@gateway/web/freenode/ip.86.139.107.25) has Quit (Client Quit21)
+T 1544806744 23«25-23-31-	23amaan_ (2f1d7004@gateway/web/freenode/ip.47.29.112.4) has Left #sugar-gci
+T 1544806782 31-21-25-29»	29sarthak98962 (568b6b19@gateway/web/freenode/ip.86.139.107.25) has Joined #sugar-gci
+T 1544806798 23«23-23-31-	23ibiam (~myirc@197.210.55.5) has Left #sugar-gci ("Quit"25)
+T 1544807231 21«21-16-31-	21perrie (~perriefid@197.210.53.214) has Quit (Quit: Mutter: www.mutterirc.com21)
+T 1544807673 23«25-23-31-	23MrBIOS (~aperez@216.52.21.1) has Left #sugar-gci
+T 1544807983 21«21-16-31-	21benzamin (9d2face8@gateway/web/freenode/ip.157.47.172.232) has Quit (Ping timeout: 256 seconds21)
+T 1544808248 21«21-16-31-	21llaske (~llaske@163.5.55.25) has Quit (Remote host closed the connection21)
+T 1544808417 23«23-23-31-	23walterbender (~walter@c-73-126-75-183.hsd1.ma.comcast.net) has Left #sugar-gci ("Leaving"25)
+T 1544808951 21«21-16-31-	21sarthak98962 (568b6b19@gateway/web/freenode/ip.86.139.107.25) has Quit (Quit: Page closed21)

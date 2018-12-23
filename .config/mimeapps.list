@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:77edd3aa677ae37257b069f0d3a1ed6bcc44fb7c0fbfe3bbafc9aa691cbf125b
-size 1659
+[Added Associations]
+text/plain=mousepad.desktop;appimagekit-staruml.desktop;
+application/x-ipynb+json=mousepad.desktop;
+text/x-python=mousepad.desktop;atom.desktop;geany.desktop;
+image/jpeg=nomacs.desktop;firefox.desktop;ristretto.desktop;
+video/mp4=vlc.desktop;
+video/x-msvideo=vlc.desktop;
+text/markdown=remarkable.desktop;code.desktop;mousepad.desktop;
+application/x-sharedlib=exo-file-manager.desktop;
+application/x-xz-compressed-tar=engrampa.desktop;
+application/pdf=atril.desktop;
+image/svg+xml=firefox.desktop;
+text/html=exo-web-browser.desktop;atom.desktop;geany.desktop;firefox.desktop;google-chrome.desktop;
+image/png=nomacs.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+text/x-matlab=mousepad.desktop;
+application/x-java-pack200=exo-file-manager.desktop;
+text/x-copying=mousepad.desktop;
+application/javascript=code.desktop;mousepad.desktop;
+application/json=mousepad.desktop;
+application/octet-stream=exo-file-manager.desktop;
+application/msword=libreoffice-writer.desktop;
+video/x-matroska=vlc.desktop;
+application/xspf+xml=vlc.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-startcenter.desktop;engrampa.desktop;
+audio/mpeg=vlc.desktop;
+application/zip=engrampa.desktop;
+text/x-log=mousepad.desktop;
+application/rtf=libreoffice-writer.desktop;
+text/x-scss=mousepad.desktop;
+text/css=code.desktop;geany.desktop;atom.desktop;
+application/x-shellscript=mousepad.desktop;
+inode/symlink=exo-file-manager.desktop;
+
+[Default Applications]
+x-scheme-handler/tg=telegramdesktop.desktop
+image/png=nomacs.desktop
+text/markdown=remarkable.desktop

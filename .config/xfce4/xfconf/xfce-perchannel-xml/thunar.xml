@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ec7157e4181c3812704214453895771fcd07d7195fcc0f066c2d6445ef69a74
-size 943
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="thunar" version="1.0">
+  <property name="misc-volume-management" type="empty"/>
+  <property name="shortcuts-icon-size" type="string" value="THUNAR_ICON_SIZE_SMALLER"/>
+  <property name="last-view" type="string" value="ThunarIconView"/>
+  <property name="last-icon-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_LARGE"/>
+  <property name="last-window-maximized" type="bool" value="false"/>
+  <property name="last-show-hidden" type="bool" value="true"/>
+  <property name="misc-single-click" type="bool" value="false"/>
+  <property name="last-separator-position" type="int" value="170"/>
+  <property name="last-window-width" type="int" value="958"/>
+  <property name="last-window-height" type="int" value="1021"/>
+  <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
+  <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
+</channel>

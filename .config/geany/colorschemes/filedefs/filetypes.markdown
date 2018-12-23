@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76b1770976817d230257e4f8990f35c22d4a0fdd6a362039d549f671cf3e781d
-size 594
+# For complete documentation of this file, please see Geany's main documentation
+[styling]
+# Edit these in the colorscheme .conf file intead
+default=default
+strong=string_3
+emphasis=string_4
+header1=keyword_1
+header2=keyword_1
+header3=keyword_1
+header4=keyword_1
+header5=keyword_1
+header6=keyword_1
+ulist_item=tag_unknown
+olist_item=tag_unknown
+blockquote=tag_unknown
+strikeout=tag_unknown
+hrule=tag_unknown
+link=keyword_1
+code=attribute_unknown
+codebk=attribute_unknown
+
+[settings]
+# default extension used when saving files
+extension=mdml
+
+# sort tags by appearance
+symbol_list_sort_mode=1
+
+

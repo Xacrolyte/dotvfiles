@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a784d3cc958eb2840c4eaf0ae48d5b17b04d1bb8609adffb4507db9ceadff3ba
-size 3131
+T 1526665962 25<JatinD[noreply]25>	hey
+T 1526665989 31<2116vipulgupta204831>	Hi 
+T 1526665994 31<2116vipulgupta204831>	Good meeting I guess. 
+T 1526666036 31<2116vipulgupta204831>	Hey, can you come to Pydelhi on 26th
+T 1526666037 31<2116vipulgupta204831>	?
+T 1526666078 25<JatinD[noreply]25>	Yes, meeting was good.
+T 1526666080 25<JatinD[noreply]25>	I was about to ask you the dates.
+T 1526666096 31<2116vipulgupta204831>	We are still looking for a venue
+T 1526666103 31<2116vipulgupta204831>	We are not able to find one. 
+T 1526666106 28»18»	Offering DCC CHAT to JatinD[noreply]
+T 1526666127 31<2116vipulgupta204831>	Do you know of a venue that we can take?
+T 1526666144 25<JatinD[noreply]25>	I won't be able to attend.
+T 1526666145 25<JatinD[noreply]25>	I have exam and interview for masters at IIITD on 5 June. So, chances are slim.
+T 1526666155 25<JatinD[noreply]25>	I can ask my college professor, our college hosted two events of pydelhi
+T 1526666178 31<2116vipulgupta204831>	You are from IIITD
+T 1526666183 31<2116vipulgupta204831>	Yes, we have. 
+T 1526666192 31<2116vipulgupta204831>	I have attended as well, Women Who Go
+T 1526666194 25<JatinD[noreply]25>	no
+T 1526666200 25<JatinD[noreply]25>	DU
+T 1526666208 31<2116vipulgupta204831>	Which college?
+T 1526666217 25<JatinD[noreply]25>	Ramanujan College
+T 1526666248 31<2116vipulgupta204831>	Ahhh recently we had Hyperledger there. Blockchain meetup 
+T 1526666259 31<2116vipulgupta204831>	Can you send me a POC for Ramanujan College 
+T 1526666265 31<2116vipulgupta204831>	if you have one?
+T 1526666284 25<JatinD[noreply]25>	Kalkaji,
+T 1526666285 25<JatinD[noreply]25>	Akshay (Kiwi guy?)  and others know professors there
+T 1526666293 25<JatinD[noreply]25>	POC ?
+T 1526666293 25<JatinD[noreply]25>	Proof of concept ?
+T 1526666445 31<2116vipulgupta204831>	Point of Contact
+T 1526666449 31<2116vipulgupta204831>	:>
+T 1526666461 25<JatinD[noreply]25>	Oh
+T 1526666493 25<JatinD[noreply]25>	nikhilrajput@gmail.com  - Nikhil Sir
+T 1526666519 25<JatinD[noreply]25>	pathak.sahil@gmail.com ,pathak.sahil@ramanujan.du.ac.in  - Sahil Sir
+T 1526666545 31<2116vipulgupta204831>	Yes we got nikhil sir already.
+T 1526666561 25<JatinD[noreply]25>	Cool.
+T 1526666575 25<JatinD[noreply]25>	Let me know if I can be of any help.
+T 1526666618 25<JatinD[noreply]25>	Also, I think, by next week magenta line will open and nearest metro station will be nehru enclave
+T 1526666667 25<JatinD[noreply]25>	For Now nearest metro is Nehru Place, which involves 15-20 mins of walking.
+T 1526666668 25<JatinD[noreply]25>	Nehru enclave (yet to be open) is much much closer
+T 1526666704 25<JatinD[noreply]25>	Time to sign off.
+T 1526666705 25<JatinD[noreply]25>	Bye.
+T 1526666705 25<JatinD[noreply]25>	We can continue this over hangouts.
+T 1526667157 31<2116vipulgupta204831>	Bye. 
+T 1526667161 31<2116vipulgupta204831>	Thanks for all the help
+T 1526672941 16»25»	Disconnected (Connection reset by peer).

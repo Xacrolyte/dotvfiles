@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21643e54ea65506b82b9dea5c046c3af508750f67af585a3dd98de0aebb4a1dc
-size 3302
+T 1527839830 25<Jaskirat__25>	Hi
+T 1527839851 31<2116vipulgupta204831>	Hi
+T 1527839931 25<Jaskirat__25>	Well, its been long that we have been spreading the word "Open Source" but now its time to put are saying on Actions. I would love to discuss with this with you that we are building up an Organisation named as "FOSSWorld" after interacting with lots of people around this globe. In this we are just focusing on building up a project named as FOSSWorld Social Platform which is similar to the Facebook and this
+T 1527839931 25<Jaskirat__25>	platform will connect all the Open Source people around who all are expert in there fields and have been contributing to open Source since long . By this platform we are trying to build up an Unity of Open Source.
+T 1527839931 25<Jaskirat__25>	 Its an Open source Non-profit organisation which seeks to help poor people who have great potential to contribute to open source and this platform connects all people who are different expert in there fields which helps newcomers to give an appropiate path like where to contribute ? What yo contribute ? How to contribute !?Apart  from this we were also working on various Open Source Software within this platform
+T 1527839931 25<Jaskirat__25>	like one we took as a major project which is known as Contributor Tracker.
+T 1527839932 25<Jaskirat__25>	Description - as we know there a re loads of people who contribute to Open Source Software within Open Source Organisations. but while contributing many organisations lose there potential contributors because wither the contributor finds difficulty in that or does not get an appropriate path so for this we have thought of an idea like a badge which will appear on Contributor profile and when a contributor does not
+T 1527839933 25<Jaskirat__25>	come in touch with any potential organisation to which he/she is contributing then that badge will get fades away or change then organisation can reach to them and ask them and help them . It would also reduce the burden on maintainers maintaining the various projects.
+T 1527839933 25<Jaskirat__25>	 Like these projects we are building more which does not exist !!! And are useful to many other organisations around the world
+T 1527839933 25<Jaskirat__25>	If you are intersted join us here
+T 1527839933 25<Jaskirat__25>	https://join.slack.com/t/fossworld/shared_invite/enQtMzcxOTQwNzE4NzcxLWEyNzUxYjI0ZThiNWUyYWI5MzJlMTNmODMxN2NjMTcxODJkZmFhNTVkYmUyOTQ1YzgzNTlmMTVkYzVhMzdmNTQ
+T 1527839934 25<Jaskirat__25>	This is the link where all people are contributing to our project
+T 1527839934 25<Jaskirat__25>	I am sorry this will take your bit time to read
+T 1527839935 25<Jaskirat__25>	We are just looking for sponsors as it gonna be international based and i think Pucho would help us to be our sponsor.
+T 1527839935 25<Jaskirat__25>	Probably Google would also help us as we are in regular meeting with them.
+T 1527839936 25<Jaskirat__25>	Thanks we are looking forward to it.
+T 1527842525 31<2116vipulgupta204831>	I will surely join up 
+T 1527842526 31<2116vipulgupta204831>	Thanks
+T 1527847272 25<Jaskirat__25>	Hey you there ?
+T 1527855241 16»25»	Disconnected (Connection reset by peer).
+T 1527855403 Python interface unloaded

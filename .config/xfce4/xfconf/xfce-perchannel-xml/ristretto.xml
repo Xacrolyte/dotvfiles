@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:110234321f1fee4c5d229ef1bdf4c75628c50b82957e3471f097ef8ec4c8f54a
-size 380
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="ristretto" version="1.0">
+  <property name="window" type="empty">
+    <property name="navigationbar" type="empty">
+      <property name="position" type="string" value="left"/>
+    </property>
+    <property name="height" type="uint" value="1022"/>
+    <property name="width" type="uint" value="958"/>
+  </property>
+</channel>

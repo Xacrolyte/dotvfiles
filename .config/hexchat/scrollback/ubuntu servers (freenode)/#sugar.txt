@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ebf88d24de950f7030aa47755947e97255bce85298cf6cdfceb23bd514b2777
-size 6073
+T 1544213735 16»19»	16Now talking on #sugar
+T 1544213735 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1544213735 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1544213735 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1544213735 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1544214086 31-21-25-29»	29iqra (~Mutter@39.40.136.146) has Joined #sugar
+T 1544214267 21«21-16-31-	21iqra (~Mutter@39.40.136.146) has Quit (Client Quit21)
+T 1544214969 31-21-25-29»	29iqra (~Mutter@39.40.136.146) has Joined #sugar
+T 1544215146 21«21-16-31-	21iqra (~Mutter@39.40.136.146) has Quit (Client Quit21)
+T 1544215217 21«21-16-31-	21samsongoddy (~samsongod@169.159.86.242) has Quit (Remote host closed the connection21)
+T 1544215322 31-21-25-29»	29samsongoddy (~samsongod@169.159.86.242) has Joined #sugar
+T 1544215341 29<2125aust-n29>	hello walterbender
+T 1544215710 24<walterbender24>24	aust-n, hi. Sorry. I didn't have time to look at logo this morning. Maybe tonight.
+T 1544215748 29<2125aust-n29>	no worries, take as much time as you need
+T 1544215827 24<walterbender24>24	Managed to get buried in work for my Day Job.
+T 1544215984 29<2125aust-n29>	Out of interest, is everyone at SL contributing outside of their full time job i.e. when they have the time (other than Quozl)?
+T 1544216041 24<@Quozl24>24	aust-n: nobody else has told me they are paid to work on Sugar Labs software; on the other hand perhaps Lionel is compensated by app sales or advertising somehow, I've not asked.
+T 1544216158 24»24»	24<walterbender24>24 has done consulting in the past, but not for many years...
+T 1544218423 21«21-16-31-	21amaan_iqbal9 (9d2a33b1@gateway/web/freenode/ip.157.42.51.177) has Quit (Ping timeout: 256 seconds21)
+T 1544802036 16»19»	16Now talking on #sugar
+T 1544802036 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1544802036 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1544802036 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1544802570 31-21-25-29»	29jaskirat___ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Joined #sugar
+T 1544802645 21«21-16-31-	21jaskirat_ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Quit (Ping timeout: 256 seconds21)
+T 1544802651 31-21-25-29»	29vaibhavdaren (6adfbe35@gateway/web/freenode/ip.106.223.190.53) has Joined #sugar
+T 1544802834 31-21-25-29»	29pikurasa (~devin@fsf/member/pikurasa) has Joined #sugar
+T 1544802870 21«21-16-31-	21bezamin (6acfc5cd@gateway/web/freenode/ip.106.207.197.205) has Quit (21)
+T 1544802963 31-21-25-29»	29benzamin (9d2face8@gateway/web/freenode/ip.157.47.172.232) has Joined #sugar
+T 1544803051 31-21-25-29»	29ashnidh_ (~webchat@rev-18-85-44-69.sugarlabs.org) has Joined #sugar
+T 1544803053 21«21-16-31-	21vaibhavdaren (6adfbe35@gateway/web/freenode/ip.106.223.190.53) has Quit (Ping timeout: 256 seconds21)
+T 1544803078 21«21-16-31-	21ashnidh_ (~webchat@rev-18-85-44-69.sugarlabs.org) has Quit (Client Quit21)
+T 1544803091 21«21-16-31-	21ashnidh (~webchat@rev-18-85-44-69.sugarlabs.org) has Quit (Ping timeout: 244 seconds21)
+T 1544803102 31-21-25-29»	29ashnidh (~webchat@rev-18-85-44-69.sugarlabs.org) has Joined #sugar
+T 1544803187 31-21-25-29»	29Hrishi_ (uid200307@gateway/web/irccloud.com/x-kvojooehlmofszyb) has Joined #sugar
+T 1544803285 31-21-25-29»	29samsongoddy (~androirc@169.159.80.213) has Joined #sugar
+T 1544803285 21«21-16-31-	21samsongoddy (~androirc@169.159.80.213) has Quit (Remote host closed the connection21)
+T 1544803386 31-21-25-29»	29samsongoddy (~samsongod@169.159.80.213) has Joined #sugar
+T 1544803633 31-21-25-29»	29joeloedinho (29cadbf1@gateway/web/freenode/ip.41.202.219.241) has Joined #sugar
+T 1544803869 21«21-16-31-	21jaskirat___ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Quit (Ping timeout: 256 seconds21)
+T 1544804419 31-21-25-29»	29perrie (~perriefid@197.210.53.214) has Joined #sugar
+T 1544804774 31-21-25-29»	29rishabh42 (~rishabh@182.68.222.99) has Joined #sugar
+T 1544805961 21«21-16-31-	21samsongoddy (~samsongod@169.159.80.213) has Quit (Remote host closed the connection21)
+T 1544805968 21«21-16-31-	21pikurasa (~devin@fsf/member/pikurasa) has Quit (Quit: Leaving.21)
+T 1544805995 31-21-25-29»	29samsongoddy (~samsongod@169.159.80.213) has Joined #sugar
+T 1544806507 21«21-16-31-	21samsongoddy (~samsongod@169.159.80.213) has Quit (Ping timeout: 240 seconds21)
+T 1544806535 31-21-25-29»	29Shivam_7557 (~kuthar805@47.31.137.236) has Joined #sugar
+T 1544806573 21«21-16-31-	21rishabh42 (~rishabh@182.68.222.99) has Quit (Quit: Leaving21)
+T 1544806580 31-21-25-29»	29jaskirat___ (01bbfb59@gateway/web/freenode/ip.1.187.251.89) has Joined #sugar
+T 1544806728 23«25-23-31-	23amaan_ (2f1d7004@gateway/web/freenode/ip.47.29.112.4) has Left #sugar
+T 1544806909 21«21-16-31-	21ashnidh (~webchat@rev-18-85-44-69.sugarlabs.org) has Quit (Quit: #sugar-meeting21)
+T 1544807231 21«21-16-31-	21perrie (~perriefid@197.210.53.214) has Quit (Quit: Mutter: www.mutterirc.com21)
+T 1544807983 21«21-16-31-	21benzamin (9d2face8@gateway/web/freenode/ip.157.47.172.232) has Quit (Ping timeout: 256 seconds21)
+T 1544808248 21«21-16-31-	21llaske (~llaske@163.5.55.25) has Quit (Remote host closed the connection21)

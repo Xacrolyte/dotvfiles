@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75eb920b53d349db517302dfdd0c87b7f6203c268fef9da84eb0bc4624bfb8b6
-size 127
+[Notes]
+PosX=1615
+PosY=31
+Width=305
+Height=968
+TabsOrder=TASKS;
+LastTab=0
+Above=false
+Sticky=true
+Transparency=7
+Visible=false

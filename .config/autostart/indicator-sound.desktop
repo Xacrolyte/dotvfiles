@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e439b0f8e6942dab80f88ecca87b3c2deaeeae916ce4fa3cd59f51d9d8173ff5
-size 61
+[Desktop Entry]
+X-XFCE-Autostart-Override=true
+Hidden=false
+

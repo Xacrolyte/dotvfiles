@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a5194c6904fd8a06c2adb59871f856cf76708999e07316862c60a0253011faf
-size 275
+[build-menu]
+FT_01_LB=Compile and Execute
+FT_01_CM=javac "%f" && run-java "%e"
+FT_01_WD=
+FT_02_LB=
+FT_02_CM=
+FT_02_WD=
+EX_00_LB=_Execute
+EX_00_CM=javac "%f" && run-java "%e"
+EX_00_WD=
+EX_01_LB=
+EX_01_CM=run-java "%e"
+EX_01_WD=
+FT_00_LB=_Compile
+FT_00_CM=javac "%f"
+FT_00_WD=

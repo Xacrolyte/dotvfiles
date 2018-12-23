@@ -1,12 +1,16 @@
 #!/bin/bash
+# YOUR INSCRIPT tutorial to dotfiles management through symlinks
 
-app = "top geany fish htop imagemagick redshift telegram teamviewer python3 python3-pip tmux mosh tlp"
-snap = "vlc bucklespring"
+# Application installation and maintianence
+#app = "top geany fish htop imagemagick redshift telegram teamviewer python3 python3-pip tmux mosh tlp"
+#snap = "vlc bucklespring"
+
+#apt upgrade -y
+#apt update
+#apt autoclean
+#apt autoremove
 
 #############################################################
-
-
-
 
 # This script creates symlinks from the home directory to any desired dotfiles in ~/dotfiles
 # Symlinks are being made to constantly update files of any changes without any manual labour or hassle
@@ -16,8 +20,10 @@ snap = "vlc bucklespring"
 
 dir=~/dotvfiles                    # dotfiles directory
 olddir=~/olddotvfiles             # old dotfiles backup directory
-files=".bashrc .displayrc .nanorc .dmrc .gitconfig .nvidia-settings-rc .profile .viminfo .Xdefaults .xscreensaver Vagrantfile"   # list of files/folders to symlink in homedir
+files=".bashrc .bash_logout .bash_history .displayrc .nanorc .dmrc .gitconfig .nvidia-settings-rc .profile .gitignore .ICEauthority .netrc .viminfo .Xdefaults .xscreensaver .wget-hsts .xset.log .xinputrc .Xauthority microsoft.gpg .xsession-errors.old .xsession-errors .pylintrc"   # list of files/folders to symlink in homedir
 
+# IMPORTANT
+# While symlinking directories be sure to include full paths to both source and destination to cut out errors and random frustration when commands lead to broken links or unexpected file outputs
 
 # create dotfiles_old in homedir
 #echo "Creating $olddir for backup of any existing dotfiles in ~"
@@ -40,16 +46,13 @@ files=".bashrc .displayrc .nanorc .dmrc .gitconfig .nvidia-settings-rc .profile 
 
 for file in $files; do
     echo "Creating symlink to $file in home directory."
-    ln -s $dir/$file ~/$file
+    ln -s /home/vipulgupta2048/dotvfiles/$file /home/vipulgupta2048/
     echo
 done
 
 # DON'T RUN THIS SCRIPT TWICE IN THE SAME INSTANCE IF YOU DID YOUR oldir is probably properly fucked with symlinks.
+# Use Homely instead atleast it remembers things
 
 #################################################
 
 
-apt upgrade -y
-apt update
-apt autoclean
-apt autoremove

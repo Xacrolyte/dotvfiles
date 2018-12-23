@@ -1,3 +1,503 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c98a35266aefac1ae7c75eab09fcde878a5d900883a2e88153ca576d7a0d7b72
-size 50039
+T 1528920765 31<2116vipulgupta204831>	Quozl, I don't understand. I do need the list. So that I can track them.
+T 1528920785 24<Quozl24>24	vipulgupta2048: above you said you "don't the list of files", what did you mean?
+T 1528920829 31<2116vipulgupta204831>	Quozl, apologies. I meant,  I don't have the list of files in the bundle. 
+T 1528920849 31<2116vipulgupta204831>	Can you point me to a place, where I can find it. 
+T 1528920912 24<Quozl24>24	octamois: not unusual level of busy.  lots of mailing lists.
+T 1528920988 29<2125octamois29>	Quozl: Is there any channel for Autotools or autoconf?
+T 1528921001 24<Quozl24>24	vipulgupta2048: the bundle is made by an activity author or maintainer by running setup.py with the dist_xo argument; the result is a zip file.  you can list the zip file contents.
+T 1528921042 24<Quozl24>24	octamois: i don't know of one.  usually i just read the manual or the source code of autotools.  it is fairly straightforward linear code.
+T 1528921058 31<2116vipulgupta204831>	Ohhh.. Okay. Running the same. 
+T 1528921065 29<2125octamois29>	Cool
+T 1528921073 16»24»24	octamois nips out
+T 1528921091 24<Quozl24>24	vipulgupta2048: read https://wiki.sugarlabs.org/go/Development_Team/Almanac/Activity_Bundles
+T 1528921091 29<2125Guest5916829>	[ Development Team/Almanac/Activity Bundles - Sugar Labs ]
+T 1528921126 31<2116vipulgupta204831>	Sure, I will give it a read in the morning. 
+T 1528921132 31<2116vipulgupta204831>	Thanks.
+T 1528921164 24<Quozl24>24	vipulgupta2048: then once you've verified it is in the bundle, you have to figure out if the licenses are mutually compatible.
+T 1528921199 31<2116vipulgupta204831>	Iread about that on the gpl site
+T 1528921201 24<Quozl24>24	vipulgupta2048: and that the bundle license (which is in activity.info) can be used to legally distribute the files with the license they have.
+T 1528921261 24<Quozl24>24	vipulgupta2048: you can certainly change the license on any code you own copyright to.  for files that are copyright by others, they must change the license.  you can end up finding activities that cannot be distributed until the authors change the license.
+T 1528962676 16»25»	Disconnected (Connection timed out).
+T 1529040800 28>NickServ28<	identify ****
+T 1529040800 hello
+T 1529040800 27»28»28	vipulgupta2048 sets mode +Z vipulgupta2048
+T 1529040800 27»28»28	vipulgupta2048 sets mode +i vipulgupta2048
+T 1529040800 28-21Notice28-	21{25from NickServ21} This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+T 1529040806 16»19»	16Now talking on #sugar
+T 1529040806 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529040806 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529040806 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1529040806 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529044389 16»25»	Disconnected (Connection reset by peer).
+T 1529044416 28>NickServ28<	identify ****
+T 1529044416 hello
+T 1529044416 27»28»28	vipulgupta2048 sets mode +Z vipulgupta2048
+T 1529044416 27»28»28	vipulgupta2048 sets mode +i vipulgupta2048
+T 1529044416 28-21Notice28-	21{25from NickServ21} This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+T 1529044422 16»19»	16Now talking on #sugar
+T 1529044422 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529044422 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529044422 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1529044422 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529045656 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00113c8139b8e880fb.ipv6.abo.wanadoo.fr) has Quit (Ping timeout: 256 seconds21)
+T 1529045799 21«21-16-31-	21kushal (~hopless@fedora/kushal) has Quit (Write error: Connection reset by peer21)
+T 1529045814 31-21-25-29»	29kushal (~hopless@fedora/kushal) has Joined #sugar
+T 1529046713 31-21-25-29»	29sshrma (2f1d7cb4@gateway/web/cgi-irc/kiwiirc.com/ip.47.29.124.180) has Joined #sugar
+T 1529046769 21«21-16-31-	21sshrma (2f1d7cb4@gateway/web/cgi-irc/kiwiirc.com/ip.47.29.124.180) has Quit (Client Quit21)
+T 1529047819 31-21-25-29»	29llaske (~llaske@static-qvn-qvs-168097.business.bouyguestelecom.com) has Joined #sugar
+T 1529049794 31-21-25-29»	29manki11 (~mankirats@103.253.202.99) has Joined #sugar
+T 1529049794 21«21-16-31-	21manki11 (~mankirats@103.253.202.99) has Quit (Client Quit21)
+T 1529049833 31-21-25-29»	29manki11 (~mankirats@103.253.202.99) has Joined #sugar
+T 1529049836 21«21-16-31-	21manki11 (~mankirats@103.253.202.99) has Quit (Client Quit21)
+T 1529049838 21«21-16-31-	21llaske (~llaske@static-qvn-qvs-168097.business.bouyguestelecom.com) has Quit (Ping timeout: 256 seconds21)
+T 1529051334 31-21-25-29»	29manki11 (~mankirats@103.253.202.99) has Joined #sugar
+T 1529051339 23«25-23-31-	23manki11 (~mankirats@103.253.202.99) has Left #sugar
+T 1529052311 31<2116vipulgupta204831>	 ping
+T 1529052321 31<2116vipulgupta204831>	Quozl, ping
+T 1529053824 31-21-25-29»	29llaske (~llaske@static-qvn-qvs-168097.business.bouyguestelecom.com) has Joined #sugar
+T 1529054026 FiSHLiM plugin unloaded
+T 1529054026 Python interface unloaded
+T 1529079942 16»19»	16Now talking on #sugar
+T 1529079942 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529079942 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529079942 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529080000 31-21-25-29»	29Rishabh42 (~androirc@106.202.40.14) has Joined #sugar
+T 1529080243 29<2125Pro-Panda29>	.
+T 1529080297 31-21-25-29»	29vaibhavdaren (~vaibhavda@119.82.82.243) has Joined #sugar
+T 1529080508 31-21-25-29»	29gvso (~gvso@130.58.167.39) has Joined #sugar
+T 1529081545 21«21-16-31-	21llaske (~llaske@163.5.55.25) has Quit (Remote host closed the connection21)
+T 1529082220 21«21-16-31-	21iqra_ (2724bf30@gateway/web/freenode/ip.39.36.191.48) has Quit (Quit: Page closed21)
+T 1529082689 21«21-16-31-	21Rishabh42 (~androirc@106.202.40.14) has Quit (Ping timeout: 248 seconds21)
+T 1529082730 21«21-16-31-	21Pro-Panda (312093bd@gateway/web/freenode/ip.49.32.147.189) has Quit (Ping timeout: 260 seconds21)
+T 1529083587 21«21-16-31-	21vaibhavdaren (~vaibhavda@119.82.82.243) has Quit (Quit: Leaving21)
+T 1529210010 16»19»	16Now talking on #sugar
+T 1529210010 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529210010 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529210010 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529210192 16»19»	16Now talking on #sugar
+T 1529210192 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529210192 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529210192 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529210827 16»19»	16Now talking on #sugar
+T 1529210827 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529210827 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529210827 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529214057 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00151161aa218e623b.ipv6.abo.wanadoo.fr) has Joined #sugar
+T 1529214312 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00151161aa218e623b.ipv6.abo.wanadoo.fr) has Quit (Ping timeout: 245 seconds21)
+T 1529222812 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00151161aa218e623b.ipv6.abo.wanadoo.fr) has Joined #sugar
+T 1529223068 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00151161aa218e623b.ipv6.abo.wanadoo.fr) has Quit (Ping timeout: 256 seconds21)
+T 1529223219 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00151161aa218e623b.ipv6.abo.wanadoo.fr) has Joined #sugar
+T 1529226636 16»25»	Disconnected (Connection reset by peer).
+T 1529226665 16»19»	16Now talking on #sugar
+T 1529226665 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529226665 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529226665 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529228788 21«21-16-31-	21Menzador (~Menzador@unaffiliated/menzador) has Quit (Ping timeout: 240 seconds21)
+T 1529233229 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00151161aa218e623b.ipv6.abo.wanadoo.fr) has Joined #sugar
+T 1529233498 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00151161aa218e623b.ipv6.abo.wanadoo.fr) has Quit (Ping timeout: 256 seconds21)
+T 1529233948 21«21-16-31-	21meeting (~sugaroid@rev-18-85-44-69.sugarlabs.org) has Quit (Remote host closed the connection21)
+T 1529233984 31-21-25-29»	29meeting (~sugaroid@rev-18-85-44-69.sugarlabs.org) has Joined #sugar
+T 1529234691 31-21-25-29»	29riyalohia (6acfdf75@gateway/web/freenode/ip.106.207.223.117) has Joined #sugar
+T 1529234782 31-21-25-29»	29a-ritwik (7bc9369f@gateway/web/freenode/ip.123.201.54.159) has Joined #sugar
+T 1529235332 31-21-25-29»	29Linc-0f87 (~urk@1.144.110.143) has Joined #sugar
+T 1529235364 21«21-16-31-	21Linc-0f87 (~urk@1.144.110.143) has Quit (Remote host closed the connection21)
+T 1529236729 21«21-16-31-	21a-ritwik (7bc9369f@gateway/web/freenode/ip.123.201.54.159) has Quit (Ping timeout: 260 seconds21)
+T 1529254907 16»19»	16Now talking on #sugar
+T 1529254907 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529254907 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529254907 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529256490 31-21-25-29»	29Menzador (~Menzador@unaffiliated/menzador) has Joined #sugar
+T 1529257532 31-21-25-29»	29b-311e (~urk@pool-100-38-102-147.nycmny.fios.verizon.net) has Joined #sugar
+T 1529257564 21«21-16-31-	21b-311e (~urk@pool-100-38-102-147.nycmny.fios.verizon.net) has Quit (Remote host closed the connection21)
+T 1529257805 31-21-25-29»	29Vrondir (~Vrondir@85.187.40.193) has Joined #sugar
+T 1529259582 16»25»	Disconnected (Connection timed out).
+T 1529384088 16»19»	16Now talking on #sugar
+T 1529384088 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529384088 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529384088 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529385758 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00c9ed23bf8a6b44c0.ipv6.abo.wanadoo.fr) has Joined #sugar
+T 1529387115 16»25»	Disconnected (Connection timed out).
+T 1529406226 16»19»	16Now talking on #sugar
+T 1529406227 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529406227 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529406227 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529406547 21«21-16-31-	21kushal (~hopless@fedora/kushal) has Quit (Quit: ZNC 1.7.0 - https://znc.in21)
+T 1529406561 31-21-25-29»	29kushal (~hopless@fedora/kushal) has Joined #sugar
+T 1529407135 31-21-25-29»	29sammeister (~androirc@41.190.30.84) has Joined #sugar
+T 1529407358 21«21-16-31-	21sammeister (~androirc@41.190.30.84) has Quit (Read error: Connection reset by peer21)
+T 1529407422 21«21-16-31-	21Pro-Panda (31209e2e@gateway/web/freenode/ip.49.32.158.46) has Quit (21)
+T 1529407746 31-21-25-29»	29a-ritwik (7bc9343e@gateway/web/freenode/ip.123.201.52.62) has Joined #sugar
+T 1529407756 24<walterbender24>24	a-ritwik, hi.
+T 1529407767 29<2125a-ritwik29>	walterbender: hi
+T 1529407776 24<walterbender24>24	a-ritwik, I will take a look at your keyboard code now
+T 1529407802 31-21-25-29»	29sammeister (~androirc@41.190.30.103) has Joined #sugar
+T 1529407822 29<2125a-ritwik29>	walterbender: Please take look after half an hour, I am just to commit my new work
+T 1529407841 24<walterbender24>24	OK
+T 1529407860 21«21-16-31-	21sammeister (~androirc@41.190.30.103) has Quit (Read error: Connection reset by peer21)
+T 1529407861 31-21-25-29»	29yashagrawal3 (~yash@47.9.108.11) has Joined #sugar
+T 1529407977 29<2125vaibhavdaren29>	walterbender:there?
+T 1529407990 29<2125Jaskirat__29>	vaibhavdaren: hi
+T 1529408069 29<2125vaibhavdaren29>	jakirat, hi
+T 1529408150 24<walterbender24>24	hi
+T 1529408180 24<walterbender24>24	vaibhavdaren, I was expecting you were going to share your work with me as per your remarks at last week's meeting
+T 1529408259 29<2125vaibhavdaren29>	hello,sir the 4 examples i did were already checked
+T 1529408299 24<walterbender24>24	I have never seen them
+T 1529408324 24<walterbender24>24	I saw two broken examples which I gave feedback on and never saw/heard anything else
+T 1529408337 29<2125Jaskirat__29>	vaibhavdaren: can you share it now ?
+T 1529408401 29<2125vaibhavdaren29>	yes sure
+T 1529408463 29<2125vaibhavdaren29>	i have sent a mail \
+T 1529408493 29<2125Jaskirat__29>	Links !
+T 1529408499 24<walterbender24>24	vaibhavdaren, what is a .7z file?
+T 1529408509 24<walterbender24>24	why not just share on the planet?
+T 1529408521 29<2125vaibhavdaren29>	its just like zip archive
+T 1529408565 24<walterbender24>24	not enough like zip to be able to open it with zip
+T 1529408575 24<walterbender24>24	why are you using this format?
+T 1529408597 29<2125vaibhavdaren29>	its faster to work then zip
+T 1529408630 29<2125vaibhavdaren29>	i have sent a mail seprately in zip
+T 1529408662 29<2125vaibhavdaren29>	i have not uploaded to the server because "there are a lot of changes i would like to make once the readpixel block is working"
+T 1529408717 24<walterbender24>24	vaibhavdaren, (1) using a "faster" incompatible zip format for 3-4 small files makes no sense
+T 1529408732 24<walterbender24>24	(2) we have the planet so we can exchange/share work
+T 1529408746 29<2125Jaskirat__29>	+1
+T 1529408777 24<walterbender24>24	(3) I see only 3 projects here. At the meeting last week you said you had completed many more than that
+T 1529408782 29<2125vaibhavdaren29>	okay:+1 ill make sure to use whatever is comfortable
+T 1529408803 24<walterbender24>24	It is not a matter of comfort. It is a matter of communication
+T 1529408830 24<walterbender24>24	if you keep the work closed, then you will get no feedback and you will not learn
+T 1529408835 24<walterbender24>24	and we won't learn from you
+T 1529408841 29<2125a-ritwik29>	walterbender: I have pushed changes, you can check in softwareKeyboard branch.
+T 1529408849 24<walterbender24>24	a-ritwik, I will ASAP
+T 1529408860 29<2125vaibhavdaren29>	walterbender:+1
+T 1529408936 29<2125Jaskirat__29>	vaibhavdaren: so what are your plan for further move ?
+T 1529408944 31-21-25-29»	29sammeister (~androirc@41.190.2.45) has Joined #sugar
+T 1529408968 24<walterbender24>24	vaibhavdaren, I will look at your examples
+T 1529408975 29<2125vaibhavdaren29>	the readpixel block is behaving funny  because of interaction between canvas and the turtle
+T 1529408993 29<2125vaibhavdaren29>	both have different co-ordinate systems
+T 1529409002 24<walterbender24>24	vaibhavdaren, I have a feeling we are reading from the wrong "canvas"
+T 1529409018 24<walterbender24>24	did you look into the Easel.js code like I asked?
+T 1529409031 29<2125vaibhavdaren29>	yes
+T 1529409049 29<2125vaibhavdaren29>	i even tried printing the x,y values and noticed
+T 1529409051 21«21-16-31-	21Besnik_b (~Besnik@ppp-94-66-221-178.home.otenet.gr) has Quit (Ping timeout: 240 seconds21)
+T 1529409120 29<2125vaibhavdaren29>	The top left corner is (0,0) for canvas ,which are co-ordinates(-843,302) for turtle.
+T 1529409120 29<2125vaibhavdaren29>	The coordinates for the turtle(0,0) are the coordinates(843,302).
+T 1529409121 24<walterbender24>24	Is there an easel.js method for read?
+T 1529409162 24<walterbender24>24	vaibhavdaren, there is code for converting the coord. in the code. Are you saying that the conversion is wrong?
+T 1529409248 29<2125vaibhavdaren29>	https://youtu.be/gpl3iRMhicg
+T 1529409250 29<2125Guest5916829>	[ helpw1 - YouTube ]
+T 1529409309 24<walterbender24>24	I cannot read the text on the console in your video.
+T 1529409338 24<walterbender24>24	vaibhavdaren, We have many layers. I am not convinced we are reading from the proper layer
+T 1529409382 24<walterbender24>24	vipulgupta2048, you could try a simple test of writing to the canvas before the read to ensure it is working
+T 1529409385 29<2125vaibhavdaren29>	"ok" ill send  a better version if it helps
+T 1529409402 24<walterbender24>24	just write up the numbers
+T 1529409409 24<walterbender24>24	no need for another video
+T 1529409425 24<walterbender24>24	(and where the numbers are coming from)
+T 1529409470 24<walterbender24>24	vaibhavdaren, re the plugings, I did a little investigating and found that they work in Firefox, but not chrome due to some new security restrictions.
+T 1529409479 24<walterbender24>24	I have some ideas of a workaround. I'll let you know
+T 1529409484 29<2125vaibhavdaren29>	m70 symentic
+T 1529409502 24<walterbender24>24	vaibhavdaren, ???
+T 1529409528 29<2125vaibhavdaren29>	 security issue related to certificate?
+T 1529409542 29<2125vaibhavdaren29>	walterbender,sure
+T 1529409559 24<walterbender24>24	no... nothing to do with certificates
+T 1529409565 24<walterbender24>24	it is secure eval
+T 1529409577 29<2125Jaskirat__29>	walterbender: +1
+T 1529409597 24<walterbender24>24	eval cannot have access to "this" is my understanding
+T 1529409618 29<2125vaibhavdaren29>	okay sure
+T 1529409745 24<walterbender24>24	vaibhavdaren, in any case, I think you can proceed without read and without plugins
+T 1529409746 21«21-16-31-	21sammeister (~androirc@41.190.2.45) has Quit (Read error: Connection reset by peer21)
+T 1529409764 24<walterbender24>24	if there is a function you need, we can add it
+T 1529409815 29<2125vaibhavdaren29>	if i have aked a user to perform  a specific task like to draw a square
+T 1529409895 29<2125vaibhavdaren29>	then i would like to check too "the shape drawn by him is as per requested constraints too"
+T 1529409998 24<walterbender24>24	it is a wildly unconstrained problem.
+T 1529410019 24<walterbender24>24	the svg output maybe more reliable
+T 1529410085 24<walterbender24>24	vaibhavdaren, stage 1 works reasonably well, although the "control" turtle may want to use different prompts once the "user" turtle moves.
+T 1529410114 29<2125vaibhavdaren29>	noted:(y)
+T 1529410115 24<walterbender24>24	Also, repeated opening of the turtle palette makes it hard to use other palettes
+T 1529410121 24<walterbender24>24	it should only happen once
+T 1529410153 24<walterbender24>24	the stage 2 task is not set up right... the user start block is not visible
+T 1529410236 24<walterbender24>24	also, not sure what is causing the order of the blocks on the palette to flip?
+T 1529410244 24<walterbender24>24	maybe you can investigate
+T 1529410384 29<2125vaibhavdaren29>	i have noted all the changes and will make the necessary changes
+T 1529410452 21«21-16-31-	21yashagrawal3 (~yash@47.9.108.11) has Quit (Remote host closed the connection21)
+T 1529410516 24<walterbender24>24	vaibhavdaren, the interaction is a bit uneven. I think you could tune it a bit
+T 1529410558 29<2125vaibhavdaren29>	walterbender:yes sir sure
+T 1529410587 29<2125Jaskirat__29>	vaibhavdaren: so what are your future plan can you discuss about it ?
+T 1529410665 29<2125vaibhavdaren29>	1)redo the examples following suggested changes
+T 1529410706 29<2125vaibhavdaren29>	2) try a simple test of writing to the canvas before the read to ensure it is working
+T 1529410738 29<2125vaibhavdaren29>	3)try using conversion formula on the readpixel block
+T 1529410795 29<2125Jaskirat__29>	vaibhavdaren: i would suggest you to also look into the "check points" excerise work
+T 1529410809 29<2125Jaskirat__29>	exercise*
+T 1529410827 29<2125vaibhavdaren29>	okay sure
+T 1529410830 29<2125Jaskirat__29>	giving this type of option within the program itself
+T 1529410840 29<2125Jaskirat__29>	walterbender: any opinion on this ?
+T 1529410898 29<2125Jaskirat__29>	vaibhavdaren: you can take up the help as an examples that were made by the walterbender for turtle confusion
+T 1529410926 29<2125vaibhavdaren29>	yes sure :D
+T 1529410995 24<walterbender24>24	I'd like to see a complete example that runs smoothly
+T 1529411007 29<2125Jaskirat__29>	Yeap
+T 1529411029 24<walterbender24>24	a-ritwik ping
+T 1529411037 29<2125a-ritwik29>	walterbender: ping
+T 1529411052 24<walterbender24>24	a-ritwik, the keyboard appears...
+T 1529411059 24<walterbender24>24	but I have a few questions
+T 1529411069 24<walterbender24>24	(1) what does the hertz block do?
+T 1529411087 29<2125a-ritwik29>	walterbender: nothing, I will remove it.
+T 1529411112 29<2125Jaskirat__29>	walterbender: any more things for today ?
+T 1529411113 24<walterbender24>24	(2) I though we were not going to have the controls for keyboard on the widget
+T 1529411134 24<walterbender24>24	(3) but rather, use pitch blocks to determine which keys to show
+T 1529411162 24<walterbender24>24	(4) Am I supposed to hear anything yet? (e.g., is it connected to the synth?)
+T 1529411182 24<walterbender24>24	(5) why do the keys stay lit up until I click them a second time?
+T 1529411205 29<2125a-ritwik29>	walterbender: 2)I will remove controls also, this is just rough draft.
+T 1529411232 24<walterbender24>24	and maybe you can add the standard widget menubar so we can drag, close, etc.?
+T 1529411282 24<walterbender24>24	(6) What does toggle keyboard mean?
+T 1529411312 24<walterbender24>24	(7) I assume deselect is to clear the saved notes?
+T 1529411328 24<walterbender24>24	an generate pitch blocks is to save the composition?
+T 1529411348 29<2125a-ritwik29>	yes, that I wanted to ask, we need to drag, close etc. So will add standard menubar and ask for help when needed.
+T 1529411350 24<walterbender24>24	Jaskirat__, nothing else from me today...
+T 1529411365 24<walterbender24>24	a-ritwik, +1
+T 1529411379 29<2125Jaskirat__29>	walterbender: okay thanks
+T 1529411390 24<walterbender24>24	a-ritwik, hooking up to the synth sooner than later would be good...
+T 1529411416 29<2125a-ritwik29>	walterbender: 3)ofcourse pitch blocks will decide which keys to show.
+T 1529411417 24<walterbender24>24	it is will interesting to understand the keyboard "action" for playing notes of different lengths.
+T 1529411449 24<walterbender24>24	We'll need to tweek how we trigger the synth to do that.. a long note we interrupt? Not 100% sure
+T 1529411456 29<2125a-ritwik29>	walterbender: 4)Yes I am able to hear sounds, synth is connected.
+T 1529411480 24<walterbender24>24	maybe the first pass is just outputing just 1/4 notes?
+T 1529411487 24»24»	24<walterbender24>24 doesn't hear anything
+T 1529411493 24»24»	24<walterbender24>24 checks console output
+T 1529411532 24<walterbender24>24	nothing in the console.
+T 1529411551 24<walterbender24>24	a-ritwik, I will start looking into the code... meanwhile, good start
+T 1529411562 29<2125a-ritwik29>	4) keys on left side have low frequency, please turn up volume or click keys on right side
+T 1529411607 24<walterbender24>24	nope... no sound for me
+T 1529411635 29<2125a-ritwik29>	*I am testing again.
+T 1529411650 24<walterbender24>24	refreshing the browser worked !!!
+T 1529411657 24<walterbender24>24	I hear sounds
+T 1529411705 24<walterbender24>24	the "blur" function is making the sounds stop working... if I switch windows, I need to refresh the browser again
+T 1529411705 29<2125a-ritwik29>	walterbender:  do they sound as expected in keyboard?
+T 1529411710 24<walterbender24>24	yes
+T 1529411740 24<walterbender24>24	but we need to think about how to make a half note vs a quarter note vs an  eighth note, etc
+T 1529411782 24<walterbender24>24	seems the sound is coming on release
+T 1529411791 24<walterbender24>24	should be when the key is pressed
+T 1529411800 24<walterbender24>24	and release should stop it
+T 1529411844 31-21-25-29»	29Menzador (~Menzador@unaffiliated/menzador) has Joined #sugar
+T 1529411865 24<walterbender24>24	a-ritwik, but it is a start...
+T 1529411868 29<2125a-ritwik29>	5), 6) and 7) are because they were defined in code that I got. We dont need them and will remove them.
+T 1529411912 24<walterbender24>24	a-ritwik, we may want to toggle between CDE and do re me on the labels
+T 1529411939 24<walterbender24>24	or just let that be determined by the blocks used to generate the keys
+T 1529411950 24<walterbender24>24	something to keep in mind
+T 1529411953 29<2125a-ritwik29>	for half note vs quarter note vs eighth note, I think we need to measure time for which key was pressed.
+T 1529411984 24<walterbender24>24	a-ritwik, yes... which is one reason you need to start the synth on key press, not key release
+T 1529412041 29<2125a-ritwik29>	walterbender: I will keep in mind to give option of CDE and do re mi .
+T 1529412119 29<2125a-ritwik29>	walterbender: so we want to know the starting time of keypress as well as releasing time of key ?
+T 1529412125 24<walterbender24>24	yes
+T 1529412215 29<2125a-ritwik29>	Eg. If keypress is of .47 second or .55seconds ,  in both cases we will use half note. am I correct?
+T 1529412232 24<walterbender24>24	yes
+T 1529412254 24<walterbender24>24	a-ritwik, (1) I don't think this is going to be or needs to be a precision keyboard
+T 1529412279 29<2125a-ritwik29>	walterbender: ofcourse
+T 1529412296 24<walterbender24>24	(2) we may want to modes: one that is just for generating pitch sequences and one that is also about note duration
+T 1529412313 24<walterbender24>24	let's tackle the first one first as it is easier
+T 1529412339 29<2125a-ritwik29>	walterbender: yes
+T 1529412364 24»24»	24<walterbender24>24 can imagine on multitouch devices, you can play chords
+T 1529412374 24<walterbender24>24	but we can ignore that too for righ tnow
+T 1529412413 24<walterbender24>24	but in all cases, we want to the sound to begin on press, not release
+T 1529412422 31-21-25-29»	29sammeister (~androirc@41.190.3.94) has Joined #sugar
+T 1529412493 29<2125a-ritwik29>	walterbender: I will look into code why it giving sound on release.
+T 1529412501 24<walterbender24>24	great
+T 1529412520 24<walterbender24>24	OK. /me needs to go... back in a while. TTYL
+T 1529412538 21«21-16-31-	21sammeister (~androirc@41.190.3.94) has Quit (Read error: Connection reset by peer21)
+T 1529412633 29<2125a-ritwik29>	walterbender: bye
+T 1529412732 21«21-16-31-	21a-ritwik (7bc9343e@gateway/web/freenode/ip.123.201.52.62) has Quit (Quit: Page closed21)
+T 1529413472 31-21-25-29»	29sammeister (~androirc@41.190.31.6) has Joined #sugar
+T 1529413491 29<2125amanharitsh12329>	Hi, I cant see my name in http://people.sugarlabs.org/ , is it required to configure anything else after getting a sunjammer account?
+T 1529413492 29<2125Guest5916829>	[ Sugar Labs People's web folders ]
+T 1529414403 21«21-16-31-	21sammeister (~androirc@41.190.31.6) has Quit (Read error: Connection reset by peer21)
+T 1529415000 24<walterbender24>24	amanharitsh123, do you have a "public_html" directory?
+T 1529415551 31-21-25-29»	29sammeister (~androirc@41.190.3.116) has Joined #sugar
+T 1529425293 16»25»	Disconnected (Connection reset by peer).
+T 1529425319 16»19»	16Now talking on #sugar
+T 1529425320 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529425320 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529425320 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529425617 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00cd7728c106c4e56f.ipv6.abo.wanadoo.fr) has Joined #sugar
+T 1529425719 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Quit: ibiam21)
+T 1529425737 31-21-25-29»	29ibiam (~ibiam@105.112.89.154) has Joined #sugar
+T 1529425768 31-21-25-29»	29vaibhavdaren (~vaibhavda@119.82.82.122) has Joined #sugar
+T 1529425791 23»04»	vaibhavdaren is now known as Guest18872
+T 1529426038 21«21-16-31-	21rishabh42 (~rishabh@223.225.101.202) has Quit (Ping timeout: 264 seconds21)
+T 1529426086 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Quit: ibiam21)
+T 1529426099 31-21-25-29»	29ibiam (~ibiam@105.112.89.154) has Joined #sugar
+T 1529426702 21«21-16-31-	21Guest18872 (~vaibhavda@119.82.82.122) has Quit (Quit: Leaving21)
+T 1529427000 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00cd7728c106c4e56f.ipv6.abo.wanadoo.fr) has Quit (Remote host closed the connection21)
+T 1529427556 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Read error: Connection reset by peer21)
+T 1529427576 31-21-25-29»	29ibiam (~ibiam@105.112.89.154) has Joined #sugar
+T 1529427644 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Client Quit21)
+T 1529427659 31-21-25-29»	29ibiam (~ibiam@105.112.89.154) has Joined #sugar
+T 1529427745 31-21-25-29»	29ibiam_ (~ibiam@105.112.89.154) has Joined #sugar
+T 1529427755 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Read error: Connection reset by peer21)
+T 1529427775 23»04»	ibiam_ is now known as ibiam
+T 1529427778 31-21-25-29»	29rishabh42 (~rishabh@182.64.248.75) has Joined #sugar
+T 1529428027 31-21-25-29»	29Jaskirat__ (uid272023@gateway/web/irccloud.com/x-wqazjtjjfoxabsps) has Joined #sugar
+T 1529428231 21«21-16-31-	21rishabh42 (~rishabh@182.64.248.75) has Quit (Ping timeout: 256 seconds21)
+T 1529429492 16»25»	Disconnected (Connection timed out).
+T 1529468435 16»19»	16Now talking on #sugar
+T 1529468435 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529468435 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529468435 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529468457 31<2116vipulgupta204831>	ping Quozl 
+T 1529468643 21«21-16-31-	21Pro-Panda (31216ff1@gateway/web/freenode/ip.49.33.111.241) has Quit (21)
+T 1529474958 16»25»	Disconnected (Connection reset by peer).
+T 1529474981 28>NickServ28<	identify ****
+T 1529474981 hello
+T 1529474981 27»28»28	vipulgupta2048 sets mode +Z vipulgupta2048
+T 1529474981 27»28»28	vipulgupta2048 sets mode +i vipulgupta2048
+T 1529474982 28-21Notice28-	21{25from NickServ21} This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+T 1529474988 16»19»	16Now talking on #sugar
+T 1529474988 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529474988 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529474988 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1529474988 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529475249 31-21-25-29»	29shurtagul (~androirc@206.83.22.251) has Joined #sugar
+T 1529475424 29<2125shurtagul29>	Im trying to install the latest soas on a dell mini's ssd but im getting "anaconda received signal 11!" every time. Has anyone experienced this?
+T 1529475562 31-21-25-29»	29eohomegrownapps (uid202914@gateway/web/irccloud.com/x-togkyrvlizgmicuz) has Joined #sugar
+T 1529475694 31-21-25-29»	29jnagro (sid208083@gateway/web/irccloud.com/x-wubanedilvjpidka) has Joined #sugar
+T 1529475719 29<2125shurtagul29>	This is where it's stalled https://imgur.com/a/AvBSjZE
+T 1529475721 29<2125Guest5916829>	[                     Imgur: The magic of the Internet ]
+T 1529475951 31-21-25-29»	29mchua (sid287673@gateway/web/irccloud.com/x-ydoffzupslgseaqn) has Joined #sugar
+T 1529476193 31-21-25-29»	29bossjones (sid52503@gateway/web/irccloud.com/x-ynzqoqcgmsedmclf) has Joined #sugar
+T 1529476397 31-21-25-29»	29Jaskirat__ (uid272023@gateway/web/irccloud.com/x-kkovvxsdcbakhokv) has Joined #sugar
+T 1529476409 29<2125Jaskirat__29>	Hello
+T 1529476623 29<2125Jaskirat__29>	https://usercontent.irccloud-cdn.com/file/o50GQou5/received_1279154425551178.jpeg
+T 1529476641 29<2125Jaskirat__29>	Quozl:  working on this !^
+T 1529476941 29<2125Jaskirat__29>	How's it ?
+T 1529477121 FiSHLiM plugin unloaded
+T 1529477121 Python interface unloaded
+T 1529498431 16»19»	16Now talking on #sugar
+T 1529498431 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529498431 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529498431 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529511003 16»25»	Disconnected (Connection reset by peer).
+T 1529511028 16»19»	16Now talking on #sugar
+T 1529511028 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529511028 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529511028 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529511721 21«21-16-31-	21llaske (~llaske@163.5.55.25) has Quit (Remote host closed the connection21)
+T 1529512081 31-21-25-29»	29llaske (~llaske@163.5.55.25) has Joined #sugar
+T 1529512359 21«21-16-31-	21llaske (~llaske@163.5.55.25) has Quit (Ping timeout: 256 seconds21)
+T 1529514074 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Quit: ibiam21)
+T 1529514098 31-21-25-29»	29ibiam (~ibiam@105.112.89.154) has Joined #sugar
+T 1529556160 16»19»	16Now talking on #sugar
+T 1529556160 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529556160 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529556160 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529661625 16»19»	16Now talking on #sugar
+T 1529661625 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529661625 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529661625 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529663945 31-21-25-29»	29Guest43623 (uid209358@gateway/web/irccloud.com/x-favoutzhxjznrkwk) has Joined #sugar
+T 1529664394 31-21-25-29»	29aa (~ambrois@113.67.196.35.bc.googleusercontent.com) has Joined #sugar
+T 1529664548 21«21-16-31-	21aa (~ambrois@113.67.196.35.bc.googleusercontent.com) has Quit (Quit: leaving21)
+T 1529664563 31-21-25-29»	29aa (~ambrois@113.67.196.35.bc.googleusercontent.com) has Joined #sugar
+T 1529664751 21«21-16-31-	21meeting (~sugaroid@rev-18-85-44-69.sugarlabs.org) has Quit (Remote host closed the connection21)
+T 1529664785 31-21-25-29»	29meeting (~sugaroid@rev-18-85-44-69.sugarlabs.org) has Joined #sugar
+T 1529666209 31-21-25-29»	29Besnik_b (~Besnik@ppp-94-66-221-143.home.otenet.gr) has Joined #sugar
+T 1529682893 16»19»	16Now talking on #sugar
+T 1529682893 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529682893 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529682893 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529683120 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Quit: ibiam21)
+T 1529683135 31-21-25-29»	29ibiam (~ibiam@105.112.89.154) has Joined #sugar
+T 1529683239 31-21-25-29»	29walterbender (~walter@65.216.148.162) has Joined #sugar
+T 1529683865 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Read error: Connection reset by peer21)
+T 1529683883 31-21-25-29»	29ibiam (~ibiam@105.112.89.154) has Joined #sugar
+T 1529684029 21«21-16-31-	21llaske_ (~llaske@163.5.55.25) has Quit (Remote host closed the connection21)
+T 1529684622 31-21-25-29»	29iqra_ (b6baac6a@gateway/web/freenode/ip.182.186.172.106) has Joined #sugar
+T 1529684626 31-21-25-29»	29vaibhavdaren (~vaibhavda@119.82.82.122) has Joined #sugar
+T 1529685217 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Ping timeout: 248 seconds21)
+T 1529685461 31-21-25-29»	29ibiam (~ibiam@105.112.89.154) has Joined #sugar
+T 1529685511 31-21-25-29»	29rishabh42 (~rishabh@182.69.62.39) has Joined #sugar
+T 1529685542 31-21-25-29»	29Jaskirat__ (uid272023@gateway/web/irccloud.com/x-ajyljycysdgxccbp) has Joined #sugar
+T 1529686231 31-21-25-29»	29mohayon (~mohayon@37.171.213.144) has Joined #sugar
+T 1529686820 21«21-16-31-	21iqra_ (b6baac6a@gateway/web/freenode/ip.182.186.172.106) has Quit (Quit: Page closed21)
+T 1529687322 21«21-16-31-	21mohayon (~mohayon@37.171.213.144) has Quit (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com )21)
+T 1529687449 21«21-16-31-	21vaibhavdaren (~vaibhavda@119.82.82.122) has Quit (Quit: Leaving21)
+T 1529687502 21«21-16-31-	21rishabh42 (~rishabh@182.69.62.39) has Quit (Quit: Leaving21)
+T 1529687750 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00d5deae5a83e09357.ipv6.abo.wanadoo.fr) has Joined #sugar
+T 1529687780 31-21-25-29»	29iqra (b6baac6a@gateway/web/freenode/ip.182.186.172.106) has Joined #sugar
+T 1529687793 21«21-16-31-	21iqra (b6baac6a@gateway/web/freenode/ip.182.186.172.106) has Quit (Client Quit21)
+T 1529688018 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00d5deae5a83e09357.ipv6.abo.wanadoo.fr) has Quit (Ping timeout: 256 seconds21)
+T 1529688387 29<2125Jaskirat__29>	Hi
+T 1529688472 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Quit: ibiam21)
+T 1529688716 31-21-25-29»	29ibiam (~ibiam@105.112.89.154) has Joined #sugar
+T 1529689034 21«21-16-31-	21satellit (~satellit@2601:602:880:1907::daf6) has Quit (Ping timeout: 260 seconds21)
+T 1529689062 31-21-25-29»	29pikurasa (~devin@64.119.134.14) has Joined #sugar
+T 1529689563 FiSHLiM plugin unloaded
+T 1529911146 16»19»	16Now talking on #sugar
+T 1529911146 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529911146 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529911147 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1529934219 16»19»	16Now talking on #sugar
+T 1529934219 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1529934219 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1529934219 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1530064817 16»19»	16Now talking on #sugar
+T 1530064817 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1530064817 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1530064817 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1530185919 16»19»	16Now talking on #sugar
+T 1530185919 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1530185919 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1530185920 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1530894497 16»19»	16Now talking on #sugar
+T 1530894497 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1530894497 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1530894499 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1530894535 31-21-25-29»	29a-ritwik (7bc936c6@gateway/web/freenode/ip.123.201.54.198) has Joined #sugar
+T 1530894544 21«21-16-31-	21a-ritwik (7bc936c6@gateway/web/freenode/ip.123.201.54.198) has Quit (Client Quit21)
+T 1530894559 21«21-16-31-	21perrie (~perrie@129.56.12.109) has Quit (Remote host closed the connection21)
+T 1530894617 31-21-25-29»	29Pro-Panda (31211a17@gateway/web/freenode/ip.49.33.26.23) has Joined #sugar
+T 1530894875 31-21-25-29»	29perrie (~perrie@129.56.12.109) has Joined #sugar
+T 1530894989 21«21-16-31-	21Pro-Panda (31211a17@gateway/web/freenode/ip.49.33.26.23) has Quit (Quit: Page closed21)
+T 1530895047 21«21-16-31-	21Jaskirat__ (uid272023@gateway/web/irccloud.com/x-drhjnraivogeujug) has Quit (21)
+T 1530895063 31-21-25-29»	29Jaskirat__ (uid272023@gateway/web/irccloud.com/x-bqiyhjzaynchbhcl) has Joined #sugar
+T 1530895103 31-21-25-29»	29rishabh42 (~rishabh@122.162.202.47) has Joined #sugar
+T 1530895897 31-21-25-29»	29Pro-Panda_ (31209afc@gateway/web/freenode/ip.49.32.154.252) has Joined #sugar
+T 1530895985 21«21-16-31-	21rishabh42 (~rishabh@122.162.202.47) has Quit (Ping timeout: 260 seconds21)
+T 1530896023 23»04»	Pro-Panda_ is now known as Pro-Panda
+T 1530896125 21«21-16-31-	21noemu (~Icedove@unaffiliated/noemu) has Quit (Ping timeout: 260 seconds21)
+T 1530896173 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00d996faf05b1e5290.ipv6.abo.wanadoo.fr) has Joined #sugar
+T 1530896431 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00d996faf05b1e5290.ipv6.abo.wanadoo.fr) has Quit (Ping timeout: 256 seconds21)
+T 1530896596 31-21-25-29»	29rishabh42 (~rishabh@122.173.101.71) has Joined #sugar
+T 1530896686 29<2125octamois29>	Pro-Panda : If somehow, you can let me access your sugar-toolkit (Port already Installed) for few hours this week through maybe TeamViewer, It will boost my work. I'll be obliged.
+T 1530896746 29<2125octamois29>	Or some pre-release beta ?
+T 1530896751 29<2125octamois29>	Regards
+T 1530896753 16»24»24	octamois nips out
+T 1530896882 29<2125Pro-Panda29>	octamois: The sugar-toolkit-gtk3 port I am using is present here: https://github.com/Pro-Panda/sugar-toolkit-gtk3/tree/python3-port; also mentioned in the porting guide
+T 1530896883 29<2125gcibot29>	[ Page not found · GitHub ]
+T 1530896939 29<2125octamois29>	Pro-Panda This does not install
+T 1530896964 29<2125octamois29>	Do you suggest to install sugar first and then install it again?
+T 1530896969 31-21-25-29»	29noemu (~Icedove@unaffiliated/noemu) has Joined #sugar
+T 1530896987 29<2125Pro-Panda29>	octamois: Although I don't use TeamViewer, I am not sure how will it help. I don't know how is the versioning done, but I think this is in beta stage currently
+T 1530897009 29<2125Pro-Panda29>	octamois: I don't know why it does not install for you, please share the logs
+T 1530897085 29<2125Pro-Panda29>	octamois: Yes, I think installing sugar would be a pre requisite to porting activities ;-)
+T 1530897201 31-21-25-29»	29perrie_ (~perrie@197.210.227.124) has Joined #sugar
+T 1530897466 21«21-16-31-	21perrie (~perrie@129.56.12.109) has Quit (Ping timeout: 264 seconds21)
+T 1530897580 31-21-25-29»	29perrie (~perrie@129.56.12.109) has Joined #sugar
+T 1530897581 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00d996faf05b1e5290.ipv6.abo.wanadoo.fr) has Joined #sugar
+T 1530897642 21«21-16-31-	21Pro-Panda (31209afc@gateway/web/freenode/ip.49.32.154.252) has Quit (21)
+T 1530897770 21«21-16-31-	21perrie_ (~perrie@197.210.227.124) has Quit (Ping timeout: 260 seconds21)
+T 1530897875 31-21-25-29»	29perrie_ (~perrie@197.210.227.124) has Joined #sugar
+T 1530897912 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00d996faf05b1e5290.ipv6.abo.wanadoo.fr) has Quit (Remote host closed the connection21)
+T 1530898017 21«21-16-31-	21perrie (~perrie@129.56.12.109) has Quit (Ping timeout: 240 seconds21)
+T 1530898305 29<2125MrBIOS29>	walterbender: ping
+T 1530898331 31-21-25-29»	29perrie (~perrie@129.56.12.109) has Joined #sugar
+T 1530898336 29<2125MrBIOS29>	walterbender: I would like to propose one additional topic for the SLOB meeting today
+T 1530898401 21«21-16-31-	21perrie (~perrie@129.56.12.109) has Quit (Read error: No route to host21)
+T 1530898436 31-21-25-29»	29perrie (~perrie@129.56.12.109) has Joined #sugar
+T 1530898473 21«21-16-31-	21perrie_ (~perrie@197.210.227.124) has Quit (Ping timeout: 264 seconds21)
+T 1530899254 21«21-16-31-	21perrie (~perrie@129.56.12.109) has Quit (Remote host closed the connection21)
+T 1530899436 21«21-16-31-	21rishabh42 (~rishabh@122.173.101.71) has Quit (Quit: Leaving21)
+T 1530899511 21«21-16-31-	21satellit (~satellit@c-76-28-208-105.hsd1.wa.comcast.net) has Quit (Quit: Leaving21)
+T 1530899583 29<2125octamois29>	Pro-Panda: I meant to install the toolkit, sugar is prerequisite?
+T 1530900057 31-21-25-29»	29perrie (~perrie@197.211.61.172) has Joined #sugar
+T 1530900163 21«21-16-31-	21MrBIOS (~aperez@c-24-130-45-179.hsd1.ca.comcast.net) has Quit (Quit: MrBIOS21)
+T 1530900725 21«21-16-31-	21perrie (~perrie@197.211.61.172) has Quit (Ping timeout: 240 seconds21)
+T 1530904417 16»25»	Disconnected (Connection reset by peer).
+T 1530904422 FiSHLiM plugin unloaded
+T 1530988808 16»19»	16Now talking on #sugar
+T 1530988808 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1530988808 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1530988808 22*	Channel 22#sugar url: 24http://sugarlabs.org/

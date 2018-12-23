@@ -1,1 +1,1 @@
-{'css': '', 'statusbar': True, 'nightmode': True, 'word-wrap': True, 'font': 'Sans 13', 'style': 'github', 'vertical': False, 'line-numbers': True, 'live-preview': True, 'toolbar': True}
+{'css': '', 'font': 'Sans 13', 'line-numbers': True, 'live-preview': True, 'nightmode': True, 'statusbar': False, 'style': 'dark', 'toolbar': False, 'vertical': False, 'word-wrap': True}

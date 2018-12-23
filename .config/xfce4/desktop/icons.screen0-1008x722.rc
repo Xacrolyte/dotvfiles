@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6f430956f4153662b4a4ddf8d5e3bdb96f2a240c600fe4ded636266e7158678
-size 783
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/vipulgupta2048/Desktop/New File]
+row=4
+col=0
+
+[/home/vipulgupta2048/Desktop/groove.xspf]
+row=3
+col=1
+
+[/home/vipulgupta2048/Desktop/Desktop]
+row=3
+col=0
+
+[/home/vipulgupta2048/Desktop/X desktop Stuff]
+row=2
+col=2
+
+[/home/vipulgupta2048/Desktop/note.txt]
+row=5
+col=1
+
+[/home/vipulgupta2048/Desktop/Redmi Note 4 Lineage OS]
+row=4
+col=1
+
+[/home/vipulgupta2048/Desktop/Telegram]
+row=1
+col=3
+
+[/home/vipulgupta2048/Desktop/popcorntime]
+row=3
+col=2
+
+[84967E1A967E0D44]
+row=0
+col=1
+
+[423B-3EAB]
+row=0
+col=2
+
+[0C827B1A827B078A]
+row=1
+col=0
+
+[0CB471A6B47192C6]
+row=1
+col=1
+
+[google-drive://vipulgupta2048@gmail.com/]
+row=2
+col=0
+
+[59D7-7806]
+row=5
+col=0
+
+[Trash]
+row=1
+col=2
+
+[/]
+row=0
+col=0
+
+[/home/vipulgupta2048]
+row=2
+col=1
+

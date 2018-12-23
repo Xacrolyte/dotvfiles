@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6fe248358cd706234fec347a8170ae24e944d5c9e61d9c83f5a8af0d396a216
-size 248
+Copy files from /usr/share/geany to this directory to overwrite them. To use the defaults, just delete the file in this directory.
+For more information read the documentation (in /usr/share/doc/geany/html/index.html or visit http://www.geany.org/).

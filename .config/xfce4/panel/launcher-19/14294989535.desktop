@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cb3e422c9d209b95c19b483ebdb06b3fc43aca0d08a30d064418ae7d49152d78
-size 303
+[Desktop Entry]
+Version=1.0
+Name=Application Finder
+Comment=Find and launch applications installed on your system
+Exec=xfce4-appfinder
+Icon=xfce4-appfinder
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=X-XFCE;Utility;
+X-XFCE-Source=file:///usr/share/applications/xfce4-appfinder.desktop

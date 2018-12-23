@@ -1,3 +1,352 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc605367595d99d2bc3852260659abf98fdc1ef9a177ec6422bbf6f0f2e17a97
-size 30131
+T 1544213735 16»19»	16Now talking on #sugar-meeting
+T 1544213735 29»17»	29Topic for #sugar-meeting is: The meeting channel for the Sugar learning platform | Meeting logs at http://meeting.sugarlabs.org/sugar-meeting/meetings | See also #sugar | THIS CHANNEL IS ALWAYS LOGGED
+T 1544213735 29»17»	29Topic for #sugar-meeting set by bernie at Fri May 11 00:29:23 2012
+T 1544213844 29<2125perrie29>	yeah
+T 1544214086 31-21-25-29»	29iqra (~Mutter@39.40.136.146) has Joined #sugar-meeting
+T 1544214267 21«21-16-31-	21iqra (~Mutter@39.40.136.146) has Quit (Client Quit21)
+T 1544214419 24<Quozl24>24	oh, i see, 20utc was half an hour ago, and 4pm us/eastern is in half an hour from now.
+T 1544214969 31-21-25-29»	29iqra (~Mutter@39.40.136.146) has Joined #sugar-meeting
+T 1544215146 21«21-16-31-	21iqra (~Mutter@39.40.136.146) has Quit (Client Quit21)
+T 1544215217 21«21-16-31-	21samsongoddy (~samsongod@169.159.86.242) has Quit (Remote host closed the connection21)
+T 1544215231 31-21-25-29»	29MrBIOS (~aperez@c-67-170-219-226.hsd1.ca.comcast.net) has Joined #sugar-meeting
+T 1544215615 24<walterbender24>24	Quozl, yes... I messed up
+T 1544215650 24<walterbender24>24	We could do the India thing and be on the half hour... or the Nepal thing and do 15 minutes from India :P
+T 1544215787 24»24»	24<walterbender24>24 is looking forward to not being the one to run meetings
+T 1544215818 29<2125MrBIOS29>	what got messed up?
+T 1544215947 24<Quozl24>24	copy and paste error, is all.
+T 1544215958 24<Quozl24>24	some country somewhere changed their offset to utc.
+T 1544216015 24<walterbender24>24	I was a ploy to see if I could get some SLOB members to show up :P
+T 1544216113 31-21-25-29»	29callaurrea (6b4de28d@gateway/web/freenode/ip.107.77.226.141) has Joined #sugar-meeting
+T 1544216127 29<2125callaurrea29>	good afternoon
+T 1544216167 24<walterbender24>24	hi callaurrea
+T 1544216168 29<2125sammy29>	hello callaurrea
+T 1544216217 29<2125callaurrea29>	Good to be here
+T 1544216226 29<2125callaurrea29>	early
+T 1544216233 29<2125callaurrea29>	and no drama with irc
+T 1544216235 29<2125callaurrea29>	:)
+T 1544216243 29<2125sammy29>	Lol
+T 1544216248 29<2125amaan_iqbal929>	Yes, lol
+T 1544216259 29<2125callaurrea29>	hehe
+T 1544216264 29<2125callaurrea29>	I was nervous
+T 1544216266 29<2125amaan_iqbal929>	Many times I had faced the problem of IRC blocking me
+T 1544216270 29<2125perrie29>	lol
+T 1544216314 24<Quozl24>24	the irc blocking may return, it depends on the war.
+T 1544216324 29<2125MrBIOS29>	so far, so good. For now.
+T 1544216330 24<Quozl24>24	so work on your registration.
+T 1544216341 24<Quozl24>24	and get a good irc client that knows how to do registration.
+T 1544216347 24<walterbender24>24	I heard it is some guy in his bedroom in New Jersey.
+T 1544216361 29<2125MrBIOS29>	Quozl: s/bedroom/parent’s basement/g
+T 1544216373 24<Quozl24>24	i heard it was a rogue ai.
+T 1544216374 29<2125callaurrea29>	that explains it all
+T 1544216378 29<2125MrBIOS29>	walterbender: , rather
+T 1544216382 24<Quozl24>24	one of those silly chatbots nobody needs.  ;-)
+T 1544216395 24<walterbender24>24	Well... we should get started
+T 1544216401 29<2125amaan_iqbal929>	Yup
+T 1544216413 16»24»24	MrBIOS returns to lurking
+T 1544216435 24<walterbender24>24	welcome to the last SL oversight board meeting of 2019.
+T 1544216443 24<walterbender24>24	Any SLOB members here?
+T 1544216445 29<2125MrBIOS29>	is samson joining?
+T 1544216446 24<walterbender24>24	callaurrea,
+T 1544216454 29<2125sammy29>	i am here
+T 1544216460 29<2125sammy29>	samsongoddy is sammy
+T 1544216465 29<2125MrBIOS29>	ah ok :)
+T 1544216470 24<walterbender24>24	One more and we have a quorum
+T 1544216486 24<walterbender24>24	But we start regardless.
+T 1544216495 24<walterbender24>24	#topic GCI
+T 1544216504 24<walterbender24>24	We are entering the last week of GCI
+T 1544216517 24<walterbender24>24	It has been really busy from the start
+T 1544216547 29<2125callaurrea29>	great
+T 1544216554 29<2125ifeanyi_29>	I'm here
+T 1544216567 24<walterbender24>24	more than 500 students are participating
+T 1544216589 24<Quozl24>24	i think the quantity and quality of coding is substantially down from last year, and i think that is reflection of the number of mentors who haven't made comprehensive contributions.
+T 1544216614 24<Quozl24>24	but then, i'm only measuring pull requests and commits.  not the stuff that generates nothing.
+T 1544216643 24<walterbender24>24	I think is it less about mentoring and more about the tasks we made available
+T 1544216647 29<2125MrBIOS29>	is there a comprehensive list of GCI tasks that have been worked on and completed, outside of the GCI web UI?
+T 1544216658 29<2125MrBIOS29>	it seems there is a transparency problem on that front
+T 1544216670 24<walterbender24>24	That is a structural problem.
+T 1544216690 24<walterbender24>24	Not sure how to fix it
+T 1544216705 24<Quozl24>24	MrBIOS: as it is a competition, there is a private group that has access, and limited review of task definitions.  the more people who have access, the greater risk of solutions being sold in advance to students.
+T 1544216719 24<walterbender24>24	But I didn't get much input from devel when making the initial task list before the contest began
+T 1544216738 29<2125MrBIOS29>	I understand.
+T 1544216740 29<2125amaan_iqbal929>	Its also a problem
+T 1544216741 29<2125callaurrea29>	hmmm
+T 1544216766 29<2125MrBIOS29>	when does GCI wrap up?
+T 1544216773 24<walterbender24>24	One week
+T 1544216794 29<2125amaan_iqbal929>	Around 5 days
+T 1544216814 29<2125callaurrea29>	It would be good to organize the tasks in different buckets and see if we have data that support the most successful ones
+T 1544216815 24<walterbender24>24	The bottom line, somewhat correlated with Quozl 's observation, is that the areas where there are active mentors get the most attention.
+T 1544216826 24<walterbender24>24	Lots of work done on Music Blocks, for example
+T 1544216831 24<walterbender24>24	and Sugarizer.
+T 1544216832 29<2125callaurrea29>	great
+T 1544216886 29<2125MrBIOS29>	has any work been done on Core Sugar during GCI?
+T 1544216893 24<walterbender24>24	very little
+T 1544216941 24<Quozl24>24	none on Sugar, some metadata fixes for activities, some API changes.
+T 1544216951 24<walterbender24>24	To be honest, I got caught by the earlier dates of the program this year. Not a good match with my work schedule.
+T 1544217045 24<Quozl24>24	thanks for the update, i'm fine to move on, i don't see any need to make a decision on this topic.
+T 1544217061 24<walterbender24>24	Just fodder for next year.
+T 1544217068 24<walterbender24>24	#topic election
+T 1544217076 24<walterbender24>24	sammy, can you give a quick update?
+T 1544217082 29<2125sammy29>	Sure
+T 1544217088 29<2125sammy29>	Everything is going fine
+T 1544217090 29<2125sammy29>	So far
+T 1544217100 29<2125sammy29>	About 40 voters already
+T 1544217106 24<walterbender24>24	One more week?
+T 1544217108 29<2125sammy29>	No complaints yet
+T 1544217123 24<Quozl24>24	40 out of how many again?
+T 1544217131 29<2125sammy29>	165
+T 1544217135 24<Quozl24>24	erk
+T 1544217140 29<2125callaurrea29>	sammy: can you please change the invitation to callaurrea@gmail.com
+T 1544217145 24<Quozl24>24	how many undeliverable bounces?
+T 1544217148 29<2125callaurrea29>	I don't use the laptop account
+T 1544217150 29<2125sammy29>	Okay sure
+T 1544217151 24<walterbender24>24	better than the usual turnout in the States
+T 1544217152 29<2125sammy29>	I will
+T 1544217159 29<2125callaurrea29>	thanks
+T 1544217168 29<2125sammy29>	Two bounces
+T 1544217173 29<2125sammy29>	Fixed all
+T 1544217175 24<Quozl24>24	walterbender: none of us would think the united states to be a reasonable representation of a democracy.  ;-)
+T 1544217203 31-21-25-29»	29ibiam (~myirc@197.210.226.143) has Joined #sugar-meeting
+T 1544217220 24<walterbender24>24	anything else on this topic?
+T 1544217234 24<Quozl24>24	next year i'd hope for seven days instead of 14.
+T 1544217236 29<2125MrBIOS29>	would it make sense to try and organize a Q&A session, on IRC, between now and the end of the election cycle?
+T 1544217250 29<2125ibiam29>	Hi, sorry I'm late
+T 1544217255 24<Quozl24>24	MrBIOS: isn't this it?
+T 1544217260 29<2125sammy29>	callaurrea, done
+T 1544217270 29<2125callaurrea29>	MrBIOS: great ideas
+T 1544217279 29<2125callaurrea29>	thanks, sammy
+T 1544217286 29<2125MrBIOS29>	Quozl: I would argue it’s a better idea to have more isolation between open campaigning and that, but sure, it could be
+T 1544217291 29<2125sammy29>	+1 MrBIOS
+T 1544217296 24<walterbender24>24	is ahmed idris here??? from Kano?
+T 1544217317 29<2125MrBIOS29>	is there anyone in this room who hasn’t voted yet? ;)
+T 1544217329 29<2125sammy29>	You mean, Kano, Nigeria
+T 1544217335 29<2125sammy29>	?
+T 1544217342 24<walterbender24>24	sammy, yes
+T 1544217375 29<2125sammy29>	I don't think ahmed idris is here
+T 1544217395 29<2125MrBIOS29>	was he supposed to be?
+T 1544217410 24<walterbender24>24	anything else re the election?
+T 1544217414 29<2125sammy29>	No
+T 1544217421 24<walterbender24>24	#topic local lab in Kano
+T 1544217421 29<2125sammy29>	I think i am done
+T 1544217449 24<walterbender24>24	I was approached by Ahmed about getting a local lab started in Kano, Nigeria
+T 1544217461 24<walterbender24>24	He had developers and educators and interest.
+T 1544217466 29<2125sammy29>	In person?
+T 1544217470 29<2125ibiam29>	Great
+T 1544217480 24<walterbender24>24	I was hoping he'd be able to join us today, but apparently not.
+T 1544217500 24<walterbender24>24	But I will ask him to introduce himself by email
+T 1544217520 29<2125ifeanyi_29>	Why Kano? How many active SL members are there?
+T 1544217538 29<2125MrBIOS29>	Good question. Kano is big, 9 million+
+T 1544217545 29<2125perrie29>	great!
+T 1544217545 29<2125sammy29>	Yes
+T 1544217555 29<2125ibiam29>	ifeanyi_: and it's probably where he resides too
+T 1544217556 29<2125sammy29>	One of the biggest in Nigeria
+T 1544217565 24<walterbender24>24	I will follow through... would be great.
+T 1544217577 29<2125ibiam29>	Yeah
+T 1544217580 24<walterbender24>24	Maybe we can transition to marketing...
+T 1544217586 29<2125sammy29>	sammy, i am interested in the conversation too
+T 1544217594 24<walterbender24>24	It seems we have several vectors for growth
+T 1544217603 24<walterbender24>24	things like Kano...
+T 1544217605 29<2125MrBIOS29>	perhaps it would make sense for it to be pan-Nigeria?
+T 1544217613 24<walterbender24>24	and platforms like RPi
+T 1544217627 24<walterbender24>24	and OS work like Quozl has been doing on Ubuntu
+T 1544217644 24<walterbender24>24	MrBIOS, let's see what their interests are...
+T 1544217645 29<2125ibiam29>	Yeahhh
+T 1544217651 29<2125MrBIOS29>	of course. Too bad he didn’t make it
+T 1544217700 29<2125sammy29>	RPi will be a good move
+T 1544217707 29<2125sammy29>	As per marketing
+T 1544217720 29<2125sammy29>	We need hardware to our software
+T 1544217727 24<walterbender24>24	It has been a halfhearted effort to date, but should be a serious on
+T 1544217732 24<walterbender24>24	one
+T 1544217745 24<walterbender24>24	We keep getting distracted
+T 1544217767 24<walterbender24>24	But focus has to be the order of the day for a small org with few devel resources
+T 1544217768 24<Quozl24>24	i make hardware, you could always ask my ceo.
+T 1544217821 24<walterbender24>24	Quozl, I haven't spoken to the Zamoras in a few years :P
+T 1544217833 24<Quozl24>24	i think for marketing a big problem we have is a web site made by volunteers or students that hasn't been provably successful; i suggested a/b testing in one of my github comments.
+T 1544217848 24<Quozl24>24	leah is my ceo.
+T 1544217863 24<walterbender24>24	Oh. I didn't know she was the CEO.
+T 1544217863 29<2125ibiam29>	Quozl: Leah Saddle?
+T 1544217865 24<walterbender24>24	Nice
+T 1544217875 29<2125sammy29>	Oh i spoke with her some months back
+T 1544217908 24<walterbender24>24	I will reach out to her because it is kind of silly we have zero direct communication with our biggest user group
+T 1544217953 24<Quozl24>24	for the web site it isn't enough to say "let's add a video", the question should be does it increase the time on page or not.
+T 1544217992 29<2125MrBIOS29>	yeah, low quality content is a problem
+T 1544218002 29<2125MrBIOS29>	it deserves some attention
+T 1544218008 29<2125sammy29>	Most of the stuff on the site was basically an upgrade of content from the old one
+T 1544218019 24<walterbender24>24	is that the right metric? or some action by the visitor to do something, e.g., contact us, download something...
+T 1544218022 24<Quozl24>24	i know we have stock of hardware, i just won't tell you how much.  contact leah.  you'll need to give a shipping address for quotation.
+T 1544218054 29<2125sammy29>	I am thinking about getting an NL3
+T 1544218100 29<2125MrBIOS29>	the PineBook is also something worth looking at, for bundling Sugar
+T 1544218103 24<Quozl24>24	just don't think of olpc as a web store.  ;-)
+T 1544218154 24<walterbender24>24	we should survey the possible platforms... haven't done that in a while...
+T 1544218164 29<2125MrBIOS29>	RPi3+ is much more performant than its ancestors
+T 1544218182 24<walterbender24>24	but making it easy to opt in to Sugar on a platform should be our approach
+T 1544218199 29<2125ibiam29>	Yeah
+T 1544218201 24<walterbender24>24	Sugar on RPi3 is more than adequate performance-wise
+T 1544218222 24<Quozl24>24	MrBIOS: selling preloaded microSD cards with Sugar would be a start, but nobody has offered to do so yet.
+T 1544218227 29<2125MrBIOS29>	I’ll do it
+T 1544218228 24<walterbender24>24	we need someone(s) dedicated to each platfrom
+T 1544218230 29<2125callaurrea29>	I also did not know Leah is the CEO
+T 1544218264 24<walterbender24>24	maybe time for a new org chart for Sugar Labs
+T 1544218264 29<2125MrBIOS29>	I already buy SD cards in bulk for my side business.
+T 1544218293 29<2125callaurrea29>	walterbender: have you been in touch with Paraguay?
+T 1544218299 24»24»	24<walterbender24>24 has thousands of USB drives we can hand out for free with Sugar on a Stick
+T 1544218305 29<2125sammy29>	What about Rwanda
+T 1544218317 29<2125callaurrea29>	Miguel Martin is the Secretary of Tech in Paraguay
+T 1544218318 24<walterbender24>24	callaurrea, not for a few months.
+T 1544218344 29<2125callaurrea29>	And Cecilia is also an advisor to the president
+T 1544218356 24<walterbender24>24	:)
+T 1544218361 29<2125callaurrea29>	I just saw news about a new Fab Lab
+T 1544218369 29<2125ibiam29>	Yeah I did too
+T 1544218370 29<2125callaurrea29>	we should connect with them
+T 1544218373 24<walterbender24>24	yes... I saw that
+T 1544218386 29<2125callaurrea29>	I did meet with Miguel
+T 1544218389 29<2125callaurrea29>	recently
+T 1544218399 29<2125MrBIOS29>	to what extent are XO’s or Sugar actually in use in Paraguay these days?
+T 1544218402 16»24»24	MrBIOS has no clue
+T 1544218403 24<walterbender24>24	I was hoping we'd get some GCI input from PY. That was when Pacita and I last spoke
+T 1544218417 31-21-25-29»	29amaan_iqbal9_ (9d2a33b1@gateway/web/freenode/ip.157.42.51.177) has Joined #sugar-meeting
+T 1544218418 24<walterbender24>24	MrBIOS, they still use Sugar
+T 1544218423 21«21-16-31-	21amaan_iqbal9 (9d2a33b1@gateway/web/freenode/ip.157.42.51.177) has Quit (Ping timeout: 256 seconds21)
+T 1544218423 29<2125callaurrea29>	let's coordinate a meeting with Pacita and Cecilia
+T 1544218427 24<walterbender24>24	ok
+T 1544218435 29<2125callaurrea29>	I will reach out
+T 1544218439 29<2125callaurrea29>	and cc you
+T 1544218468 24<walterbender24>24	anyway, I think organizing around platforms and places might work for us...
+T 1544218479 29<2125MrBIOS29>	yes, and the barrier to entry for that is low
+T 1544218481 24<walterbender24>24	and have a regular report of each
+T 1544218494 24<walterbender24>24	focus
+T 1544218524 29<2125amaan_iqbal9_29>	Any suggestions for the website?
+T 1544218535 29<2125sammy29>	Revise content
+T 1544218540 24<walterbender24>24	Revert back to the one we had in 2008?
+T 1544218549 29<2125MrBIOS29>	it requires too much scrolling, and there is no actual explanation of what Sugar is and why you would want to use it
+T 1544218560 29<2125MrBIOS29>	no, but some of that content is frankly of better quality, copy-wise
+T 1544218578 29<2125MrBIOS29>	so I’d say bring the copy back, at the very least, and having it be in a CMS is also highly advisable.
+T 1544218586 24<Quozl24>24	i suggest stopping all style and appearance changes until there is a/b testing of content happening.
+T 1544218596 24<walterbender24>24	Quozl, +1
+T 1544218608 29<2125MrBIOS29>	I would recommend Django, since it’s python based, or Wagtail, which is Django-based
+T 1544218612 29<2125amaan_iqbal9_29>	Where can I find the 2008 website BTW?
+T 1544218613 29<2125MrBIOS29>	and very widely used
+T 1544218615 29<2125perrie29>	+1 Quozl
+T 1544218618 29<2125MrBIOS29>	amaan_iqbal9_: archive.org
+T 1544218619 24<Quozl24>24	i suggest wordpress.  even more widely used.
+T 1544218624 29<2125amaan_iqbal9_29>	Quozl +1
+T 1544218633 29<2125MrBIOS29>	wordpress also has a much larger attack surface
+T 1544218638 24<Quozl24>24	yes.  ;-)
+T 1544218648 24<walterbender24>24	how about github.io
+T 1544218649 29<2125MrBIOS29>	it’s a bit of a security nightmare
+T 1544218659 24<walterbender24>24	that would force us to keep it simple
+T 1544218665 29<2125amaan_iqbal9_29>	We should think of collaborators from that domain too
+T 1544218674 29<2125sammy29>	GitHub.io uses the jekyll
+T 1544218677 29<2125sammy29>	I think
+T 1544218678 24<Quozl24>24	still, choice of tool or cms is not relevant.  we need content and testing.
+T 1544218685 29<2125sammy29>	Which SL.org uses
+T 1544218697 24<Quozl24>24	the choice of tool or cms depends on who offers to maintain the content.
+T 1544218713 29<2125sammy29>	yes, content is what is important
+T 1544218721 24<Quozl24>24	ultimately, the board is responsible for the content.
+T 1544218739 24<Quozl24>24	if the board can't get anyone to do it, the board must do it.
+T 1544218754 29<2125amaan_iqbal9_29>	Hmm
+T 1544218772 24»24»	24<walterbender24>24 wrote all the original content... but lost interest in all the graphics fussing about.
+T 1544218773 29<2125MrBIOS29>	amaan_iqbal9_: https://web.archive.org/web/20141221112218/http://sugarlabs.org/
+T 1544218776 29<2125ifeanyi_29>	I agree completely with @Quozl, it wouldn't matter what tool/platform is used if the content is engaging enough and the CTAs are pointing correctly for a better user experience/interaction
+T 1544218786 29<2125MrBIOS29>	you can scrub back and forth through the history of sugarlabs.org at the top of that page
+T 1544218806 29<2125MrBIOS29>	the engagement on our website is awful, people leave after a minute and a half
+T 1544218812 29<2125MrBIOS29>	that should be a point of concern
+T 1544218826 29<2125amaan_iqbal9_29>	+1
+T 1544218830 29<2125ifeanyi_29>	It's certainly a huge point of concern
+T 1544218838 24<Quozl24>24	they see a web site made by a bunch of students.  ;-)
+T 1544218840 24<walterbender24>24	not if they leave to download SoaS :P
+T 1544218855 24<Quozl24>24	if the download links operated on page, they wouldn't leave as they downloaded.
+T 1544218858 29<2125MrBIOS29>	walterbender: that download page is pretty awful too, on the wiki
+T 1544218876 24<Quozl24>24	yes, the wiki looks like it was cobbled together by wiki editors.
+T 1544218877 29<2125ifeanyi_29>	We also need to keep track of where users are coming from and where they go to after interacting with the website
+T 1544218880 24<walterbender24>24	yes... that was tongue in cheek
+T 1544218883 29<2125MrBIOS29>	correct, ifeanyi_
+T 1544218885 29<2125MrBIOS29>	Take a look at https://web.archive.org/web/20141223090335/http://www.sugarlabs.org/index.php?template=gallery&page=gallery
+T 1544218891 29<2125MrBIOS29>	as far as I know, we have nothing like that on the replacement website
+T 1544218953 29<2125amaan_iqbal9_29>	Thanks for the link, MrBIOS
+T 1544218955 24<walterbender24>24	the original website was not done by "a bunch of students"
+T 1544218955 24<Quozl24>24	i don't hear much of a consensus except "content".
+T 1544218976 24<walterbender24>24	Quozl, not sure what we as asked to agree on
+T 1544218981 29<2125MrBIOS29>	I would personally argue that restoring old content that is still relevant, within the context of the new web site design, can and should be done
+T 1544218995 29<2125MrBIOS29>	it’s the easiest move
+T 1544219031 29<2125perrie29>	exactly a new website design
+T 1544219042 29<2125MrBIOS29>	no, not a new design.
+T 1544219054 29<2125amaan_iqbal9_29>	Yup, for now I agree with MrBIOS
+T 1544219054 24<Quozl24>24	no, not a new design.
+T 1544219068 29<2125MrBIOS29>	I do think the navigation on the existing website kinda sucks, too, though, which contributes to the very short visit times
+T 1544219079 29<2125MrBIOS29>	but that’s neither here not there, because the content is weak
+T 1544219083 29<2125ifeanyi_29>	@walterbender: hinted about the graphics as well, that can immediately discourage interaction on a website (it all falls under content).
+T 1544219109 24<Quozl24>24	and we can't just guess what the right content is, it must be tested.
+T 1544219138 24<walterbender24>24	how do we set up an A-B test?
+T 1544219145 29<2125MrBIOS29>	walterbender: CMS makes this trivial
+T 1544219146 29<2125perrie29>	restucturing should come after the A-B
+T 1544219147 24<walterbender24>24	randomize where people land?
+T 1544219148 24<Quozl24>24	and with random strangers coming to our web site, the only option is a-b testing.
+T 1544219148 29<2125perrie29>	yeah
+T 1544219154 29<2125ifeanyi_29>	Testing is the first thing to do now before any other upgrade/update/changes
+T 1544219155 29<2125MrBIOS29>	CMS with the right plug-ins
+T 1544219174 29<2125callaurrea29>	it may be good to have something new...
+T 1544219174 24<Quozl24>24	there are tools to make that easier, but we have to want to do the testing.
+T 1544219175 29<2125MrBIOS29>	ifeanyi_: well, it’s difficult to produce different content for different users with the existing static content
+T 1544219175 29<2125callaurrea29>	but we would need to know the target audience, etc
+T 1544219206 29<2125sammy29>	our Target audience from my research are Developers
+T 1544219207 29<2125MrBIOS29>	we also need to pay attention to page load times, and not just from the continental US
+T 1544219211 24<walterbender24>24	I suspect (not an expert) that this is a well-understood process these days?
+T 1544219217 29<2125sammy29>	Visiting the site
+T 1544219221 29<2125MrBIOS29>	how long pages take to load directly impacts visit duration. this is well documented.
+T 1544219221 29<2125sammy29>	India on top
+T 1544219222 29<2125amaan_iqbal9_29>	We may think of developing the CMS in next year GSoC, but it will not be easy for someone now
+T 1544219228 29<2125sammy29>	Nigeria second
+T 1544219241 24<Quozl24>24	i think we make our own target audience.  we pivot toward the demand.  we shouldn't pivot toward india and nigeria developers.
+T 1544219253 29<2125MrBIOS29>	correct, we do. And we should.
+T 1544219276 24<Quozl24>24	one demand i've sensed is parents of children who want no advertising or tracking of their children.
+T 1544219285 29<2125sammy29>	first the Sugar users are not meant to be on the website
+T 1544219292 29<2125MrBIOS29>	which is probably a segment that’s only going to grow.
+T 1544219293 29<2125sammy29>	In browse activity
+T 1544219299 29<2125MrBIOS29>	sammy: we’re not talking about that, though.
+T 1544802036 16»19»	16Now talking on #sugar-meeting
+T 1544802036 29»17»	29Topic for #sugar-meeting is: The meeting channel for the Sugar learning platform | Meeting logs at http://meeting.sugarlabs.org/sugar-meeting/meetings | See also #sugar | THIS CHANNEL IS ALWAYS LOGGED
+T 1544802036 29»17»	29Topic for #sugar-meeting set by bernie at Fri May 11 00:29:23 2012
+T 1544802036 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1544802264 24<walterbender24>24	the GCI mentor meeting will be held in #sugar-gci
+T 1544802283 31<2116vipulgupta204831>	Thanks for the heads-up 
+T 1544802310 31<2116vipulgupta204831>	Should we add that detail on the mailing list
+T 1544802383 24<walterbender24>24	I sent email a few minutes ago
+T 1544802629 31-21-25-29»	29jaskirat___ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Joined #sugar-meeting
+T 1544802645 21«21-16-31-	21jaskirat_ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Quit (Ping timeout: 256 seconds21)
+T 1544802870 21«21-16-31-	21bezamin (6acfc5cd@gateway/web/freenode/ip.106.207.197.205) has Quit (21)
+T 1544802948 31-21-25-29»	29benzamin (9d2face8@gateway/web/freenode/ip.157.47.172.232) has Joined #sugar-meeting
+T 1544803091 21«21-16-31-	21ashnidh (~webchat@rev-18-85-44-69.sugarlabs.org) has Quit (Ping timeout: 244 seconds21)
+T 1544803126 24<iamarrow050224>24	walterbender vipulgupta2048 can we also join #sugar-gci ?
+T 1544803132 31-21-25-29»	29ashnidh (~webchat@rev-18-85-44-69.sugarlabs.org) has Joined #sugar-meeting
+T 1544803136 24<walterbender24>24	gci mentor meeting on #sugar-gci begins in 2 minutes
+T 1544803155 24<walterbender24>24	mentors only meeting...
+T 1544803161 31<2116vipulgupta204831>	Yeap.
+T 1544803176 29<2125iamarrow050229>	ok We can't :(
+T 1544803178 31-21-25-29»	29ibiam (~myirc@197.210.55.5) has Joined #sugar-meeting
+T 1544803202 31-21-25-29»	29Hrishi_ (uid200307@gateway/web/irccloud.com/x-kvojooehlmofszyb) has Joined #sugar-meeting
+T 1544803217 24<walterbender24>24	iamarrow0502, Hrishi_ we are meeting in #sugar-gci
+T 1544803228 29<2125Hrishi_29>	walterbender: alright
+T 1544803365 29<2125ibiam29>	Hi
+T 1544803443 24<walterbender24>24	ibiam, please join #sugar-gci
+T 1544803458 31<2116vipulgupta204831>	All mentors request to join #sugar-gci for the meeting
+T 1544803471 31<2116vipulgupta204831>	s/request/requested
+T 1544803481 29<2125ibiam29>	walterbender, I have  thanks
+T 1544803869 21«21-16-31-	21jaskirat___ (75f7daf0@gateway/web/freenode/ip.117.247.218.240) has Quit (Ping timeout: 256 seconds21)
+T 1544804420 31-21-25-29»	29perrie (~perriefid@197.210.53.214) has Joined #sugar-meeting
+T 1544804523 29<2125ibiam29>	perrie, we're at #sugar-gci
+T 1544805850 23«25-23-31-	23aust-n (uid319180@gateway/web/irccloud.com/x-yhblmkmqrnqwdcpd) has Left #sugar-meeting
+T 1544806613 31-21-25-29»	29Shivam_7557 (~kuthar805@47.31.137.236) has Joined #sugar-meeting
+T 1544806724 23«25-23-31-	23amaan_ (2f1d7004@gateway/web/freenode/ip.47.29.112.4) has Left #sugar-meeting
+T 1544806909 21«21-16-31-	21ashnidh (~webchat@rev-18-85-44-69.sugarlabs.org) has Quit (Quit: #sugar-meeting21)
+T 1544807231 21«21-16-31-	21perrie (~perriefid@197.210.53.214) has Quit (Quit: Mutter: www.mutterirc.com21)
+T 1544807983 21«21-16-31-	21benzamin (9d2face8@gateway/web/freenode/ip.157.47.172.232) has Quit (Ping timeout: 256 seconds21)
+T 1544808107 21«21-16-31-	21ibiam (~myirc@197.210.55.5) has Quit (Ping timeout: 240 seconds21)
+T 1544808248 21«21-16-31-	21llaske (~llaske@163.5.55.25) has Quit (Remote host closed the connection21)
+T 1544808535 31-21-25-29»	29aust-n (uid319180@gateway/web/irccloud.com/x-yhblmkmqrnqwdcpd) has Joined #sugar-meeting
+T 1544808755 29<2125aust-n29>	I have noticed that there are very few members of sugar on the #sugar-newbies channel
+T 1544808780 29<2125aust-n29>	As a result, there have been some queries by 'newbies' which have been left unanswered / the 'new' contributor leaves due to a lack of activity on the channel.
+T 1544808817 29<2125aust-n29>	Might it be a good idea to remove #sugar-newbies and instead point newbies towards this #sugar channel?
+T 1544808818 24<walterbender24>24	we should consolidate just to #sugar and #sugar-meeting
+T 1544808827 24<walterbender24>24	+1
+T 1544809058 FiSHLiM plugin unloaded
+T 1544809058 Python interface unloaded

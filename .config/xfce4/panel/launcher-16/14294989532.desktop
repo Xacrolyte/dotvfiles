@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a4f41ed365e8d43a1723fde13bb86eb3175bffcb19d4505c1920f3bd8e09514
-size 347
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=exo-open --launch MailReader %u
+Icon=internet-mail
+StartupNotify=false
+Terminal=false
+Categories=Network;X-XFCE;X-Xfce-Toplevel;
+OnlyShowIn=XFCE;
+X-XFCE-MimeType=x-scheme-handler/mailto;
+Name=Mail Reader
+Comment=Read your email
+X-XFCE-Source=file:///usr/share/applications/exo-mail-reader.desktop

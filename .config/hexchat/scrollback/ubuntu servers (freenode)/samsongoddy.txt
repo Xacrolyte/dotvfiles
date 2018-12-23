@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:518193441e441e1776ec0b395d006f212ccf159adff9edcb8d92d4705e049c8b
-size 2398
+T 1544804133 25<samsongoddy25>	what's up
+T 1544804149 25<samsongoddy25>	I haven't received update from you about Pycon
+T 1544804347 31<2116vipulgupta204831>	Hey bro
+T 1544804352 31<2116vipulgupta204831>	I still remember it 
+T 1544804370 25<samsongoddy25>	deadline?
+T 1544804389 31<2116vipulgupta204831>	Just that the crazy exam period just got over. I was taking a break, and working on some side projects. 
+T 1544804405 31<2116vipulgupta204831>	I have a hackathon at MS too, so my team is preparing for it.
+T 1544804410 25<samsongoddy25>	Oh nice
+T 1544804415 31<2116vipulgupta204831>	How about we hash this over on the weekend? 
+T 1544804421 31<2116vipulgupta204831>	let me check the deadline
+T 1544804425 25<samsongoddy25>	great
+T 1544804428 25<samsongoddy25>	sounds cool
+T 1544804500 31<2116vipulgupta204831>	Roger that
+T 1544804533 31<2116vipulgupta204831>	January 3, 2019: Deadline to submit a PyCon Talk proposal, Poster proposal, Education Summit proposal, and Las PyCon Charlas proposal
+T 1544804548 25<samsongoddy25>	Wow we need to work asap
+T 1544804556 25<samsongoddy25>	Walter wants to be in loop too
+T 1544804581 31<2116vipulgupta204831>	Roger that, he didn't reply to the mail. So, I didn't give it much thought
+T 1544804588 31<2116vipulgupta204831>	He might be busy. 
+T 1544804600 25<samsongoddy25>	We chat
+T 1544804605 25<samsongoddy25>	yes he is very busy
+T 1544804609 25<samsongoddy25>	But with google doc
+T 1544804614 25<samsongoddy25>	he can inpute
+T 1544804618 25<samsongoddy25>	input
+T 1544804663 31<2116vipulgupta204831>	Roger that. Can you form short points of what you are thinking and we can take it from there.
+T 1544804702 25<samsongoddy25>	You shared a doc to me right?
+T 1544804712 25<samsongoddy25>	I was thinking we look at walter's slide
+T 1544804717 25<samsongoddy25>	and modify it 
+T 1544804722 25<samsongoddy25>	He sent me a link
+T 1544804729 25<samsongoddy25>	I will check later today
+T 1544805187 31<2116vipulgupta204831>	Send me as well
+T 1544805226 25<samsongoddy25>	Sure
+T 1544805961 21«21-16-31-	21samsongoddy (~samsongod@169.159.80.213) has Quit (Remote host closed the connection21)
+T 1544806507 21«21-16-31-	21samsongoddy (~samsongod@169.159.80.213) has Quit (Ping timeout: 240 seconds21)

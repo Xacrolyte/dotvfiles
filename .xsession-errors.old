@@ -1,0 +1,961 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/vipulgupta2048/.Xauthority
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LC_MEASUREMENT=en_IN.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=en_IN.UTF-8
+dbus-update-activation-environment: setting LC_MONETARY=en_IN.UTF-8
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/xubuntu.mandatory.path
+dbus-update-activation-environment: setting S_COLORS=auto
+dbus-update-activation-environment: setting LC_NAME=en_IN.UTF-8
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/vipulgupta2048
+dbus-update-activation-environment: setting USER=vipulgupta2048
+dbus-update-activation-environment: setting DESKTOP_SESSION=xubuntu
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/xubuntu.default.path
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting PWD=/home/vipulgupta2048
+dbus-update-activation-environment: setting HOME=/home/vipulgupta2048
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xubuntu
+dbus-update-activation-environment: setting LC_ADDRESS=en_IN.UTF-8
+dbus-update-activation-environment: setting LC_NUMERIC=en_IN.UTF-8
+dbus-update-activation-environment: setting CLUTTER_BACKEND=x11
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=en_US:en
+dbus-update-activation-environment: setting LC_TELEPHONE=en_IN.UTF-8
+dbus-update-activation-environment: setting GDMSESSION=xubuntu
+dbus-update-activation-environment: setting LOGNAME=vipulgupta2048
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/vipulgupta2048/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg
+dbus-update-activation-environment: setting PATH=/home/vipulgupta2048/bin:/home/vipulgupta2048/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/vipulgupta2048/.rvm/bin
+dbus-update-activation-environment: setting LC_IDENTIFICATION=en_IN.UTF-8
+dbus-update-activation-environment: setting LC_TIME=en_IN.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+
+(xfce4-session:1393): xfce4-session-WARNING **: 15:41:22.385: Unable to launch "/home/vipulgupta2048/Desktop/X desktop Stuff/Telegram" (specified by autostart/Telegram.desktop): Failed to execute child process “/home/vipulgupta2048/Desktop/X” (No such file or directory)
+Trying location provider `geoclue2'...
+Trying location provider `geoclue2'...
+
+(polkit-gnome-authentication-agent-1:1497): GLib-CRITICAL **: 15:41:23.378: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1497): polkit-gnome-1-WARNING **: 15:41:23.381: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+weather-Message: 15:41:25.232: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(wrapper-1.0:1473): weather-WARNING **: 15:41:25.237: Download of weather data failed with HTTP Status Code 2, Reason phrase: Error resolving “api.met.no”: Temporary failure in name resolution
+
+(nm-applet:1506): Gtk-WARNING **: 15:41:25.817: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 15:41:25.945: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 15:41:25.945: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 15:41:25.992: Can't set a parent on widget which has a parent
+
+(wrapper-2.0:1469): Gtk-WARNING **: 15:41:26.203: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:27.172: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:27.197: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:27.213: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:27.222: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:27.223: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:27.233: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:27.240: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:27.250: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:27.291: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:27.292: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(nm-applet:1506): Gtk-CRITICAL **: 15:41:27.522: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 15:41:27.523: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 15:41:27.568: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 15:41:27.880: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 15:41:27.880: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 15:41:27.918: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 15:41:27.947: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 15:41:27.947: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 15:41:27.974: Can't set a parent on widget which has a parent
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.380: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.598: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.600: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.611: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.621: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.631: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.633: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.635: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.638: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.642: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.643: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 15:41:29.653: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+weather-Message: 15:41:35.747: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(Thunar:1404): GVFS-WARNING **: 15:42:04.080: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(Thunar:1404): GVFS-WARNING **: 15:42:04.080: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+[2034:2034:1222/154213.269708:ERROR:x11_input_method_context_impl_gtk.cc(144)] Not implemented reached in virtual void libgtkui::X11InputMethodContextImplGtk::SetSurroundingText(const base::string16 &, const gfx::Range &)
+[2034:2034:1222/154213.401793:ERROR:gpu_process_transport_factory.cc(967)] Lost UI shared context.
+
+(nm-applet:1506): Gtk-CRITICAL **: 15:45:33.586: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 15:45:33.586: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 15:45:33.592: Can't set a parent on widget which has a parent
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+
+(Thunar:1404): GVFS-WARNING **: 15:52:29.354: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(Thunar:1404): GVFS-WARNING **: 15:52:29.444: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(Thunar:1404): GVFS-WARNING **: 15:52:29.444: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(Telegram:3724): libappindicator-CRITICAL **: 15:52:34.189: app_indicator_set_icon_full: assertion 'IS_APP_INDICATOR (self)' failed
+
+(Telegram:3724): Gdk-CRITICAL **: 15:52:35.869: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(Thunar:1404): GVFS-WARNING **: 15:52:40.991: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+[0000556c0de11630] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+[mp3 @ 0x7f7d98c21680] Header missing
+
+(atril:4514): GVFS-WARNING **: 15:59:56.179: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.180: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.180: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.181: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.181: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.181: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.181: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.182: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.182: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.182: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.182: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.182: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.183: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.183: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.183: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.184: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.184: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.185: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.185: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.185: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.185: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.185: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.186: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.443: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.444: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.444: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.444: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.444: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.444: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.444: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.444: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.444: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.444: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.444: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.444: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.444: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.445: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.508: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.509: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.614: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.615: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.621: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.621: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.622: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.622: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.622: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.622: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.623: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.623: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.623: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.623: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.623: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.623: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.623: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.623: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.624: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.624: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.624: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.624: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.624: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.625: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.625: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.626: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.626: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.626: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.626: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.626: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.666: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.666: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.666: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.667: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.667: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.667: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.668: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.668: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.669: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.669: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.669: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.669: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.670: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.670: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.671: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.671: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.671: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.671: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.671: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.672: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.672: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.672: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.714: Error setting file metadata: can’t open metadata tree
+
+** (atril:4514): WARNING **: 15:59:56.714: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 15:59:56.874: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 15:59:56.875: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 15:59:56.915: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GVFS-WARNING **: 16:00:01.793: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(atril:4514): GVFS-WARNING **: 16:00:01.794: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+** (atril:4514): WARNING **: 16:00:01.799: Error setting file metadata: can’t open metadata tree
+
+(atril:4514): GLib-CRITICAL **: 16:00:04.931: g_source_set_ready_time: assertion 'source->priv != NULL' failed
+Gtk-Message: 16:00:10.440: GtkDialog mapped without a transient parent. This is discouraged.
+[2034:2119:1222/161419.938050:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161419.967050:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161431.483973:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161431.504135:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161441.636607:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161441.651539:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161547.387733:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161547.406529:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161605.742184:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161605.764533:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161630.194116:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161630.214146:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161640.468042:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161640.481791:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161709.052014:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161709.068321:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161734.330268:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/161734.348508:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162019.992739:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162020.245440:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162125.861884:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162126.040060:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162131.550774:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162131.735238:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162158.814183:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162158.835653:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162207.806068:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162207.824794:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162216.561218:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162216.734453:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162235.181674:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162235.386390:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+Gtk-Message: 16:29:01.698: GtkDialog mapped without a transient parent. This is discouraged.
+[2034:2119:1222/162912.628765:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/162912.870105:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/163029.924769:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+[2034:2119:1222/163029.959160:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+weather-Message: 16:41:40.909: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(nm-applet:1506): Gtk-CRITICAL **: 16:59:33.653: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 16:59:33.653: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 16:59:33.669: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:03:47.225: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:03:47.225: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 17:03:47.232: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:18:39.986: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:18:39.986: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 17:18:39.992: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:22:48.083: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:22:48.083: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 17:22:48.087: Can't set a parent on widget which has a parent
+[2034:2119:1222/172458.516267:ERROR:socket_stream.cc(219)] Closing stream with result -2
+weather-Message: 17:41:43.909: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:43:06.212: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:43:06.212: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 17:43:06.215: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:44:49.244: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:44:49.244: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 17:44:49.264: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:48:59.238: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:48:59.238: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 17:48:59.254: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:49:09.235: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 17:49:09.235: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 17:49:09.244: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 18:39:19.326: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 18:39:19.326: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 18:39:19.342: Can't set a parent on widget which has a parent
+weather-Message: 18:41:47.912: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(nm-applet:1506): Gtk-CRITICAL **: 18:44:51.887: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 18:44:51.888: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 18:44:51.899: Can't set a parent on widget which has a parent
+[00007f7d8cc181d0] mp4 demux: Fragment sequence discontinuity detected 1 != 0
+weather-Message: 19:41:51.908: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(nm-applet:1506): Gtk-CRITICAL **: 19:54:49.111: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 19:54:49.111: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 19:54:49.122: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 19:59:26.830: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 19:59:26.830: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 19:59:26.842: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:00:35.330: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:00:35.330: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 20:00:35.342: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:03:35.473: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:03:35.473: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 20:03:35.487: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:04:55.532: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:04:55.532: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 20:04:55.538: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:15:59.865: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:15:59.865: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 20:15:59.870: Can't set a parent on widget which has a parent
+thunar-volman: Unsupported USB device type "usb".
+thunar-volman: Unsupported USB device type "usb-storage".
+thunar-volman: Unknown block device type "disk".
+
+(Thunar:1404): GVFS-WARNING **: 20:20:28.094: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(Thunar:1404): GVFS-WARNING **: 20:20:28.094: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+libva info: VA-API version 1.1.0
+libva info: va_getDriverName() returns 0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so
+libva info: Found init function __vaDriverInit_1_1
+libva info: va_openDriver() returns 0
+[00007f7d8f3167e0] avcodec decoder: Using Intel i965 driver for Intel(R) Kaby Lake - 2.1.0 for hardware decoding
+[00007f7d8f3167e0] main decoder error: Timestamp conversion failed for 111736802: no reference clock
+[00007f7d8f3167e0] main decoder error: Could not convert timestamp 0 for FFmpeg
+[00007f7d8f3167e0] main decoder error: Timestamp conversion failed (delay 300000, buffering 100000, bound 9000000)
+[00007f7d8f3167e0] main decoder error: Could not convert timestamp 16878103770 for FFmpeg
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:22:56.262: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:22:56.262: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 20:22:56.275: Can't set a parent on widget which has a parent
+QObject::~QObject: Timers cannot be stopped from another thread
+[0000561a9941d630] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libva info: VA-API version 1.1.0
+libva info: va_getDriverName() returns 0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so
+libva info: Found init function __vaDriverInit_1_1
+libva info: va_openDriver() returns 0
+[00007fafc56e52e0] avcodec decoder: Using Intel i965 driver for Intel(R) Kaby Lake - 2.1.0 for hardware decoding
+[00007fafc56e52e0] main decoder error: Timestamp conversion failed (delay 300000, buffering 100000, bound 9000000)
+[00007fafc56e52e0] main decoder error: Could not convert timestamp 17021976503 for FFmpeg
+[00007fafc56e52e0] main decoder error: Timestamp conversion failed (delay 300000, buffering 100000, bound 9000000)
+[00007fafc56e52e0] main decoder error: Could not convert timestamp 17024239493 for FFmpeg
+[00007fafc56e52e0] main decoder error: Timestamp conversion failed (delay 300000, buffering 100000, bound 9000000)
+[00007fafc56e52e0] main decoder error: Could not convert timestamp 17046702231 for FFmpeg
+[00007fafc56e52e0] main decoder error: Timestamp conversion failed (delay 300000, buffering 100000, bound 9000000)
+[00007fafc56e52e0] main decoder error: Could not convert timestamp 17049373128 for FFmpeg
+[00007fafc56e52e0] main decoder error: Timestamp conversion failed (delay 300000, buffering 100000, bound 9000000)
+[00007fafc56e52e0] main decoder error: Could not convert timestamp 17048930659 for FFmpeg
+[00007fafc57b2fe0] main decoder error: Timestamp conversion failed for 590570667: no reference clock
+[00007fafc57b2fe0] main decoder error: Could not convert timestamp 0 for faad
+QObject::~QObject: Timers cannot be stopped from another thread
+[0000558eb9198630] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libva info: VA-API version 1.1.0
+libva info: va_getDriverName() returns 0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so
+libva info: Found init function __vaDriverInit_1_1
+libva info: va_openDriver() returns 0
+[00007fedd5739320] avcodec decoder: Using Intel i965 driver for Intel(R) Kaby Lake - 2.1.0 for hardware decoding
+QObject::~QObject: Timers cannot be stopped from another thread
+[00005627f7c9f630] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libva info: VA-API version 1.1.0
+libva info: va_getDriverName() returns 0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so
+libva info: Found init function __vaDriverInit_1_1
+libva info: va_openDriver() returns 0
+[00007fb47e218c50] avcodec decoder: Using Intel i965 driver for Intel(R) Kaby Lake - 2.1.0 for hardware decoding
+
+(xfdesktop:1409): GVFS-WARNING **: 20:25:58.913: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:25:58.924: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:25:58.937: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:25:58.945: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:25:58.964: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:25:58.968: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:25:58.971: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:25:58.974: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:25:58.977: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+[00007fb47e218c50] main decoder error: Timestamp conversion failed (delay 300000, buffering 100000, bound 9000000)
+[00007fb47e218c50] main decoder error: Could not convert timestamp 17186770139 for FFmpeg
+[00007fb47e2b1620] main decoder error: Timestamp conversion failed for 647168001: no reference clock
+[00007fb47e2b1620] main decoder error: Could not convert timestamp 0 for faad
+[00007fb47e218c50] main decoder error: Timestamp conversion failed for 697905542: no reference clock
+[00007fb47e218c50] main decoder error: Could not convert timestamp 0 for FFmpeg
+QObject::~QObject: Timers cannot be stopped from another thread
+[0000561d12109630] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+Failed to open VDPAU backend libvdpau_i965.so: cannot open shared object file: No such file or directory
+QObject::~QObject: Timers cannot be stopped from another thread
+[0000558aa9512630] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libva info: VA-API version 1.1.0
+libva info: va_getDriverName() returns 0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so
+libva info: Found init function __vaDriverInit_1_1
+libva info: va_openDriver() returns 0
+[00007f9b8a448e40] avcodec decoder: Using Intel i965 driver for Intel(R) Kaby Lake - 2.1.0 for hardware decoding
+
+(xfdesktop:1409): GVFS-WARNING **: 20:30:05.911: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:30:05.923: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:30:05.935: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:30:05.941: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:30:05.946: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:30:05.949: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:30:05.952: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:30:05.954: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 20:30:05.956: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:39:15.400: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:39:15.400: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 20:39:15.417: Can't set a parent on widget which has a parent
+weather-Message: 20:41:55.907: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:43:18.507: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:43:18.507: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 20:43:18.519: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:47:27.008: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:47:27.008: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 20:47:27.023: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:55:38.668: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 20:55:38.668: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 20:55:38.684: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:01:47.425: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:01:47.425: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 21:01:47.430: Can't set a parent on widget which has a parent
+[00007f9b8a448e40] main decoder error: Timestamp conversion failed for 2696110084: no reference clock
+[00007f9b8a448e40] main decoder error: Could not convert timestamp 0 for FFmpeg
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:04:37.538: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:04:37.539: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 21:04:37.554: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:11:17.755: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:11:17.756: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 21:11:17.768: Can't set a parent on widget which has a parent
+QObject::~QObject: Timers cannot be stopped from another thread
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:28:56.061: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:28:56.061: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 21:28:56.064: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:35:38.813: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:35:38.813: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 21:35:38.815: Can't set a parent on widget which has a parent
+weather-Message: 21:42:04.908: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:46:55.137: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:46:55.137: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 21:46:55.142: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:50:59.537: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 21:50:59.537: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 21:50:59.539: Can't set a parent on widget which has a parent
+weather-Message: 22:23:32.909: getting https://api.met.no/weatherapi/sunrise/1.1/?lat=28.572644;lon=77.354761;from=2018-12-22;to=2019-01-16
+
+(nm-applet:1506): Gtk-CRITICAL **: 22:31:37.957: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 22:31:37.957: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 22:31:37.971: Can't set a parent on widget which has a parent
+
+(xfdesktop:1409): GVFS-WARNING **: 22:35:29.806: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 22:35:29.812: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 22:35:29.815: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(nm-applet:1506): Gtk-CRITICAL **: 22:35:51.709: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 22:35:51.709: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 22:35:51.711: Can't set a parent on widget which has a parent
+
+(xfdesktop:1409): GVFS-WARNING **: 22:35:57.178: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 22:35:57.181: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 22:35:57.207: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 22:35:57.307: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(xfdesktop:1409): GVFS-WARNING **: 22:37:09.627: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(Thunar:1404): GVFS-WARNING **: 22:37:21.467: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(mousepad:19124): Gtk-WARNING **: 22:37:21.919: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:19124): Gtk-WARNING **: 22:37:21.919: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:19124): Gtk-WARNING **: 22:37:21.919: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:19124): Gtk-WARNING **: 22:37:21.919: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:19124): Gtk-WARNING **: 22:37:21.919: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+weather-Message: 22:42:09.913: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(Thunar:1404): GVFS-WARNING **: 22:50:15.617: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+
+(mousepad:19460): Gtk-WARNING **: 22:50:15.777: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:19460): Gtk-WARNING **: 22:50:15.777: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:19460): Gtk-WARNING **: 22:50:15.777: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:19460): Gtk-WARNING **: 22:50:15.777: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:19460): Gtk-WARNING **: 22:50:15.777: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(nm-applet:1506): Gtk-CRITICAL **: 22:58:34.543: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 22:58:34.543: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 22:58:34.552: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:04:22.896: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:04:22.896: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:04:22.910: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:04:42.262: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:04:42.262: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:04:42.271: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:07:02.939: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:07:02.939: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:07:02.947: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:08:07.828: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:08:07.828: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:08:07.837: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:17:03.052: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:17:03.052: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:17:03.058: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:19:01.263: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:19:01.263: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:19:01.269: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:20:20.739: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:20:20.739: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:20:20.745: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:24:33.170: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:24:33.171: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:24:33.179: Can't set a parent on widget which has a parent
+[2034:2119:1222/232638.913108:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:32:17.787: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:32:17.787: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:32:17.796: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:32:23.353: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:32:23.353: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:32:23.358: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:32:24.314: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:32:24.314: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 23:32:24.320: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:32:24.324: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 23:32:24.324: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+[2034:2119:1222/233227.452388:ERROR:connection_factory_impl.cc(408)] Failed to connect to MCS endpoint with error -21
+weather-Message: 02:35:00.980: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(wrapper-1.0:1473): weather-WARNING **: 02:35:00.984: Download of weather data failed with HTTP Status Code 2, Reason phrase: Error resolving “api.met.no”: Temporary failure in name resolution
+
+(nm-applet:1506): Gtk-WARNING **: 02:35:05.388: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:05.451: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:05.451: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:35:05.457: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:10.311: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:10.311: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:35:10.349: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:10.376: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:10.376: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:35:10.406: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:10.511: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:10.512: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:35:10.539: Can't set a parent on widget which has a parent
+weather-Message: 02:35:10.908: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(wrapper-1.0:1473): weather-WARNING **: 02:35:10.911: Download of weather data failed with HTTP Status Code 2, Reason phrase: Error resolving “api.met.no”: Temporary failure in name resolution
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:12.794: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:12.795: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:35:12.823: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:12.845: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:12.846: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:35:12.870: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:14.257: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:14.257: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:35:14.295: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:14.325: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:35:14.325: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:35:14.357: Can't set a parent on widget which has a parent
+weather-Message: 02:35:20.910: getting https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=28.572644;lon=77.354761;msl=202
+
+(Thunar:1404): GVFS-WARNING **: 02:35:39.430: can't init metadata tree /home/vipulgupta2048/.local/share/gvfs-metadata/home: open: Permission denied
+[000055cf191c7630] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+[mp3 @ 0x7fbcfcc22f00] Header missing
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:39:25.006: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:39:25.006: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:39:25.024: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:40:05.030: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:40:05.031: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:40:05.043: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:42:52.484: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:42:52.484: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:42:52.507: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:49:15.417: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:49:15.418: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:49:15.435: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:49:25.418: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:49:25.418: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:49:25.422: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:51:51.525: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:51:51.525: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:51:51.547: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:58:15.766: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:58:15.766: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:58:15.783: Can't set a parent on widget which has a parent
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:58:55.799: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-CRITICAL **: 02:58:55.799: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1506): Gtk-WARNING **: 02:58:55.812: Can't set a parent on widget which has a parent
+
+(xfdesktop:1409): GLib-CRITICAL **: 03:01:16.594: Source ID 91 was not found when attempting to remove it
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+The X11 connection broke (error 1). Did the X11 server die?

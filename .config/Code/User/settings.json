@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c281a59b80353c57e0330edb85f4f7baddcb0b3a3ba66e6c005b831cda91ff3d
-size 705
+{
+    "editor.wordWrap": "on",
+    "editor.scrollBeyondLastLine": false,
+    "editor.smoothScrolling": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "window.restoreFullscreen": true,
+    "terminal.integrated.enableBell": true,
+    "update.enableWindowsBackgroundUpdates": false,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.tabSize": 2,
+    "html.format.indentInnerHtml": true,
+    "editor.detectIndentation": false,
+    "zenMode.hideActivityBar": false,
+    "zenMode.centerLayout": false,
+    "zenMode.hideTabs": false
+}

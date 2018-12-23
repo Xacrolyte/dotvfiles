@@ -1,3 +1,37 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46b309124803d916a94ff7b60d22630558164ef27fa2f5aa722b0c7dcf6cf9cd
-size 635
+# For complete documentation of this file, please see Geany's main documentation
+[styling]
+# Edit these in the colorscheme .conf file intead
+default=default
+strong=tag
+emphasis=tag
+underlined=tag
+header1=tag
+header2=tag
+header3=tag
+header4=tag
+header5=tag
+header6=tag
+ulist_item=tag
+olist_item=tag
+blockquote=tag
+strikeout=tag
+hrule=tag
+link=function
+code=identifier_1
+codebk=identifier_2
+comment=comment
+option=operator
+preproc=preprocessor
+postproc=preprocessor
+
+[settings]
+# default extension used when saving files
+extension=txt2tags
+
+# sort tags by appearance
+symbol_list_sort_mode=1
+
+[keywords]
+primary=includeconf options toc
+
+

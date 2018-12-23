@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:088ca6032ccf97aa646cbc8a39b41ad97a95457850b60fcf4dca0dbd0e8c33b6
-size 185
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=TLP RESTART
+Comment=Power saving tool
+Exec=tlp start
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=true
+

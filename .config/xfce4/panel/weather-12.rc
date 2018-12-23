@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:636ec02af4e90f5989d863e6b0c0a2d581221fbc9bd92aff5d676cd3cc8a7537
-size 527
+loc_name=Noida, Ghaziabad
+lat=28.572644
+lon=77.354761
+msl=202
+timezone=Asia/Kolkata
+cache_file_max_age=172800
+power_saving=true
+units_temperature=0
+units_pressure=2
+units_windspeed=0
+units_precipitation=0
+units_altitude=0
+model_apparent_temperature=0
+round=true
+single_row=true
+tooltip_style=1
+forecast_layout=1
+forecast_days=5
+scrollbox_animate=false
+theme_dir=/usr/share/xfce4/weather/icons/liquid-dark
+show_scrollbox=true
+scrollbox_lines=1
+scrollbox_color=#000000000000
+scrollbox_use_color=false
+label0=3
+label1=7
+label2=5
+

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea0dc0b5df6ba9a51f65704e9814147b1307a08a3bd0134e5041451a3c0aad92
-size 302
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Psensor
+GenericName=Psensor
+Comment=Psensor is a graphical temperature monitor for Linux
+Keywords=temperature;fan;monitoring;indicator;
+Icon=psensor
+TryExec=psensor
+Exec=psensor
+Categories=System;Monitor;
+X-GNOME-Autostart-Delay=30
+StartupNotify=true
+

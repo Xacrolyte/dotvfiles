@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fa5b1a13a107476c6001387c61bee60ff66f6b6bcf8283fa25adc14c54767a17
-size 281
+gtk_color_scheme = "notes_fg_color:#f7f7ebeb9696\nnotes_bg_color:#690963ef3fc9\nnotes_base_color:#f7f7ebeb9696\nnotes_text_color:#690963ef3fc9\nnotes_selected_bg_color:#88dc8236531d\nnotes_selected_fg_color:#f7f7ebeb9696"
+include "/usr/share/xfce4-notes-plugin/gtk-2.0/notes.gtkrc"

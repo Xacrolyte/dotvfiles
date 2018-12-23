@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6fd53f6818fbe92a65b928a67a8aa2ecfad057487b7567ec5b8c2d13566430e0
-size 463
+[Settings]
+ShowAllProcesses=FALSE
+MorePrecision=FALSE
+FullCommandLine=FALSE
+ShowStatusIcon=FALSE
+ShowMemoryInXBytes=FALSE
+MonitorPaintBox=TRUE
+ShowApplicationIcons=TRUE
+ToolbarStyle=LARGE
+PromptTerminateTask=TRUE
+RefreshRate=5000
+ColumnUID=FALSE
+ColumnPID=TRUE
+ColumnPPID=FALSE
+ColumnState=FALSE
+ColumnVSZ=FALSE
+ColumnRSS=TRUE
+ColumnCPU=TRUE
+ColumnPriority=FALSE
+SortColumn=7
+SortType=1
+WindowWidth=1920
+WindowHeight=1024
+HandlePosition=100
+ProcessTreeView=FALSE

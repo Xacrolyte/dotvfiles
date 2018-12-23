@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c72b06f9f679ab30f27a1d6a545e21c67c4baf5ac5f527b2e8bd90023405c48c
-size 191
+# For complete documentation of this file, please see Geany's main documentation
+[styling]
+# no syntax highlighting yet
+
+[settings]
+# default extension used when saving files
+extension=abc
+
+

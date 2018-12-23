@@ -1,3 +1,505 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:709eb65e96c207701d64c2c61c36e863da69d28ad92afed39cd0956c1e6fc6ca
-size 45787
+T 1529686174 24<walterbender24>24	drives
+T 1529686179 29<2125riyalohia29>	Also, I have finished the functionality to add notes equally.
+T 1529686226 29<2125riyalohia29>	In the coming week, I will work on adding notes through ratios and arbitrarily.
+T 1529686231 31-21-25-29»	29mohayon (~mohayon@37.171.213.144) has Joined #sugar-meeting
+T 1529686258 29<2125riyalohia29>	walterbender, thank you :)
+T 1529686278 24<walterbender24>24	octamois, are you there?
+T 1529686325 29<2125amanharitsh12329>	walterbender He is having some family issues right now , so he will not be able to attend todays meeting
+T 1529686339 24<walterbender24>24	amanharitsh123, oh. yes. He told me.
+T 1529686340 29<2125amanharitsh12329>	he has dropped you a email regarding the smae
+T 1529686364 24<walterbender24>24	iqra, I think you are next
+T 1529686369 29<2125iqra29>	Hi
+T 1529686378 29<2125iqra29>	This week, I did the following tasks for sugarizer primero.   1.I fixed few bugs in the homeview of the application.  2. Fixed the stop button issue in some activities 3.I converted the existing web app into an android app by using Cordova. 4. Wrote blog post for this week
+T 1529686387 29<2125iqra29>	You can visit all the details on my blog post for this week. https://wordpress.com/post/iqragsoc.wordpress.com/98
+T 1529686397 29<2125iqra29>	Plans for next week:  1. Fix the size of circles in MathStix Activity.  2.Use cordova for producing a primero app for windows.  3.Fix the restart button in MathStix Activity 4. test the android app for any further issues
+T 1529686407 29<2125iqra29>	Problems faced.  None
+T 1529686451 24<walterbender24>24	iqra, any more apps in the queue?
+T 1529686481 29<2125iqra29>	No will be using cordova to convert the primero web app into windows, ios and android
+T 1529686522 24<walterbender24>24	I was asking if you are planning to develop any new apps in the next few weeks?
+T 1529686530 29<2125iqra29>	oh yes
+T 1529686542 29<2125iqra29>	I will be making a windows app
+T 1529686556 29<2125iqra29>	I dont have a MAC so I am not sure about ios
+T 1529686585 29<2125iqra29>	*sorry about the type in above sentence
+T 1529686598 29<2125iqra29>	*typo
+T 1529686601 24<walterbender24>24	I mean... you have done math sticks...
+T 1529686621 29<2125jaskirat29>	iqra: thatbsounds great doing great work
+T 1529686623 24<walterbender24>24	what other activities for the kids are you working on
+T 1529686650 29<2125iqra29>	I am redesigning some of the existing actvities
+T 1529686666 29<2125iqra29>	Caryl asked to stop working on MathStiX for now.
+T 1529686684 29<2125iqra29>	if we have time we can more things in MathStiX
+T 1529686697 24<walterbender24>24	OK
+T 1529686725 24<walterbender24>24	Pratul1997, did I miss you again :P
+T 1529686729 24<walterbender24>24	sorry about that
+T 1529686746 29<2125iqra29>	thats all from my side.
+T 1529686755 29<2125Pratul199729>	Yeh
+T 1529686757 24<walterbender24>24	I somehow miss your name in the multiple Pro-Pandas in the list
+T 1529686768 24<walterbender24>24	Pratul1997, please go ahead
+T 1529686786 29<2125Pratul199729>	This week I have been trying to learn about Promises in NodeJs to avoid callback hell, along with ReactJs for the frontend. I realized without using a front-end framework like react things might turn difficult and a lot of repetitive coding might be done.
+T 1529686794 29<2125Pro-Panda29>	walterbender: hehe. I will remove pro-panda[m]
+T 1529686806 29<2125Pratul199729>	Next Week would be applying the gained skills to the project and doing documentation of the current project status.
+T 1529686821 24<walterbender24>24	Pro-Panda, don't worry about it...
+T 1529686828 24<walterbender24>24	Pratul1997, +1
+T 1529686837 29<2125Pratul199729>	I corrected the things which you suggested me on mail
+T 1529686839 24<walterbender24>24	promises in JS are cool
+T 1529686844 24<walterbender24>24	Pratul1997, thx
+T 1529686858 29<2125Pro-Panda29>	+1 for promises :-D
+T 1529686864 29<2125Pratul199729>	No specific problem currently.
+T 1529686875 24<walterbender24>24	grear
+T 1529686877 24<walterbender24>24	great
+T 1529686886 24»24»	24<walterbender24>24 cannot type today
+T 1529686900 24<walterbender24>24	amanharitsh123, I think it is your turn
+T 1529686914 29<2125jaskirat29>	Pratul1997: thats great , i can help you more in ui
+T 1529686938 29<2125amanharitsh12329>	Hi all , so this week was mostly testing , optimizing and merging final commits into our master branch. So , firstly we started with finalizing commits on dev branch to make sure that everything works and we are not missing something.The changes was finalized , all open issues were closed and commit merged into master.A shocking discovery we made t
+T 1529686938 29<2125amanharitsh12329>	his week , is that docker containers require internet connection in the firstboot otherwise they on restarting . Michael is currently working on it and I begin to make a offline version on the image by doing a successful firstboot on my pi and taking its backup. This backup image is awesome as its boot docker container containers in minutes as well
+T 1529686938 29<2125amanharitsh12329>	 as without internet connection. Hrishi and Rishabh tested the image and verifies the image works great on their pi to. Only concern regarding this image is size , thats almost 7.8GB but we compressed that so now 1.5GB of download.So now 8GB sd card is a requirement.
+T 1529686938 29<2125amanharitsh12329>	 
+T 1529686938 29<2125amanharitsh12329>	I have applied some optimizations as well so now that the image is up and working in 25-30mins on my class 4 sd card , also applied grunt optimizations.Now no need to restart or anything , just plug pi and wait :) .
+T 1529686939 29<2125amanharitsh12329>	So we can say we are almost done with the image , only some cosmetic changes  like static ip and local DNS remains.
+T 1529686944 29<2125Pratul199729>	Thanks jaskirat , great support :)
+T 1529686971 29<2125jaskirat29>	Pratul1997: thanks
+T 1529686987 24<walterbender24>24	nice
+T 1529686999 24»24»	24<walterbender24>24 needs a primer on docker from you some time
+T 1529687015 29<2125amanharitsh12329>	Yeah we did lots of work this week :)
+T 1529687023 24<walterbender24>24	a-ritwik, I think it is your turn?
+T 1529687040 29<2125a-ritwik29>	This week I integrated software keyboard with MB and currently looking at various methods in Tonejs, to choose suitable for use in keypress.
+T 1529687043 16»24»24	amanharitsh123 will be learning about linux networking this weekend
+T 1529687051 29<2125a-ritwik29>	If a key pressed for 4 seconds then sound should keep coming for those 4 seconds. I am looking for such a method.
+T 1529687080 24<walterbender24>24	a-ritwik, I think you need to start the sound and then stop it.
+T 1529687096 24<walterbender24>24	a one second keypress is a reasonable maximum
+T 1529687123 29<2125a-ritwik29>	walterbender: Okay
+T 1529687142 29<2125a-ritwik29>	Regarding meter in rhythm ruler I think design sent by Devin is appropriate for our use.
+T 1529687149 24<walterbender24>24	did you resolve the press vs release issue
+T 1529687176 29<2125a-ritwik29>	walterbender: not yet, searching for method.
+T 1529687322 21«21-16-31-	21mohayon (~mohayon@37.171.213.144) has Quit (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com )21)
+T 1529687345 24<walterbender24>24	anything else for today?
+T 1529687350 24»24»	24<walterbender24>24 has to run to a meeting
+T 1529687367 29<2125jaskirat29>	I guess done from my side
+T 1529687381 24<walterbender24>24	thanks everyone
+T 1529687393 24<walterbender24>24	see you in cyberspace :)
+T 1529687400 24<walterbender24>24	#end-meeting
+T 1529687402 29<2125meeting29>	Meeting ended Fri Jun 22 17:10:04 2018 UTC. Information about MeetBot at http://wiki.debian.org/MeetBot. (v 0.1.4)
+T 1529687403 29<2125meeting29>	Minutes: http://meeting.sugarlabs.org/sugar-meeting/meetings/2018-06-22T16:30:36.html
+T 1529687404 29<2125meeting29>	Log:     http://meeting.sugarlabs.org/sugar-meeting/meetings/2018-06-22T16:30:36
+T 1529687409 29<2125rdrsadhu29>	and we are done in 40 minutes today :D
+T 1529687449 21«21-16-31-	21vaibhavdaren (~vaibhavda@119.82.82.122) has Quit (Quit: Leaving21)
+T 1529687460 21«21-16-31-	21a-ritwik (db5be628@gateway/web/freenode/ip.219.91.230.40) has Quit (Ping timeout: 260 seconds21)
+T 1529687463 21«21-16-31-	21Pro-Panda (31208d1c@gateway/web/freenode/ip.49.32.141.28) has Quit (21)
+T 1529687474 21«21-16-31-	21riyalohia (dfbd429a@gateway/web/freenode/ip.223.189.66.154) has Quit (Quit: Page closed21)
+T 1529687487 31-21-25-29»	29a-ritwik_ (7bc9c227@gateway/web/freenode/ip.123.201.194.39) has Joined #sugar-meeting
+T 1529687502 21«21-16-31-	21rishabh42 (~rishabh@182.69.62.39) has Quit (Quit: Leaving21)
+T 1529687575 31-21-25-29»	29Abdul (29be0c0b@gateway/web/freenode/ip.41.190.12.11) has Joined #sugar-meeting
+T 1529687594 21«21-16-31-	21iqra (b6baac6a@gateway/web/freenode/ip.182.186.172.106) has Quit (Quit: Page closed21)
+T 1529687608 29<2125a-ritwik_29>	TO BE DONE
+T 1529687618 29<2125a-ritwik_29>	Press vs release in keyboard.
+T 1529687632 29<2125a-ritwik_29>	etting keys based on pitch blocks in widget
+T 1529687704 21«21-16-31-	21rdrsadhu (~webchat@rev-18-85-44-69.sugarlabs.org) has Quit (21)
+T 1529687744 21«21-16-31-	21a-ritwik_ (7bc9c227@gateway/web/freenode/ip.123.201.194.39) has Quit (Client Quit21)
+T 1529687750 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00d5deae5a83e09357.ipv6.abo.wanadoo.fr) has Joined #sugar-meeting
+T 1529688018 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00d5deae5a83e09357.ipv6.abo.wanadoo.fr) has Quit (Ping timeout: 256 seconds21)
+T 1529688133 21«21-16-31-	21Pratul1997 (2f0842ac@gateway/web/freenode/ip.47.8.66.172) has Quit (Quit: Page closed21)
+T 1529688472 21«21-16-31-	21ibiam (~ibiam@105.112.89.154) has Quit (Quit: ibiam21)
+T 1529688723 31-21-25-29»	29ibiam (~ibiam@105.112.89.154) has Joined #sugar-meeting
+T 1529689034 21«21-16-31-	21satellit (~satellit@2601:602:880:1907::daf6) has Quit (Ping timeout: 260 seconds21)
+T 1529689093 31-21-25-29»	29pikurasa (~devin@64.119.134.14) has Joined #sugar-meeting
+T 1529689313 31-21-25-29»	29unimauro (~unimauro@181.176.65.15) has Joined #sugar-meeting
+T 1529911147 16»19»	16Now talking on #sugar-meeting
+T 1529911147 29»17»	29Topic for #sugar-meeting is: The meeting channel for the Sugar learning platform | Meeting logs at http://meeting.sugarlabs.org/sugar-meeting/meetings | See also #sugar | THIS CHANNEL IS ALWAYS LOGGED
+T 1529911147 29»17»	29Topic for #sugar-meeting set by bernie at Fri May 11 00:29:23 2012
+T 1529911147 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1529912207 FiSHLiM plugin unloaded
+T 1529912207 Python interface unloaded
+T 1529934219 16»19»	16Now talking on #sugar-meeting
+T 1529934219 29»17»	29Topic for #sugar-meeting is: The meeting channel for the Sugar learning platform | Meeting logs at http://meeting.sugarlabs.org/sugar-meeting/meetings | See also #sugar | THIS CHANNEL IS ALWAYS LOGGED
+T 1529934219 29»17»	29Topic for #sugar-meeting set by bernie at Fri May 11 00:29:23 2012
+T 1529934219 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1529934228 FiSHLiM plugin unloaded
+T 1529934228 Python interface unloaded
+T 1530064817 16»19»	16Now talking on #sugar-meeting
+T 1530064817 29»17»	29Topic for #sugar-meeting is: The meeting channel for the Sugar learning platform | Meeting logs at http://meeting.sugarlabs.org/sugar-meeting/meetings | See also #sugar | THIS CHANNEL IS ALWAYS LOGGED
+T 1530064817 29»17»	29Topic for #sugar-meeting set by bernie at Fri May 11 00:29:23 2012
+T 1530064817 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1530064848 FiSHLiM plugin unloaded
+T 1530064848 Python interface unloaded
+T 1530185920 16»19»	16Now talking on #sugar-meeting
+T 1530185920 29»17»	29Topic for #sugar-meeting is: The meeting channel for the Sugar learning platform | Meeting logs at http://meeting.sugarlabs.org/sugar-meeting/meetings | See also #sugar | THIS CHANNEL IS ALWAYS LOGGED
+T 1530185920 29»17»	29Topic for #sugar-meeting set by bernie at Fri May 11 00:29:23 2012
+T 1530185920 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1530185987 FiSHLiM plugin unloaded
+T 1530185987 Python interface unloaded
+T 1530894499 16»19»	16Now talking on #sugar-meeting
+T 1530894499 29»17»	29Topic for #sugar-meeting is: The meeting channel for the Sugar learning platform | Meeting logs at http://meeting.sugarlabs.org/sugar-meeting/meetings | See also #sugar | THIS CHANNEL IS ALWAYS LOGGED
+T 1530894499 29»17»	29Topic for #sugar-meeting set by bernie at Fri May 11 00:29:23 2012
+T 1530894499 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1530894527 31-21-25-29»	29samsongoddy (~androirc@41.190.31.169) has Joined #sugar-meeting
+T 1530894536 31<2116vipulgupta204831>	Hi
+T 1530894536 31-21-25-29»	29manki11 (~mankirats@103.228.115.13) has Joined #sugar-meeting
+T 1530894545 29<2125manki1129>	Hi
+T 1530894548 29<2125samsongoddy29>	Hello
+T 1530894554 31-21-25-29»	29divyanshu (9d258073@gateway/web/freenode/ip.157.37.128.115) has Joined #sugar-meeting
+T 1530894556 29<2125riyalohia29>	Hi
+T 1530894557 29<2125vaibhavdaren29>	hello :)
+T 1530894559 21«21-16-31-	21perrie (~perrie@129.56.12.109) has Quit (Remote host closed the connection21)
+T 1530894560 29<2125divyanshu29>	hey
+T 1530894573 29<2125rdrsadhu29>	Hi!
+T 1530894612 31-21-25-29»	29a-ritwik (7bc936c6@gateway/web/freenode/ip.123.201.54.198) has Joined #sugar-meeting
+T 1530894695 31-21-25-29»	29Pro-Panda (31211a17@gateway/web/freenode/ip.49.33.26.23) has Joined #sugar-meeting
+T 1530894762 29<2125octamois29>	Hello
+T 1530894798 29<2125octamois29>	Ibiam : Please start the meeting :-)
+T 1530894821 29<2125jaskirat29>	Hello everyone !!
+T 1530894827 29<2125octamois29>	Hey Samson, Jaskirat
+T 1530894833 29<2125divyanshu29>	octamois: yes let's start then !
+T 1530894841 29<2125samsongoddy29>	Hello
+T 1530894842 29<2125samsongoddy29>	All
+T 1530894850 29<2125octamois29>	Greeting divyanshu :-)
+T 1530894852 29<2125divyanshu29>	samsongoddy: hey
+T 1530894854 29<2125amanharitsh12329>	Hello
+T 1530894858 29<2125divyanshu29>	octamois: hey
+T 1530894874 29<2125jaskirat29>	divyanshu: amanharitsh123 octamois samsongoddy hi
+T 1530894875 31-21-25-29»	29perrie (~perrie@129.56.12.109) has Joined #sugar-meeting
+T 1530894876 29<2125samsongoddy29>	Who is chairing the meeting?
+T 1530894877 29<2125perrie29>	hello
+T 1530894881 29<2125Pro-Panda29>	divyanshu: Hi
+T 1530894883 29<2125divyanshu29>	jaskirat: hey :)
+T 1530894889 29<2125divyanshu29>	Pro-Panda: hey
+T 1530894890 29<2125jaskirat29>	I guess walterbender
+T 1530894895 29<2125divyanshu29>	rdrsadhu: hey
+T 1530894950 29<2125samsongoddy29>	Okay i see
+T 1530894970 29<2125divyanshu29>	so are we wating for or let's start?
+T 1530894977 29<2125samsongoddy29>	Okay i guess someone would want to fill in for him
+T 1530894987 29<2125samsongoddy29>	He is very busy this week
+T 1530894988 29<2125divyanshu29>	samsongoddy: +1
+T 1530894989 21«21-16-31-	21Pro-Panda (31211a17@gateway/web/freenode/ip.49.33.26.23) has Quit (Quit: Page closed21)
+T 1530894997 29<2125perrie29>	+!
+T 1530894999 29<2125samsongoddy29>	So every student here?
+T 1530895006 29<2125perrie29>	+1*
+T 1530895007 29<2125amanharitsh12329>	+1
+T 1530895011 31-21-25-29»	29Pro-Panda (31214bbb@gateway/web/freenode/ip.49.33.75.187) has Joined #sugar-meeting
+T 1530895013 29<2125a-ritwik29>	+!
+T 1530895014 29<2125ibiam29>	hi
+T 1530895019 29<2125divyanshu29>	ibiam: hey
+T 1530895028 29<2125ibiam29>	sorry I'm late
+T 1530895032 29<2125ibiam29>	#start-meeting
+T 1530895034 29<2125meeting29>	Meeting started Fri Jul  6 16:37:16 2018 UTC. The chair is ibiam. Information about MeetBot at http://wiki.debian.org/MeetBot.
+T 1530895035 29<2125meeting29>	Useful Commands: #action #agreed #help #info #idea #link #topic #endmeeting
+T 1530895045 29<2125ibiam29>	hi everyone
+T 1530895046 21«21-16-31-	21jaskirat (uid272023@gateway/web/irccloud.com/x-soycaeqkmikhikcf) has Quit (21)
+T 1530895053 29<2125Pro-Panda29>	ibiam: Hi
+T 1530895062 31-21-25-29»	29jaskirat (uid272023@gateway/web/irccloud.com/x-jojmwvayvimmosmb) has Joined #sugar-meeting
+T 1530895067 29<2125divyanshu29>	Hey everyone :)
+T 1530895068 29<2125samsongoddy29>	ibiam: Hi
+T 1530895072 31<2116vipulgupta204831>	Hi
+T 1530895077 29<2125rdrsadhu29>	Hello!
+T 1530895078 29<2125jaskirat29>	ibiam: hi
+T 1530895082 29<2125riyalohia29>	Hi!
+T 1530895082 29<2125ibiam29>	we'll go alphabetically, each person telling what they've done this week
+T 1530895087 29<2125manki1129>	Hi
+T 1530895092 29<2125divyanshu29>	let's start then ibiam +1
+T 1530895093 29<2125ibiam29>	what they'll do next week....
+T 1530895103 31-21-25-29»	29rishabh42 (~rishabh@122.162.202.47) has Joined #sugar-meeting
+T 1530895105 29<2125ibiam29>	challenges they've faced so far
+T 1530895114 29<2125ibiam29>	milestones attained
+T 1530895130 29<2125ibiam29>	what they'll do in the coming week
+T 1530895136 29<2125ibiam29>	and blog post
+T 1530895162 29<2125ibiam29>	abhiriot[m], you're first
+T 1530895170 29<2125a-ritwik29>	UPDATES
+T 1530895177 29<2125a-ritwik29>	I have made changes in logo.js so that on encountering any block it gets stored in array rowLabel and rowArgs. These arrays are defined in musicKeyboard.js.
+T 1530895191 29<2125a-ritwik29>	Now horizontal row below each ruler contains a table where meter and repetition is being shown.
+T 1530895212 29<2125a-ritwik29>	ISSUES: None
+T 1530895244 29<2125a-ritwik29>	I am working on keyboard. I plan to get 'pitch decides button shown in keyboard' working before our next meeting on tuesday.
+T 1530895253 29<2125a-ritwik29>	TO BE DONE
+T 1530895264 29<2125a-ritwik29>	Setting keys based on pitch blocks in widget.
+T 1530895277 29<2125a-ritwik29>	Output from keyboard widget
+T 1530895316 29<2125a-ritwik29>	Regarding blog, It is updated till last week, I will update for this week.
+T 1530895327 29<2125ibiam29>	a-ritwik: meeting with your mentors?
+T 1530895368 29<2125ibiam29>	blog post link?
+T 1530895383 29<2125a-ritwik29>	ibiam: I have meeting every tuesday with walterbender and devin
+T 1530895396 29<2125a-ritwik29>	https://musicblocks18.wordpress.com/
+T 1530895443 29<2125ibiam29>	thank you a-ritwik
+T 1530895485 29<2125ibiam29>	amanharitsh123, you're next
+T 1530895496 29<2125a-ritwik29>	ibiam: Thanks
+T 1530895498 29<2125amanharitsh12329>	yes
+T 1530895506 29<2125amanharitsh12329>	Hi everyone , this week I resolved finalized the master branch of my repo and resolved any issues that were interrupting the image building process. I made the chnages suggested by Lionel in the script , build the image and tested it again. As we discussed last week ,I tried deploying sugarizer on different VPS. I faced some issues with, I reported
+T 1530895507 29<2125amanharitsh12329>	 them to Lionel.I also created some documentation and script to deploy sugarizer on gcp.https://amansharmablogblog.wordpress.com/2018/07/04/deploy-sugarizer-on-gcp/ https://github.com/amanharitsh123/DeploySugarizerGCP
+T 1530895521 31-21-25-29»	29octamois2 (674dbbdf@gateway/web/freenode/ip.103.77.187.223) has Joined #sugar-meeting
+T 1530895553 29<2125amanharitsh12329>	I had to visit hospital several times this week so this weeks progress is not as much as expected , I appologise for that
+T 1530895555 29<2125ibiam29>	i forgot to add, It'll be great if you tell us the project you're working on first
+T 1530895575 29<2125ibiam29>	amanharitsh123, no need to apologise
+T 1530895579 29<2125amanharitsh12329>	I am working on sugarizer school box projects
+T 1530895603 29<2125ibiam29>	amanharitsh123, hope you're okay
+T 1530895636 29<2125amanharitsh12329>	Yes I am fine , my brother was admitted :-/ , so i had to stay with him
+T 1530895664 29<2125ibiam29>	oh...hope he recovers fast
+T 1530895664 29<2125amanharitsh12329>	but hes fine now :)
+T 1530895668 29<2125ibiam29>	great
+T 1530895670 29<2125amanharitsh12329>	thanks :)
+T 1530895717 29<2125amanharitsh12329>	this weeks task will be explore more about vps and make depploy task as much as easy possible :)
+T 1530895785 29<2125amanharitsh12329>	https://amansharmablogblog.wordpress.com/2018/05/18/sugarizer-rpi-image/ my blog
+T 1530895812 29<2125ibiam29>	thank you amanharitsh123
+T 1530895826 29<2125amanharitsh12329>	:)
+T 1530895830 29<2125ibiam29>	divyanshu, you're up
+T 1530895859 29<2125jaskirat29>	ibiam: he is mentor , u missed up !
+T 1530895865 29<2125ibiam29>	sorry about that
+T 1530895876 29<2125ibiam29>	iqra, are you available?
+T 1530895879 29<2125jaskirat29>	No worries
+T 1530895880 29<2125ibiam29>	you're next
+T 1530895880 29<2125iqra29>	yes
+T 1530895890 29<2125iqra29>	Things done this week  1. I have included loader. 2.I have corrected the alignments. I have included a light background for homeview that doesn’t interfere with the icons. 3.included scroll bars on main screen to help scroll the icons. 4. wrote blog post
+T 1530895899 29<2125iqra29>	Blog link:  https://iqragsoc.wordpress.com/2018/07/06/gsoc-coding-week-11/
+T 1530895909 29<2125iqra29>	Faced issues while setting up VM for MAC OS hence have decided to not continue with ios app. Will be revising my schedule for the rest of GSoC
+T 1530895918 29<2125iqra29>	Plans for next week:  1.Adding sounds to MathStix Activity. 2.Work on ideas of changing UI in Memorize activity 3. look for issues in both web app and android app
+T 1530895935 31-21-25-29»	29Pro-Panda_ (31209afc@gateway/web/freenode/ip.49.32.154.252) has Joined #sugar-meeting
+T 1530895971 21«21-16-31-	21Pro-Panda (31214bbb@gateway/web/freenode/ip.49.33.75.187) has Quit (Ping timeout: 252 seconds21)
+T 1530895977 29<2125ibiam29>	iqra: what do your mentors think about discontinuing with the ios app?
+T 1530895985 21«21-16-31-	21rishabh42 (~rishabh@122.162.202.47) has Quit (Ping timeout: 260 seconds21)
+T 1530896018 29<2125iqra29>	Well, I dont have the resources to develop the ios app. I tried to set up a hackintosh but failed
+T 1530896023 23»04»	Pro-Panda_ is now known as Pro-Panda
+T 1530896038 29<2125ibiam29>	okay
+T 1530896082 29<2125ibiam29>	manki11, your turn
+T 1530896085 29<2125manki1129>	Hi, Mankirat here, i am working on the Exerciser Activity for Sugarizer. This week i completed adding localization and sugarizing the UI. I also started work on the 2nd of 3 templates i plan to do (Cloze Text). The activity can be found in https://github.com/manki11/ExerciserReact/tree/master/build. Just open index.html in the browser.
+T 1530896126 21«21-16-31-	21samsongoddy (~androirc@41.190.31.169) has Quit (Read error: Connection reset by peer21)
+T 1530896154 28>Pro-Panda28<	Hi, does the Jukebox-activity work on your side. It isn't working on my system. Made a issue for it.
+T 1530896163 29<2125manki1129>	i am not facing any issues, and i am on track as per the schedule.
+T 1530896173 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00d996faf05b1e5290.ipv6.abo.wanadoo.fr) has Joined #sugar-meeting
+T 1530896182 29<2125ibiam29>	great to hear manki11
+T 1530896202 21«21-16-31-	21octamois2 (674dbbdf@gateway/web/freenode/ip.103.77.187.223) has Quit (Quit: Page closed21)
+T 1530896203 29<2125ibiam29>	blog post?
+T 1530896216 29<2125manki1129>	https://mankiratsinghtech.wordpress.com/2018/04/27/google-summer-of-code-2018/
+T 1530896226 29<2125manki1129>	it isnt updated for this week
+T 1530896233 29<2125ibiam29>	thank you manki11
+T 1530896238 29<2125ibiam29>	ocatamois, your turn
+T 1530896248 29<2125octamois29>	Yes
+T 1530896249 23«25-23-31-	23manki11 (~mankirats@103.228.115.13) has Left #sugar-meeting
+T 1530896263 29<2125octamois29>	Hello everyone, The weekly blog goes here https://medium.com/@anmolmishra.jiit/gsoc-week-8-b59197670408
+T 1530896286 29<2125octamois29>	This week progress
+T 1530896286 29<2125octamois29>	-Port to Python 3 for SocialCalc [in-progress]
+T 1530896286 29<2125octamois29>	-Port to Python 3 for agubrowser-activity [in-progress].
+T 1530896286 29<2125octamois29>	-Port to Python 3 for musicblocks with some minor changes
+T 1530896286 29<2125octamois29>	-Port to Python 3 for activity-erikos has been made too.
+T 1530896301 21«21-16-31-	21divyanshu (9d258073@gateway/web/freenode/ip.157.37.128.115) has Quit (Ping timeout: 252 seconds21)
+T 1530896310 29<2125octamois29>	For next week [Targets]
+T 1530896311 29<2125octamois29>	- Fix all patches for previous activity.
+T 1530896358 29<2125ibiam29>	Pro-Panda, ocatmois: there's a sync between the both of you, right?
+T 1530896360 29<2125octamois29>	Roadblocks: Testing has been a bit struggle for me, looking forward to have a sugar-toolkit port release soon
+T 1530896362 29<2125Pro-Panda29>	octamois:these ports don't work on my system. Kindly test them
+T 1530896407 24»24»	24<walterbender24>24 is here briefly
+T 1530896431 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00d996faf05b1e5290.ipv6.abo.wanadoo.fr) has Quit (Ping timeout: 256 seconds21)
+T 1530896449 24»24»	24<walterbender24>24 gone again :(
+T 1530896451 31-21-25-29»	29divyanshu (9d258073@gateway/web/freenode/ip.157.37.128.115) has Joined #sugar-meeting
+T 1530896459 29<2125octamois29>	Pro-Panda: I will be working on them only now. Testing is my next step
+T 1530896493 29<2125octamois29>	That's all from my side this week update.
+T 1530896496 29<2125ibiam29>	thanks octamois
+T 1530896499 29<2125Pro-Panda29>	octamois: So what steps are you following to port the activity ?
+T 1530896530 29<2125octamois29>	Mentioned in the porting guide.
+T 1530896532 29<2125Pro-Panda29>	octamois: Please update the sugar-docs python porting guide as well, if you find a need for change
+T 1530896551 29<2125Pro-Panda29>	octamois: ok thanks
+T 1530896558 29<2125divyanshu29>	octamois: is doing great :)
+T 1530896559 29<2125octamois29>	Pro-Panda : +1
+T 1530896567 29<2125divyanshu29>	Pro-Panda: +1
+T 1530896572 29<2125Pro-Panda29>	ibiam: Should I start ?
+T 1530896583 29<2125ibiam29>	yeah, go ahead
+T 1530896596 31-21-25-29»	29rishabh42 (~rishabh@122.173.101.71) has Joined #sugar-meeting
+T 1530896641 29<2125Pro-Panda29>	Work Done last week:
+T 1530896650 29<2125Pro-Panda29>	 - Port JukeBox to Python3 and fix a tweak in JukeBox/master
+T 1530896655 29<2125Pro-Panda29>	 - Tried to create a modal window using Gtk and apply the same to activity chooser(in-progress)
+T 1530896659 29<2125Pro-Panda29>	 - Reviewing some pull requests
+T 1530896664 29<2125Pro-Panda29>	 - Understanding telepathy and dbus PyGObject Binding, trying to make some programs (in progress)
+T 1530896669 29<2125Pro-Panda29>	Issues faced:
+T 1530896674 29<2125Pro-Panda29>	 - telepathyGlib C bindings are difficult to understand
+T 1530896679 29<2125Pro-Panda29>	Work for next week:
+T 1530896687 29<2125Pro-Panda29>	 - Continue with understanding Telepathy and dbus PyObject binding
+T 1530896691 29<2125Pro-Panda29>	 - Updating Python 3 port of sugar-toolkit-gtk3
+T 1530896694 29<2125Pro-Panda29>	 - Continuing the modal issue
+T 1530896698 29<2125Pro-Panda29>	 - Port more activities to Python 3
+T 1530896702 29<2125Pro-Panda29>	Meeting:
+T 1530896705 29<2125Pro-Panda29>	 - I have meetings with my mentors on Monday 7:00 PM IST
+T 1530896716 29<2125divyanshu29>	Pro-Panda: +1
+T 1530896717 29<2125Pro-Panda29>	Divyanshu has been very responsive :-)
+T 1530896722 29<2125Pro-Panda29>	Blog Post:
+T 1530896725 29<2125Pro-Panda29>	 - Will update next weeks blog by tomorrow: http://pro-panda.tech/
+T 1530896731 29<2125divyanshu29>	Pro-Panda: Thanks :)
+T 1530896768 29<2125ibiam29>	great work Pro-Panda
+T 1530896775 16»24»24	octamois nips out
+T 1530896779 29<2125rdrsadhu29>	I'll go next
+T 1530896779 29<2125ibiam29>	thank you Pro-Panda, divyanshu
+T 1530896785 29<2125ibiam29>	sure
+T 1530896791 29<2125divyanshu29>	ibiam: welcome :)
+T 1530896794 29<2125rdrsadhu29>	Hello everyone
+T 1530896803 29<2125rdrsadhu29>	(1) what I did during the week:
+T 1530896810 29<2125divyanshu29>	rdrsadhu: Hey :)
+T 1530896812 29<2125rdrsadhu29>	Moved and updated documentation of
+T 1530896819 29<2125rdrsadhu29>	Also added missing READMEs to
+T 1530896825 29<2125rdrsadhu29>	Labyrinth, IRC, Measure, Implode
+T 1530896826 29<2125rdrsadhu29>	.
+T 1530896833 29<2125rdrsadhu29>	(2) what I plan to do in the coming week:
+T 1530896839 29<2125rdrsadhu29>	My target is to complete all working activities within the next 10 days.
+T 1530896844 29<2125rdrsadhu29>	Just a few more are left
+T 1530896846 29<2125rdrsadhu29>	.
+T 1530896853 29<2125rdrsadhu29>	(3) any concerns/roadblocks/issues:
+T 1530896859 29<2125rdrsadhu29>	None. The project is on track
+T 1530896865 29<2125rdrsadhu29>	thanks
+T 1530896869 29<2125divyanshu29>	rdrsadhu: Great
+T 1530896877 29<2125divyanshu29>	rdrsadhu: +1
+T 1530896898 29<2125ibiam29>	rdrsadhu, seems all your PRs are to godiard/help-activity
+T 1530896903 29<2125rdrsadhu29>	yes
+T 1530896920 29<2125ibiam29>	do you plan on doing the same to sugarlabs/help-activity
+T 1530896931 29<2125rdrsadhu29>	mostly, except for the READMEs
+T 1530896947 29<2125rdrsadhu29>	someone could update the fork at sugarlabs/help-activity
+T 1530896998 29<2125rdrsadhu29>	I'll ask Quozl
+T 1530897002 29<2125ibiam29>	i think that someone is you?
+T 1530897027 29<2125rdrsadhu29>	I don't have access to the repo; I guess
+T 1530897042 29<2125ibiam29>	just send your PRs
+T 1530897076 29<2125rdrsadhu29>	okay
+T 1530897102 29<2125ibiam29>	blog post?
+T 1530897113 29<2125rdrsadhu29>	Weekly Blog Post at https://rdrsadhu.github.io/blog/gsoc2018/2018-05-10-weekly-updates/#week-08
+T 1530897121 29<2125rdrsadhu29>	 I haven't had the time to describe my work in the blog yet. I'll do it soon
+T 1530897134 29<2125rdrsadhu29>	apologies for that
+T 1530897162 29<2125ibiam29>	no worries
+T 1530897168 29<2125ibiam29>	thanks rdrsadhu
+T 1530897175 29<2125rdrsadhu29>	thanks :)
+T 1530897175 29<2125ibiam29>	riyalohia, your turn
+T 1530897178 29<2125riyalohia29>	I'll go next
+T 1530897194 29<2125riyalohia29>	Hii, my project is 'Going Beyond Equal Temperament in Music Blocks'.
+T 1530897201 31-21-25-29»	29perrie_ (~perrie@197.210.227.124) has Joined #sugar-meeting
+T 1530897203 29<2125riyalohia29>	Updates: This week I continued working on edit tools.
+T 1530897212 29<2125riyalohia29>	1. I have finished with functionality of Octave Space edit tool and added a button to go back to 2:1 standard octave space.
+T 1530897226 29<2125riyalohia29>	2. Fixed 0 to 0 equal edit and added a clear button to clear all the pitches except for a single "0" from which the user may add pitches.
+T 1530897233 29<2125ibiam29>	rdrsadhu: it'll be great if your blog has separate pages for each week, no matter how small
+T 1530897234 29<2125riyalohia29>	3. Added nearest pitch name +/- cents for pitches that do not fit in 12 note system.
+T 1530897252 29<2125riyalohia29>	4. Initiated UI of arbitrary edit tool.
+T 1530897261 29<2125riyalohia29>	Issues: None
+T 1530897262 29<2125ibiam29>	rdrsadhu, NVM
+T 1530897280 29<2125riyalohia29>	In the coming week:
+T 1530897287 29<2125riyalohia29>	1. I will work on functionality of arbitrary edit tool
+T 1530897293 29<2125riyalohia29>	2. edit button on popup
+T 1530897300 29<2125riyalohia29>	3. save(export to a block) functionality.
+T 1530897325 29<2125riyalohia29>	I will update the blog by tomorrow. Blog Link : https://medium.com/gsoc18-with-sugar-labs
+T 1530897348 29<2125ibiam29>	thank you riyalohia
+T 1530897360 29<2125ibiam29>	nice work
+T 1530897362 29<2125riyalohia29>	ibiam, thank you :)
+T 1530897374 24<ibiam24>24	vipulgupta2048, your turn
+T 1530897450 31<2116vipulgupta204831>	Hi ibiam 
+T 1530897451 29<2125vaibhavdaren29>	ibiam u missed me
+T 1530897466 21«21-16-31-	21perrie (~perrie@129.56.12.109) has Quit (Ping timeout: 264 seconds21)
+T 1530897470 31<2116vipulgupta204831>	I was out on a holiday this past week, My mentors Abdul and Carlos have been infomed of the same. So is Walter. I returned today. 
+T 1530897470 31<2116vipulgupta204831>	1. While I was there, read some documentation for Celery and Redis for the new ASLOv3 server 
+T 1530897470 31<2116vipulgupta204831>	2. Fixed a 502 that the server was throwing, restarted it with the help of Jatin
+T 1530897470 31<2116vipulgupta204831>	3. Fixed past PR's made; implemented changes that were requested.
+T 1530897470 31<2116vipulgupta204831>	4. Currently fixing, Terminal-activity and more. 
+T 1530897470 31<2116vipulgupta204831>	Coming up
+T 1530897470 31<2116vipulgupta204831>	1. Fixing a chunk of activities in this weekend, before the eval 2
+T 1530897470 31<2116vipulgupta204831>	2. Writing the blogs —> Past blogs - https://mixstersite.wordpress.com/gsoc2018/
+T 1530897473 29<2125ibiam29>	vaibhavdaren, sorry about that
+T 1530897494 31<2116vipulgupta204831>	Mentor meeting happens just after this meeting :)
+T 1530897502 24<divyanshu24>24	vipulgupta2048: +1
+T 1530897510 24<ibiam24>24	vipulgupta2048, can you hold on
+T 1530897518 31<2116vipulgupta204831>	Sure ibiam 
+T 1530897555 29<2125ibiam29>	vaibhavdaren, your turn
+T 1530897580 31-21-25-29»	29perrie (~perrie@129.56.12.109) has Joined #sugar-meeting
+T 1530897581 31-21-25-29»	29llaske (~llaske@2a01cb00074daf00d996faf05b1e5290.ipv6.abo.wanadoo.fr) has Joined #sugar-meeting
+T 1530897585 29<2125vaibhavdaren29>	Hello my Project title is "Interactive Exercises for TurtleblockJS"
+T 1530897586 29<2125vaibhavdaren29>	This week we  I  have been working on creating Medium level challenges for TurtleBlockJS.
+T 1530897598 29<2125vaibhavdaren29>	I am in complete sync with my timeline. Finally!! Yes :) :D
+T 1530897599 29<2125vaibhavdaren29>	I have completed the creation of challenges  Easy and Medium difficulty levels.
+T 1530897606 29<2125vaibhavdaren29>	https://docs.google.com/spreadsheets/d/1ZKEiXAJ1epu8r_AIYXf4xWBrL7JHURMk5UuiKuJtxaA/edit?usp=sharing
+T 1530897613 29<2125vaibhavdaren29>	Tasks for Sat-Sun(weekend)
+T 1530897614 29<2125vaibhavdaren29>	1)Create The companion markdown page and add the MEdium level challenges
+T 1530897614 29<2125vaibhavdaren29>	2)Fix Links in challenge page
+T 1530897614 29<2125vaibhavdaren29>	3)Update Blog
+T 1530897634 29<2125vaibhavdaren29>	The tasks for Next Week
+T 1530897634 29<2125vaibhavdaren29>	1) Create 3 Advanced level challenges before  Weekly Meeting
+T 1530897634 29<2125vaibhavdaren29>	(Tuesday)[to discuss with jaskirat]
+T 1530897634 29<2125vaibhavdaren29>	2)Make a list of Bonus Exercises
+T 1530897634 29<2125vaibhavdaren29>	3)Make Gif Solutions for Some of the Challenges
+T 1530897634 29<2125vaibhavdaren29>	4)Complete at least 5 challenges before next meeting
+T 1530897636 29<2125vaibhavdaren29>	5)test the challenges in chrome.
+T 1530897642 21«21-16-31-	21Pro-Panda (31209afc@gateway/web/freenode/ip.49.32.154.252) has Quit (21)
+T 1530897648 29<2125vaibhavdaren29>	Issues Faced:-
+T 1530897648 29<2125vaibhavdaren29>	The canvas has different layers so when I changed the bg colour and called the read pixel block the output was not what I expected.
+T 1530897648 29<2125vaibhavdaren29>	My mentor WalterBender is  has already looked into this.
+T 1530897648 29<2125vaibhavdaren29>	But changing bg colour is piece of cake in turtleblockjs [dragging the background block ]. I will add a gif so it understandable.
+T 1530897648 29<2125vaibhavdaren29>	and make it a try iy yo
+T 1530897652 29<2125vaibhavdaren29>	Road Block:- None at present.
+T 1530897654 29<2125vaibhavdaren29>	Blog Post:- https://vaibhavdaren.wordpress.com/2018/07/05/week-82-8-july/
+T 1530897671 29<2125ibiam29>	vaibhavdaren, great work
+T 1530897677 29<2125ibiam29>	vaibhavdaren, thanks
+T 1530897690 29<2125vaibhavdaren29>	ibiam,thankyou :)
+T 1530897707 24<ibiam24>24	vipulgupta2048, you can go oon
+T 1530897731 31<2116vipulgupta204831>	I mostly covered everything on the top. 
+T 1530897740 31-21-25-29»	29samsongoddy (~androirc@41.190.2.32) has Joined #sugar-meeting
+T 1530897752 31<2116vipulgupta204831>	My blog post have been updated here - https://mixstersite.wordpress.com/gsoc2018/
+T 1530897763 29<2125ibiam29>	vaibhavdaren, are all your works based on just chrome?
+T 1530897770 21«21-16-31-	21perrie_ (~perrie@197.210.227.124) has Quit (Ping timeout: 260 seconds21)
+T 1530897784 24<ibiam24>24	vipulgupta2048, you didn't say the name of your project
+T 1530897824 21«21-16-31-	21iqra (27243edd@gateway/web/freenode/ip.39.36.62.221) has Quit (Quit: Page closed21)
+T 1530897832 31<2116vipulgupta204831>	Right, I am working on updating metadata of activities and working for deploying ASLOv3 
+T 1530897846 31<2116vipulgupta204831>	Right now, I am fixing and updating metadata. 
+T 1530897875 31-21-25-29»	29perrie_ (~perrie@197.210.227.124) has Joined #sugar-meeting
+T 1530897877 31<2116vipulgupta204831>	I follow rdrsadhu in progress, bit lagging. But will catchup. 
+T 1530897884 29<2125vaibhavdaren29>	no, compiled code on turtle blocks behave differently on firefox and chrome
+T 1530897912 21«21-16-31-	21llaske (~llaske@2a01cb00074daf00d996faf05b1e5290.ipv6.abo.wanadoo.fr) has Quit (Remote host closed the connection21)
+T 1530897922 29<2125ibiam29>	vaibhavdaren, you're testing on both then?
+T 1530897931 29<2125vaibhavdaren29>	yes :)
+T 1530897964 29<2125ibiam29>	great
+T 1530897996 29<2125vaibhavdaren29>	thanks
+T 1530898012 24<ibiam24>24	vipulgupta2048, plans for next week
+T 1530898014 29<2125ibiam29>	?
+T 1530898017 21«21-16-31-	21perrie (~perrie@129.56.12.109) has Quit (Ping timeout: 240 seconds21)
+T 1530898035 31<2116vipulgupta204831>	 1. Fixing a chunk of activities in this weekend, before the eval 2
+T 1530898055 31<2116vipulgupta204831>	2. Deploying activities on ASLOv3 to test and learn the ways
+T 1530898065 31<2116vipulgupta204831>	3. Write blog for week 10 & 11
+T 1530898082 31<2116vipulgupta204831>	4. Complete Docs here - 
+T 1530898092 31<2116vipulgupta204831>	https://github.com/vipulgupta2048/SugarPort
+T 1530898102 31<2116vipulgupta204831>	for the scripts used in fixing 
+T 1530898191 21«21-16-31-	21samsongoddy (~androirc@41.190.2.32) has Quit (Read error: Connection reset by peer21)
+T 1530898329 31-21-25-29»	29samsongoddy (~androirc@41.190.31.147) has Joined #sugar-meeting
+T 1530898331 31-21-25-29»	29perrie (~perrie@129.56.12.109) has Joined #sugar-meeting
+T 1530898354 24<ibiam24>24	vipulgupta2048...
+T 1530898365 31<2116vipulgupta204831>	Yes ibiam 
+T 1530898393 29<2125ibiam29>	you were saying "for the scripts used in fixing..."
+T 1530898401 21«21-16-31-	21perrie (~perrie@129.56.12.109) has Quit (Read error: No route to host21)
+T 1530898427 31<2116vipulgupta204831>	used in fixing the metadata of activities. 
+T 1530898436 31-21-25-29»	29perrie (~perrie@129.56.12.109) has Joined #sugar-meeting
+T 1530898445 31<2116vipulgupta204831>	I love automation, hence tried to automate the fixing of activities as much as possible. 
+T 1530898473 21«21-16-31-	21perrie_ (~perrie@197.210.227.124) has Quit (Ping timeout: 264 seconds21)
+T 1530898475 31<2116vipulgupta204831>	Scripts have been made for that, most of them are hack and slash. Need to refine them. 
+T 1530898492 31<2116vipulgupta204831>	I can post a small description here.
+T 1530898537 29<2125ibiam29>	sure
+T 1530898558 31<2116vipulgupta204831>	It does something like this - clones the fork, switches to develop branch, makes a .xo, runs the build script, the .xo file name needs to be written manually, then it unzips it, then licensechecks and then check if necessary files and directory are present or not. When done opens a window in the default browser to make a PR.
+T 1530898637 31<2116vipulgupta204831>	It's a neat 20 line package. Gets the job done, uses ConfigParser, GitHub API, os lib, zipfile, and webbrowser
+T 1530898656 24<ibiam24>24	great work vipulgupta2048
+T 1530898657 21«21-16-31-	21samsongoddy (~androirc@41.190.31.147) has Quit (Read error: Connection reset by peer21)
+T 1530898676 31<2116vipulgupta204831>	Thanks ibiam 
+T 1530898684 24<ibiam24>24	thank you vipulgupta2048
+T 1530898745 29<2125ibiam29>	i think that
+T 1530898750 29<2125ibiam29>	's all
+T 1530898765 29<2125ibiam29>	thank you everyone for attending
+T 1530898792 29<2125ibiam29>	end meeting?
+T 1530898809 31<2116vipulgupta204831>	Yep, Iguess
+T 1530898819 29<2125a-ritwik29>	+1
+T 1530898842 29<2125Pro-Panda[m]29>	Thanks ibiam, divyanshu :-)
+T 1530898853 29<2125riyalohia29>	thank you :)
+T 1530898864 29<2125ibiam29>	thank you Pro-Panda[m]
+T 1530898894 29<2125ibiam29>	does anyone have anything to say?
+T 1530898940 29<2125riyalohia29>	ibiam, no
+T 1530898950 29<2125ibiam29>	once again, thanks everyone
+T 1530898954 29<2125ibiam29>	#end-meeting
+T 1530898956 29<2125meeting29>	Meeting ended Fri Jul  6 17:42:38 2018 UTC. Information about MeetBot at http://wiki.debian.org/MeetBot. (v 0.1.4)
+T 1530898957 29<2125meeting29>	Minutes: http://meeting.sugarlabs.org/sugar-meeting/meetings/2018-07-06T16:37:16.html
+T 1530898958 29<2125meeting29>	Log:     http://meeting.sugarlabs.org/sugar-meeting/meetings/2018-07-06T16:37:16
+T 1530898966 21«21-16-31-	21divyanshu (9d258073@gateway/web/freenode/ip.157.37.128.115) has Quit (21)
+T 1530898991 21«21-16-31-	21riyalohia (6acff351@gateway/web/freenode/ip.106.207.243.81) has Quit (Quit: Page closed21)
+T 1530899231 21«21-16-31-	21a-ritwik (7bc936c6@gateway/web/freenode/ip.123.201.54.198) has Quit (Quit: Page closed21)
+T 1530899254 21«21-16-31-	21perrie (~perrie@129.56.12.109) has Quit (Remote host closed the connection21)
+T 1530899436 21«21-16-31-	21rishabh42 (~rishabh@122.173.101.71) has Quit (Quit: Leaving21)
+T 1530899511 21«21-16-31-	21satellit (~satellit@c-76-28-208-105.hsd1.wa.comcast.net) has Quit (Quit: Leaving21)
+T 1530900023 21«21-16-31-	21rdrsadhu (~webchat@rev-18-85-44-69.sugarlabs.org) has Quit (Ping timeout: 256 seconds21)
+T 1530900057 31-21-25-29»	29perrie (~perrie@197.211.61.172) has Joined #sugar-meeting
+T 1530900163 21«21-16-31-	21MrBIOS (~aperez@c-24-130-45-179.hsd1.ca.comcast.net) has Quit (Quit: MrBIOS21)
+T 1530900725 21«21-16-31-	21perrie (~perrie@197.211.61.172) has Quit (Ping timeout: 240 seconds21)
+T 1530904417 16»25»	Disconnected (Connection reset by peer).
+T 1530904422 Python interface unloaded
+T 1530988808 16»19»	16Now talking on #sugar-meeting
+T 1530988808 29»17»	29Topic for #sugar-meeting is: The meeting channel for the Sugar learning platform | Meeting logs at http://meeting.sugarlabs.org/sugar-meeting/meetings | See also #sugar | THIS CHANNEL IS ALWAYS LOGGED
+T 1530988808 29»17»	29Topic for #sugar-meeting set by bernie at Fri May 11 00:29:23 2012
+T 1530988808 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1530988841 FiSHLiM plugin unloaded
+T 1530988841 Python interface unloaded

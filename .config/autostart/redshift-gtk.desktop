@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8e0ad38ee5bf863b70efe76bc7b52353d1de649bb493126fe5584477115f40d
-size 269
+[Desktop Entry]
+Version=1.0
+Hidden=false
+Categories=Utility;
+StartupNotify=true
+GenericName=Color temperature adjustment
+Icon=redshift
+Name=Redshift
+Type=Application
+Terminal=false
+X-GNOME-Autostart-enabled=true
+Exec=redshift
+Comment=Color temperature adjustment tool
+
