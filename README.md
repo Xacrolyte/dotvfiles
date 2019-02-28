@@ -19,8 +19,13 @@ Will be posting a complete script soon.
 I use this as my default command line shell, hence the dotfiles for Bash may be quite outdated. 
 If you are a Fish user, luck and happiness will find you if you take a peek at my dotfiles. 
 
+## VScode
+Not much later after the acquistion of GitHub by Microsoft and struggling with Atom. I changed sides to VScode. Oh man, life became way much easier. I got all the best extensions, with all the best color schemes. 
+
+Checkout the folders,  
+
 ## Geany; Atom and Nano
-I use Geany, Atom and Nano as my editors, the dotfiles contains everything from keymaps to colorscheme configs.
+I used Geany, Atom and Nano as my editors, the dotfiles contains everything from keymaps to colorscheme configs.
 
 ## Resources to learn more about dotfiles 
 Refer to #references in [DotPython](https://slides.com/vipulgupta2048/dotpython-3/fullscreen)

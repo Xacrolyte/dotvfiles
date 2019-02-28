@@ -1,0 +1,27 @@
+cat extensions.list | grep -v '^#' | xargs -L1 code --install-extension
+
+
+// Use this command with the other file to install extensions.
+// OR THIS
+
+EXTENSIONS=(
+ 
+// ENTER EXTENSIONS list
+
+"abkdsfnskd" \
+"jdksfnkdsnfsdklsdmfmdsf" \
+"dsjkf" \
+
+)
+
+for VARIANT in "code" \
+               "code-insiders"
+do
+  if hash $VARIANT 2>/dev/null; then
+    echo "Installing extensions for $VARIANT"
+    for EXTENSION in ${EXTENSIONS[@]}
+    do
+      $VARIANT --install-extension $EXTENSION
+    done
+  fi
+done
