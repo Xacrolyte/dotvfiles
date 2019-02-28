@@ -1,4 +1,4 @@
-; thunar GtkAccelMap rc-file         -*- scheme -*-
+; Thunar GtkAccelMap rc-file         -*- scheme -*-
 ; this file is an automated accelerator map dump
 ;
 ; (gtk_accel_path "<Actions>/ThunarLauncher/sendto-desktop" "")
@@ -10,6 +10,7 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-menu" "")
 ; (gtk_accel_path "<Actions>/ThunarLauncher/open" "<Primary>o")
 ; (gtk_accel_path "<Actions>/ThunarWindow/go-menu" "")
+; (gtk_accel_path "<Actions>/ThunarActions/uca-action-1538219994255260-2" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-file-system" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/zoom-out" "<Primary>minus")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/paste" "<Primary>v")
@@ -25,7 +26,6 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/close-tab" "<Primary>w")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-as-compact-list" "<Primary>3")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-side-pane-tree" "<Primary>e")
-; (gtk_accel_path "<Actions>/ThunarBookmarks/b82a6e39c315152462c39128a30bda7b" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/restore" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-network" "")
 ; (gtk_accel_path "<Actions>/ThunarActions/Tap::create-archive" "")
@@ -57,6 +57,7 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-templates" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/copy" "<Primary>c")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-location-selector-pathbar" "")
+; (gtk_accel_path "<Actions>/ThunarWindow/open-trash" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-descending" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/properties" "<Alt>Return")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-by-type" "")

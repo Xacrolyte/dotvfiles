@@ -513,3 +513,218 @@ wget https://raw.githubusercontent.com/vipulgupta2048/dotvfiles/master/fish/conf
 cd ../
 cd Desktop/
 fish
+fish
+git status
+pwd
+ln -s /home/vipulgupta2048/dotvfiles
+ln -s /home/vipulgupta2048/dotvfiles/.config/fish /home/vipulgupta2048/.config/
+fish
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+sudo apt-get install git-lfs
+git statis
+git status
+git log --oneline
+git rebase -i 8d9ffdc
+git status
+git add .
+git stash
+git rebase -i 8d9ffdc
+git status
+git checkout .
+git status
+git add .
+git status
+git commit 
+git commit -m "Massive Update"
+fish
+wget https://raw.githubusercontent.com/vipulgupta2048/dotvfiles/master/.gitconfig
+fish
+vlc
+node -v
+fish
+sudo apt install sugar
+~
+fish
+fish
+cd ..
+ls
+vlc React-for-Beginners/
+gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier "<Super>" 
+fish
+ls
+cd hasura/
+ls
+..
+fish
+vlc ../React-for-Beginners/
+code
+vlc ../../Desktop/groove.xspf 
+git init
+git ls-tree -r master --name-only
+fish
+fish
+npm start
+cd ..
+cd React-For-Beginners-Starter-Files/
+cd ca
+cd catch-of-the-day/
+npm start
+fish
+cd ~
+npx create-react-app@2.x $bro
+fish
+fdisk -l /dev/sda
+sudo fdisk -l /dev/sda
+sudo nano /etc/fstab
+sudo mkdir /mnt/windows
+mount -a
+sudo mount -a
+sudo nano /etc/fstab
+mount -a
+sudo mount -a
+cd /mnt/windows/
+ls
+reboot 
+top
+killall vlc
+killall vlc 
+nautilus .
+dolphin .
+thunar
+xkill
+clear
+vlc
+cat /etc/fstab
+nano /etc/fstab
+sudo nano /etc/fstab
+fish
+cd ..
+fish
+python -m pip install -U "pylint<2.0.0" --user
+vf list
+fish
+shutdown 
+npm start
+code
+fish
+code
+fish
+cd ..
+git status
+fish
+gish
+fish
+terminal
+fish
+shutdown 
+fish
+shutdown 
+fish
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip3 install matplotlib
+pip3 install pandas
+pip3 install numpy
+pip3 install tkinter
+pip install tkinter
+sudo apt-get install python3-tk 
+shutdown 
+pip mpy --help
+fish
+to[
+top
+fish
+npm start
+reboot
+fish
+npm start
+shutdown 
+fish
+git status
+sudo add-apt-repository ppa:peek-developers/stable
+sudo apt update && sudo apt install peek
+history
+fish
+shutdown 
+python3
+fish
+sudo apt upgrade
+firefox
+firefox -P
+firefox --help
+shutdown 
+firefox
+shutdown 
+fish
+flatpak uninstall --unused 
+man flatpak
+help flatpak
+info flatpak
+sudo apt install flatpak
+flatpak uninstall --unused 
+sudo apt purge flatpak
+sudo apt upgrade
+apt update
+sudo apt update
+sudo apt update --fix-missing
+sudo apt upgrade --fix-missing
+sudo apt upgrade 
+sudo apt autoremove
+fish
+cd Vprac/
+git status
+git add .
+git log --oneline
+git commit -m "All sorting algorithms in Python"
+cd V
+ls
+fish
+python3
+shutdown 
+top
+shutdown 
+cd TUT/
+fish
+shutdown 
+cd ..
+cd react-c
+cd react-cotd/
+git status
+git log --oneline 
+git status
+ls
+git diff src/components/Login.js
+code src/components/Login.js
+git status
+git diff src/*
+git status
+git add .
+git commit -m "Firefox Fix"
+git status
+npm start
+fihs
+fish
+fish
+ipconfig
+ifconfig
+reboot
+shutdown 
+thunar
+top
+fish
+reboot
+cd ..
+fish
+fsih
+fish
+git checkout master
+fish
+npm install
+npm start
+cd ..
+fish
+shutdown 
+npm start
+fish
+shutdown 

@@ -52,3 +52,16 @@ T 1544806909 21«21-16-31-	21ashnidh (~webchat@rev-18-85-44-69.sugarlab
 T 1544807231 21«21-16-31-	21perrie (~perriefid@197.210.53.214) has Quit (Quit: Mutter: www.mutterirc.com21)
 T 1544807983 21«21-16-31-	21benzamin (9d2face8@gateway/web/freenode/ip.157.47.172.232) has Quit (Ping timeout: 256 seconds21)
 T 1544808248 21«21-16-31-	21llaske (~llaske@163.5.55.25) has Quit (Remote host closed the connection21)
+T 1549372852 16»19»	16Now talking on #sugar
+T 1549372852 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1549372852 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1549372853 22*	Channel 22#sugar url: 24http://sugarlabs.org/
+T 1549373556 31-21-25-29»	29perrie_ (~perrie@197.210.54.24) has Joined #sugar
+T 1549373756 21«21-16-31-	21perrie (~perrie@129.56.79.77) has Quit (Ping timeout: 268 seconds21)
+T 1549374169 31-21-25-29»	29perrie (~perrie@129.56.79.77) has Joined #sugar
+T 1549374170 21«21-16-31-	21perrie_ (~perrie@197.210.54.24) has Quit (Read error: Connection reset by peer21)
+T 1549386924 16»25»	Disconnected (Invalid argument).
+T 1549386953 16»19»	16Now talking on #sugar
+T 1549386954 29»17»	29Topic for #sugar is: Sugar -- Oh sweet! The constructionist learning environment | We need YOU! http://join.sugarlabs.org/ | Large pastes here: http://fpaste.org/
+T 1549386954 29»17»	29Topic for #sugar set by bernie at Sun Dec 15 06:25:39 2013
+T 1549386964 22*	Channel 22#sugar url: 24http://sugarlabs.org/

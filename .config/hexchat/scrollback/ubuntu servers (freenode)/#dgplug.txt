@@ -1,0 +1,229 @@
+T 1549372865 16»19»	16Now talking on #dgplug
+T 1549372865 29»17»	29Topic for #dgplug is: Welcome to Linux User's Group of Durgapur | Mailing list at http://lists.dgplug.org/listinfo.cgi/users-dgplug.org | Old classes https://www.dgplug.org/irclogs/ | What is a hacker? One who doubts -- @Snowden |  Calendar URL: https://calendar.dgplug.org/index.php/apps/calendar/p/yQ8Tq48XMPeCNa8a/dgplug. | Next session is at 1300UTC on 5th February
+T 1549372865 29»17»	29Topic for #dgplug set by kushal!~hopless@fedora/kushal at Tue Feb  5 11:13:53 2019
+T 1549372865 28-21Notice28-	21{25from ChanServ21} [#dgplug] Welcome to #dgplug. Remember to register your nick to freenode. Read http://www.wikihow.com/Register-a-User-Name-on-Freenode for more info.
+T 1549372868 29<21@25kushal29>	pdas, have you generated the ssh-keys as suggested by trishnag in the email?
+T 1549372868 29<2125sigmapie829>	yurii_p, are you using ubuntu?
+T 1549372875 29<2125yurii_p29>	yes
+T 1549372879 29<2125pdas29>	yes
+T 1549372920 29<2125sigmapie829>	yurii_p, please install openssh-server
+T 1549372943 29<21@25trishnag29>	pdas: is your pub key in ~/.ssh dir?
+T 1549372951 29<2125yurii_p29>	ok
+T 1549372986 29<2125pdas29>	well i saved it in desktop.pub
+T 1549372994 29<21@25trishnag29>	that's the reason
+T 1549373019 29<2125mzeeqazi4429>	!
+T 1549373019 29<21@25trishnag29>	pdas: use $ ssh-copy-id -i <absolutepath_to_key> <username>@127.0.0.1
+T 1549373028 29<21@25trishnag29>	next
+T 1549373029 29<2125batul29>	brute4s99 ask your question.
+T 1549373029 29<2125batul29>	mzeeqazi44 you are next, get ready with your question.
+T 1549373032 29<2125brute4s9929>	I apologize for showing up late to the session. I am very excited to learn more about Ansible, so thank you for taking the time for the session! My Q is, what are other network transports that can be used to comm with other machines?
+T 1549373056 29<21@25kushal29>	brute4s99, please type in full English words.
+T 1549373068 29<2125brute4s9929>	s/comm/communicate
+T 1549373072 29<2125prokbird29>	!
+T 1549373088 29<21@25trishnag29>	brute4s99: the list is available here https://docs.ansible.com/ansible/latest/plugins/connection.html#plugin-list
+T 1549373091 29<21@25trishnag29>	next
+T 1549373091 29<2125batul29>	mzeeqazi44 ask your question.
+T 1549373091 29<2125batul29>	prokbird you are next, get ready with your question.
+T 1549373098 29<2125mzeeqazi4429>	what to do next
+T 1549373101 29<2125mzeeqazi4429>	The authenticity of host '127.0.0.1 (127.0.0.1)' can't be established.ECDSA key fingerprint is SHA256
+T 1549373111 29<2125brute4s9929>	thank you, trishnag  :D
+T 1549373151 29<2125yurii_p29>	thanks to everyone help - it looks working now  ---- Number of key(s) added: 1  Now try logging into the machine, with:   "ssh '****@127.0.0.1'" and check to make sure that only the key(s) you wanted were added.
+T 1549373176 29<21@25kushal29>	brute4s99, You also typed Q, which is an alphabet, but, not a word.
+T 1549373190 29<21@25trishnag29>	mzeeqazi44: is that a warning or are you getting Permission denied?
+T 1549373213 29<2125mzeeqazi4429>	trishnag this the exact warning
+T 1549373218 31-21-25-29»	29aswanipranjal (uid293292@gateway/web/irccloud.com/x-tugteqmmllnivnid) has Joined #dgplug
+T 1549373242 29<21@25trishnag29>	mzeeqazi44: You might have a prompt after that asking for Y/N?
+T 1549373247 29<2125brute4s9929>	I'm sorry, kushal. I will be more careful. :)
+T 1549373249 29<21@25kushal29>	mzeeqazi44, press enter.
+T 1549373294 29<21@25trishnag29>	next
+T 1549373295 29<2125batul29>	prokbird ask your question.
+T 1549373295 29<2125mzeeqazi4429>	trishnag yes i have prompt asking for y/n
+T 1549373299 29<2125sigmapie829>	mzeeqazi44, that warning is natural for the first time. Go with yes.
+T 1549373304 29<2125prokbird29>	I got this after running ssh-copy-id command https://paste.fedoraproject.org/paste/CHESZjrQgs5YK~aTWyeY3w
+T 1549373340 29<2125prokbird29>	Is this correct?
+T 1549373364 29<2125j60529>	if there is no error, it succeeded
+T 1549373378 31-21-25-29»	29ananyo (~ananyo@27.59.229.32) has Joined #dgplug
+T 1549373398 29<21@25trishnag29>	prokbird: that means you already have the keys added. you can just ssh to verify that.
+T 1549373403 29<21@25trishnag29>	next
+T 1549373403 29<2125batul29>	No one is in the queue.
+T 1549373407 29<2125mzeeqazi4429>	!
+T 1549373420 29<21@25trishnag29>	next
+T 1549373420 29<2125batul29>	mzeeqazi44 ask your question.
+T 1549373428 29<2125mzeeqazi4429>	now i have permission denied
+T 1549373452 31<2116vipulgupta204831>	!
+T 1549373537 29<21@25trishnag29>	mzeeqazi44: are you using root user anyhow?
+T 1549373544 29<2125mzeeqazi4429>	my issue got resolved, thanks
+T 1549373546 29<21@25trishnag29>	next
+T 1549373547 24<batul24>24	vipulgupta2048 ask your question.
+T 1549373562 29<21@25trishnag29>	we will move on to the next step after this question.
+T 1549373613 29<21@25trishnag29>	Now everyone execute $ ansible all -i "localhost," -c local -m ping
+T 1549373644 29<21@25trishnag29>	Do you get "SUCCESS"?
+T 1549373648 29<21@25schubisu29>	yes
+T 1549373648 29<2125priyankasaggu11929>	yes
+T 1549373648 29<2125imack29>	yes
+T 1549373649 29<21@25jasonbraganza29>	yes
+T 1549373651 29<2125mzeeqazi4429>	yes
+T 1549373653 29<2125j60529>	yes
+T 1549373654 29<2125yurii_p29>	yes
+T 1549373657 29<2125dharmateja29>	yes
+T 1549373674 29<2125ananyo29>	yes
+T 1549373675 29<21@25trishnag29>	perfect!
+T 1549373679 29<2125palnabarun29>	yes
+T 1549373682 29<2125sigmapie829>	pong
+T 1549373685 29<2125gandalfdwite29>	yes
+T 1549373688 29<2125shiva29>	yes
+T 1549373694 29<21@25trishnag29>	With this command we have sent a ping to our localhost and then localhost replied back with pong.
+T 1549373703 29<2125sigmapie829>	!
+T 1549373710 29<21@25trishnag29>	Here 'changed' flag in output has returned False which means no configuration change happened when we executed this step
+T 1549373712 29<21@25trishnag29>	next
+T 1549373712 29<2125batul29>	sigmapie8 ask your question.
+T 1549373732 29<2125sigmapie829>	why is there a ',' in 'localhost,' seems odd?
+T 1549373757 29<21@25trishnag29>	sigmapie8: It means you can pass many more hosts/machines with it.
+T 1549373759 29<2125prokbird29>	yes,success
+T 1549373816 21«21-16-31-	21smule_ (~shitalmul@49.14.213.29) has Quit (Remote host closed the connection21)
+T 1549373830 29<21@25trishnag29>	so say you want to run it on another host called "remotehost"; your command would be  $ ansible all -i "localhost,remotehost" -c local -m ping
+T 1549373848 29<2125souvikhaldar29>	trishnag: yes!
+T 1549373848 29<21@25trishnag29>	sigmapie8: hope that answers your doubt.
+T 1549373875 29<2125sigmapie829>	trishnag, yes. Although I still feel odd using ',' with just one host.
+T 1549373878 29<2125sigmapie829>	!
+T 1549373894 29<21@25trishnag29>	sigmapie8: you can skip the "," if you want with one host.
+T 1549373898 29<21@25trishnag29>	next
+T 1549373898 29<2125batul29>	sigmapie8 ask your question.
+T 1549373918 29<2125sigmapie829>	are all the remote hosts called inventory? or does that have some other meaning?
+T 1549373936 29<21@25trishnag29>	we will talk about it after some time.
+T 1549373942 29<2125sigmapie829>	okay
+T 1549373942 29<21@25trishnag29>	Now everyone please execute $ ansible all -i "localhost," -c local -m shell -a '/bin/echo hello'
+T 1549373975 29<21@25jasonbraganza29>	hello came back :)
+T 1549373983 29<21@25trishnag29>	Does it return "hello"?
+T 1549373986 29<2125gandalfdwite29>	yes
+T 1549373988 29<2125dharmateja29>	yes
+T 1549373990 29<2125mzeeqazi4429>	yes
+T 1549373991 29<2125shiva29>	yes
+T 1549373991 29<2125priyankasaggu11929>	yes
+T 1549373993 29<2125yurii_p29>	yes
+T 1549373995 29<2125imack29>	yes
+T 1549374000 29<2125prokbird29>	yes
+T 1549374005 29<2125sigmapie829>	changed
+T 1549374011 29<2125souvikhaldar29>	trishnag: yes!
+T 1549374018 29<2125palnabarun29>	yes
+T 1549374056 29<2125j60529>	yes
+T 1549374059 29<21@25trishnag29>	With this command we used “shell" to execute the command “/bin/echo hello” on the host. we will learn what module is later in the session.
+T 1549374079 29<21@25trishnag29>	s/"shell"/"shell module"
+T 1549374103 21«21-16-31-	21jeet__ (~Jeet@182.69.163.138) has Quit (Ping timeout: 245 seconds21)
+T 1549374159 29<2125nightwarrior-xxx29>	!
+T 1549374163 29<21@25trishnag29>	next
+T 1549374164 29<2125batul29>	nightwarrior-xxx ask your question.
+T 1549374176 29<2125sigmapie829>	!
+T 1549374196 31-21-25-29»	29smule_ (~shitalmul@49.35.53.16) has Joined #dgplug
+T 1549374225 29<2125nightwarrior-xxx29>	trishnag: As you said eariler we can avoid ```,``` in the above command ,but its giving me an error
+T 1549374240 29<2125sigmapie829>	I have the same observation as nightwarrior-xxx
+T 1549374277 29<21@25trishnag29>	what is the error?
+T 1549374284 29<21@25trishnag29>	please paste in a pastebin
+T 1549374299 29<2125palnabarun29>	It is the same case for me.
+T 1549374312 29<21@25jasonbraganza29>	then just follow instructions for now and experiment later nightwarrior-xxx, sigmapie8. let trishnag carry on with her session
+T 1549374312 21«21-16-31-	21Rayan_ (uid325131@gateway/web/irccloud.com/x-yombbucekyzvmvlk) has Quit (Quit: Connection closed for inactivity21)
+T 1549374322 29<2125sigmapie829>	jasonbraganza, agreed.
+T 1549374343 29<2125nightwarrior-xxx29>	jasonbraganza: ok
+T 1549374346 29<21@25trishnag29>	alright.
+T 1549374353 29<21@25trishnag29>	All the ansible commands that we have used till now are called ad-hoc command which is something that you might type in to do something really quick, but don’t want to save for later.
+T 1549374402 29<21@25trishnag29>	Now everyone please create a directory called "demo" and cd to the directory and create a file called "hosts"
+T 1549374480 29<2125ananyo29>	done
+T 1549374489 29<2125yurii_p29>	done
+T 1549374492 29<2125mzeeqazi4429>	done
+T 1549374496 29<2125dharmateja29>	done
+T 1549374497 29<2125shiva29>	done
+T 1549374498 29<2125priyankasaggu11929>	done
+T 1549374499 29<2125imack29>	done
+T 1549374501 29<2125sigmapie829>	done
+T 1549374505 29<2125gandalfdwite29>	done
+T 1549374511 29<2125nightwarrior-xxx29>	done
+T 1549374512 29<2125prokbird29>	done
+T 1549374537 29<2125palnabarun29>	done
+T 1549374538 29<21@25trishnag29>	Content of the file hosts <localhost ansible_connection=local>
+T 1549374604 29<2125palnabarun29>	done
+T 1549374626 29<21@25trishnag29>	after that execute the command $ ansible all -i hosts -m shell -a '/bin/echo hello'
+T 1549374633 29<21@25trishnag29>	It should work/return result as before.
+T 1549374660 29<2125yurii_p29>	yes
+T 1549374675 29<2125imack29>	yes
+T 1549374683 29<2125sigmapie829>	worked
+T 1549374690 29<2125palnabarun29>	worked
+T 1549374694 29<2125dharmateja29>	yes
+T 1549374739 29<21@25trishnag29>	The file "hosts" we just created is called inventory in Ansible. Inventory is a file on the control node that contains a list of host names or IP addresses of the servers.
+T 1549374802 29<21@25trishnag29>	Default inventory file is present /etc/ansible/hosts and we can create our own inventory just like we did and use -i flag to use our own inventory file.
+T 1549374803 29<2125sigmapie829>	!
+T 1549374814 29<21@25trishnag29>	next
+T 1549374814 29<2125batul29>	sigmapie8 ask your question.
+T 1549374835 29<2125sigmapie829>	what other values of ansible_connection can be there?
+T 1549374847 21«21-16-31-	21mzeeqazi44 (675b67a1@gateway/web/cgi-irc/kiwiirc.com/ip.103.91.103.161) has Quit (Ping timeout: 240 seconds21)
+T 1549374852 29<21@25trishnag29>	sigmapie8: https://docs.ansible.com/ansible/latest/plugins/connection.html#plugin-list
+T 1549374899 29<21@25trishnag29>	Now everyone please take a look at the /etc/ansible/hosts file and ask question if anything does not make sense.
+T 1549374972 29<2125sigmapie829>	trishnag, I am a bit confused what does ansible_connection signify?
+T 1549374992 29<21@25jasonbraganza29>	sigmapie8, hold that thought and ask after the session
+T 1549374998 29<2125j60529>	for me it is /usr/share/ansible/doc/examples/hosts <- if people can't find it in /etc/ansible/
+T 1549375013 29<2125sigmapie829>	jasonbraganza, okay.
+T 1549375031 29<2125brute4s9929>	!
+T 1549375061 29<21@25trishnag29>	sigmapie8: ansible_connection signifies which network protocol to use. since we are communicating with localhost, we used local. "local" is built for communicating/executing anything on control node.
+T 1549375071 29<2125prokbird29>	!
+T 1549375089 29<2125ananyo29>	!
+T 1549375098 29<21@25trishnag29>	If you want to communicate to remote server with ssh, you pass the value "ssh" to connection. Ansible by default uses "ssh" as connection plugin
+T 1549375100 29<21@25trishnag29>	next
+T 1549375101 29<2125batul29>	brute4s99 ask your question.
+T 1549375101 29<2125batul29>	prokbird you are next, get ready with your question.
+T 1549375102 29<2125brute4s9929>	what is the purpose of the default inventory file? (We can always maintain one anywhere we want to)
+T 1549375222 29<2125nightwarrior-xxx29>	!
+T 1549375234 29<2125j60529>	how is this related. please try to stay on topic
+T 1549375253 29<2125brute4s9929>	by the way, I can't find the default file in my sys.(I used virtualenv)
+T 1549375276 29<21@25trishnag29>	brute4s99: yes ofcourse! if you want to have everything in your default inventory file you can have it there and it is more for systemwide use if you want to have one inventory for everything.
+T 1549375307 29<2125brute4s9929>	ah, okay. Thanks trishnag :D
+T 1549375309 29<21@25trishnag29>	in case you do not have any custom inventory, ansible uses it by default
+T 1549375310 29<2125j60529>	brute4s99: see my previous post (if you install using pacman in arch)
+T 1549375325 29<21@25trishnag29>	next
+T 1549375326 29<2125batul29>	prokbird ask your question.
+T 1549375326 29<2125batul29>	ananyo you are next, get ready with your question.
+T 1549375334 29<2125prokbird29>	I am getting warnings while running ansible all -i hosts -m shell -a '/bin/echo hello' command.  https://paste.fedoraproject.org/paste/aHQN6qD7OfjM7sO20fMKRA
+T 1549375367 29<2125brute4s9929>	I used pip in virtualenv, j605. I'm still running a search for all "hosts" files in my sys
+T 1549375369 29<21@25trishnag29>	prokbird: looks like you have added "<" also in there.
+T 1549375380 29<2125prokbird29>	yes
+T 1549375381 29<21@25bhavin19229>	brute4s99, you can refer to this one https://github.com/ansible/ansible/blob/devel/examples/hosts
+T 1549375385 29<21@25trishnag29>	it is just "localhost ansible_connection=local"
+T 1549375388 29<21@25trishnag29>	next
+T 1549375389 29<2125batul29>	ananyo ask your question.
+T 1549375389 29<2125batul29>	nightwarrior-xxx you are next, get ready with your question.
+T 1549375411 29<2125brute4s9929>	thanks, bhavin192 ! :D
+T 1549375423 29<2125ananyo29>	can we use any regex pattern in the pattern string ?
+T 1549375476 29<2125prokbird29>	trishnag, it worked. thanks :)
+T 1549375491 29<21@25trishnag29>	ananyo: yes. more about patters if you are interested https://docs.ansible.com/ansible/latest/user_guide/intro_patterns.html
+T 1549375502 29<21@25trishnag29>	s/patters/patterns
+T 1549375510 29<2125ananyo29>	trishnag, Thanks !
+T 1549375511 29<21@25trishnag29>	next
+T 1549375511 29<2125batul29>	nightwarrior-xxx ask your question.
+T 1549375526 29<2125nightwarrior-xxx29>	The file we created in demo repo i.e 'hosts', after running that command ansible generated a file with same name that stores all the hosts in etc/ansible/hosts . Right ? Or 'hosts' file is already there by default becuase that's what the file content says. <eom>
+T 1549375538 21«21-16-31-	21chkumar|ruck (chandan_ku@nat/redhat/x-zhaseqtshztcqymq) has Quit (Read error: Connection reset by peer21)
+T 1549375576 29<21@25trishnag29>	nightwarrior-xxx: /etc/ansible/host is by default there when you installed ansible
+T 1549375584 29<21@25trishnag29>	s/host/hosts
+T 1549375609 29<21@25trishnag29>	the custom inventory we created in "demo" directory can be of any name. It doesn't have to be hosts.
+T 1549375611 29<21@25trishnag29>	next
+T 1549375611 29<2125batul29>	No one is in the queue.
+T 1549375642 29<2125nightwarrior-xxx29>	trishnag: Ok,thanks
+T 1549375651 21«21-16-31-	21vishal_vr (~vishal_vv@125.16.97.116) has Quit (Ping timeout: 246 seconds21)
+T 1549375685 29<21@25trishnag29>	I wonder why no one asked about the terms ungroup and group :).
+T 1549375699 29<2125brute4s9929>	ah, I can see python slicing :D
+T 1549375704 29<2125brute4s9929>	!
+T 1549375758 29<21@25trishnag29>	The way we added "localhost" in our custom inventory, we call it "ungrouped" hosts.
+T 1549375831 29<21@25trishnag29>	now what is group -> say we want to push same configuration to 30 webservers, we will associate all the 30 hosts with a group so we can just use that group when we want to configure it.
+T 1549375833 29<21@25trishnag29>	next
+T 1549375833 29<2125batul29>	brute4s99 ask your question.
+T 1549375837 29<2125brute4s9929>	can I use the pattern anywhere? for eg: will this work ->`192.168.0.[100:105]` ?
+T 1549375891 31-21-25-29»	29Sourabh1031 (9d24ef97@gateway/web/freenode/ip.157.36.239.151) has Joined #dgplug
+T 1549375893 29<21@25trishnag29>	brute4s99: yes. please give it try a after the session.
+T 1549386924 16»25»	Disconnected (Invalid argument).
+T 1549386947 28>NickServ28<	identify ****
+T 1549386947 hello
+T 1549386947 27»28»28	vipulgupta2048 sets mode +Z vipulgupta2048
+T 1549386947 27»28»28	vipulgupta2048 sets mode +i vipulgupta2048
+T 1549386947 28-21Notice28-	21{25from NickServ21} This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+T 1549386948 28-21Notice28-	21{25from freenode-connect21} Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+T 1549386948 23»21»	Received a CTCP VERSION from freenode-connect
+T 1549386964 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1549387135 FiSHLiM plugin unloaded
+T 1549387135 Python interface unloaded

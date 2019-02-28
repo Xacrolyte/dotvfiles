@@ -1,3 +1,4 @@
+# Defined in - @ line 2
 function fish_prompt --description 'Write out the prompt'
 	set -l last_status $status
 
@@ -59,7 +60,7 @@ function fish_prompt --description 'Write out the prompt'
     if not set -q __fish_prompt_normal
         set -g __fish_prompt_normal (set_color normal)
     end
-	
+
     set -l color_cwd
     set -l prefix
     set -l suffix

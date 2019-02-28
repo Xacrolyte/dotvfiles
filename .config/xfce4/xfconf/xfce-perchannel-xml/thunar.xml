@@ -13,4 +13,8 @@
   <property name="last-window-height" type="int" value="1021"/>
   <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
   <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
+  <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_SMALLER"/>
+  <property name="last-details-view-column-widths" type="string" value="50,200,50,50,1154,50,50,74,319"/>
+  <property name="last-side-pane" type="string" value="ThunarShortcutsPane"/>
+  <property name="last-location-bar" type="string" value="ThunarLocationEntry"/>
 </channel>

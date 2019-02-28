@@ -5,8 +5,8 @@
     <property name="power-button-action" type="uint" value="1"/>
     <property name="lock-screen-suspend-hibernate" type="empty"/>
     <property name="logind-handle-lid-switch" type="bool" value="false"/>
-    <property name="blank-on-ac" type="int" value="5"/>
-    <property name="blank-on-battery" type="int" value="5"/>
+    <property name="blank-on-ac" type="int" value="0"/>
+    <property name="blank-on-battery" type="int" value="0"/>
     <property name="dpms-enabled" type="empty"/>
     <property name="dpms-on-ac-sleep" type="uint" value="60"/>
     <property name="dpms-on-ac-off" type="uint" value="0"/>

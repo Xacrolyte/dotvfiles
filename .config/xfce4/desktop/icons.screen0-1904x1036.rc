@@ -1,49 +1,61 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/vipulgupta2048/Desktop/code.png]
+row=2
+col=1
+
+[/home/vipulgupta2048/Desktop/knapsack.py]
+row=6
+col=1
+
 [/home/vipulgupta2048/Desktop/Summer ]
 row=4
-col=13
-
-[/home/vipulgupta2048/Desktop/groove.xspf]
-row=5
-col=0
-
-[/home/vipulgupta2048/Desktop/417356041.pdf]
-row=8
-col=0
-
-[/home/vipulgupta2048/Desktop/task]
-row=5
-col=1
+col=14
 
 [/home/vipulgupta2048/Desktop/Desktop]
 row=4
 col=1
 
+[/home/vipulgupta2048/Desktop/groove.xspf]
+row=5
+col=0
+
 [/home/vipulgupta2048/Desktop/X desktop Stuff]
 row=3
 col=1
 
-[/home/vipulgupta2048/Desktop/DIV Contents.pdf]
-row=8
-col=1
+[/home/vipulgupta2048/Desktop/Minor]
+row=3
+col=14
 
 [/home/vipulgupta2048/Desktop/Telegram]
 row=4
 col=0
 
-[/home/vipulgupta2048/Desktop/ccavResponseHandler.pdf]
-row=8
-col=2
+[/home/vipulgupta2048/Desktop/blog.js]
+row=7
+col=0
 
-[/home/vipulgupta2048/Desktop/CRACKING the · CODING INTERVIEW.pdf]
+[/home/vipulgupta2048/Desktop/Vipul Gupta - Resume.pdf]
 row=6
 col=0
+
+[/home/vipulgupta2048/Desktop/Screenshot_2019-02-19_15-25-46.png]
+row=8
+col=0
+
+[84967E1A967E0D44]
+row=1
+col=1
 
 [423B-3EAB]
 row=0
 col=2
+
+[C81A-56B9]
+row=5
+col=1
 
 [0C827B1A827B078A]
 row=1
@@ -51,10 +63,6 @@ col=0
 
 [0CB471A6B47192C6]
 row=0
-col=1
-
-[84967E1A967E0D44]
-row=1
 col=1
 
 [Trash]

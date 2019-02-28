@@ -350,3 +350,15 @@ T 1544808818 24<walterbender24>24	we should consolidate just to #sugar an
 T 1544808827 24<walterbender24>24	+1
 T 1544809058 FiSHLiM plugin unloaded
 T 1544809058 Python interface unloaded
+T 1549372852 16»19»	16Now talking on #sugar-meeting
+T 1549372853 29»17»	29Topic for #sugar-meeting is: The meeting channel for the Sugar learning platform | Meeting logs at http://meeting.sugarlabs.org/sugar-meeting/meetings | See also #sugar | THIS CHANNEL IS ALWAYS LOGGED
+T 1549372853 29»17»	29Topic for #sugar-meeting set by bernie at Fri May 11 00:29:23 2012
+T 1549372853 28-21Notice28-	21{25from NickServ21} You are now identified for vipulgupta2048.
+T 1549373557 31-21-25-29»	29perrie_ (~perrie@197.210.54.24) has Joined #sugar-meeting
+T 1549373756 21«21-16-31-	21perrie (~perrie@129.56.79.77) has Quit (Ping timeout: 268 seconds21)
+T 1549374170 31-21-25-29»	29perrie (~perrie@129.56.79.77) has Joined #sugar-meeting
+T 1549374170 21«21-16-31-	21perrie_ (~perrie@197.210.54.24) has Quit (Read error: Connection reset by peer21)
+T 1549386924 16»25»	Disconnected (Invalid argument).
+T 1549386953 16»19»	16Now talking on #sugar-meeting
+T 1549386953 29»17»	29Topic for #sugar-meeting is: The meeting channel for the Sugar learning platform | Meeting logs at http://meeting.sugarlabs.org/sugar-meeting/meetings | See also #sugar | THIS CHANNEL IS ALWAYS LOGGED
+T 1549386953 29»17»	29Topic for #sugar-meeting set by bernie at Fri May 11 00:29:23 2012

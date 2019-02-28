@@ -1,9 +1,0 @@
-display.dither:	True
-display.gammaCorrect:	False
-display.backdrop:	False
-display.confirmEdit:	False
-display.usePixmap:	True
-display.undoCache:	256
-display.colormap:	Shared
-display.confirmExit:	True
-display.displayWarnings:	True

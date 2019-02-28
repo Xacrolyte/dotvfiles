@@ -1,9 +1,0 @@
-[user]
-	email = vipulgupta2048@gmail.com
-	name = Vipul Gupta (@vipulgupta2048)
-[http]
-	postBuffer = 157286400
-[commit]
-	template = ~/.gitmessage
-[core]
-	editor = nano

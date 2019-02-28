@@ -49,6 +49,7 @@
         <value type="string" value="blueman-applet"/>
         <value type="string" value="update-notifier"/>
         <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="anydesk"/>
         <value type="string" value="telegram"/>
       </property>
     </property>
@@ -64,7 +65,7 @@
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="enable-mpris" type="bool" value="true"/>
       <property name="mixer-command" type="string" value="pavucontrol"/>
-      <property name="mpris-players" type="string" value="parole;vlc;vlc.instance29663"/>
+      <property name="mpris-players" type="string" value="parole;vlc;vlc.instance10447;vlc.instance17116;vlc.instance18557;vlc.instance25816;vlc.instance2885;vlc.instance29663;vlc.instance3325;vlc.instance4633;vlc.instance4895;vlc.instance5205;vlc.instance7717"/>
       <property name="show-notifications" type="bool" value="true"/>
     </property>
     <property name="plugin-10" type="string" value="separator">
