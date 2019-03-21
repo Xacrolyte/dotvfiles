@@ -8,5 +8,5 @@ Exec=/home/vipulgupta2048/Desktop/X desktop Stuff/Telegram
 OnlyShowIn=XFCE;
 StartupNotify=false
 Terminal=false
-Hidden=false
+Hidden=true
 

@@ -728,3 +728,121 @@ shutdown
 npm start
 fish
 shutdown 
+fish
+udo apt install gparther
+udo apt install gparted
+sudo apt install gparted
+gparted
+shut`
+shutdown 
+shut
+shutdown 
+wget -r -np -k http://yourtarget.com/even/path/down/if/you/need/it/
+wget -r -np -k https://github.com/vipulgupta2048
+fish
+top
+kill -9 12466
+top
+shutdown 
+killall vlc
+top
+fish
+fish'
+fish
+man pwd
+gparted
+top
+fish
+fish
+npm -g @angular/cli
+npm install -g @angular/cli
+sudo npm install -g @angular/cli
+angular =v
+angular -\v
+angular -v
+ng -v
+np --version
+np -version
+np version
+ng version
+fish
+xkill
+sudo apt dist-upgrade
+sudo apt autoremove
+shut
+shutdown 
+fish
+fish
+systemd-analyze blame
+sudo apt purge postgresql
+thermald
+sudo thermald
+sudo apt purge thermald 
+systemd-analyze blame
+sudo apt purge filezilla
+sudo apt purge parole music player
+sudo apt purge parole 
+sudo apt purge sugar
+sudo apt purge sugar-browse-activity sugar-
+sudo apt purge sugar-browse-activity sugar-*
+shutdown 
+fish
+ng serve --open
+systemd-analyze blame
+sudo rm -rf /usr/local/pgsql
+userdel postgres
+sudo userdel postgres
+kill -9 1050
+sudo fihs
+sudo fish
+fish
+ng serve --open
+fish
+top
+killall chrome
+top
+nodemon
+fish
+sudo service start mongod
+sudo service start mongodb
+sudo service mongod start
+sudo service mongod status
+npm install roboto-fontface
+fish
+git status
+fihs
+fish
+ng serve --open
+fish
+fish
+cd myserver/myserver/
+fish
+fihs
+fish
+sudo gparted
+shutdown 
+fish
+shut
+shutdown 
+top
+fish
+alias pip="pip3"
+ls
+cd ..
+fish
+top
+shutdown 
+pip3 install "spidermon[monitoring,validation]"
+top
+fish
+fsih
+fish
+top
+exit
+tio
+top
+git -v
+git --v
+git --version
+cd react-cotd/
+git remote origin

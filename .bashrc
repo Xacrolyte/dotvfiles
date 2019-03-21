@@ -121,3 +121,8 @@ synclient TapButton1=1
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
+
+JAVA_HOME=/usr/lib/jvm/default-java/bin 
+export JAVA_HOME
+PATH=$PATH:$JAVA_HOME
+export PATH
