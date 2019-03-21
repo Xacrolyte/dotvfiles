@@ -10,8 +10,8 @@ source $OMF_PATH/init.fish
 #set fish_greeting I am terminal named fish. Let\'s get high/started/both.
 
 # Redshift
-# redshift -O 4200K
-
+#redshift -O 4200K
+#
 # FOR GOLANG
 set -x -U GOPATH $HOME
 
@@ -57,3 +57,8 @@ synclient Tapbutton1=1
 #if [ "$SHLVL" = 1 ]; then
 #   [ -x /usr/bin/clear_console ] 
 #fi
+
+set JAVA_HOME /usr/lib/jvm/default-java/bin
+export JAVA_HOME
+set PATH $PATH $JAVA_HOME
+export PATH

@@ -1737,7 +1737,7 @@
 [freetype] # Freetype2 font renderer
 
 # Font (string)
-#freetype-font=Serif Bold
+freetype-font=DejaVu Sans
 
 # Monospace Font (string)
 #freetype-monofont=Monospace
@@ -3581,7 +3581,7 @@ qt-privacy-ask=0
 #disable-screensaver=1
 
 # Show media title on video (boolean)
-#video-title-show=1
+video-title-show=0
 
 # Show video title for x milliseconds (integer)
 #video-title-timeout=5000
@@ -3956,7 +3956,7 @@ qt-privacy-ask=0
 #rt-offset=0
 
 # Play files randomly forever (boolean)
-#random=0
+random=1
 
 # Repeat all (boolean)
 loop=1
