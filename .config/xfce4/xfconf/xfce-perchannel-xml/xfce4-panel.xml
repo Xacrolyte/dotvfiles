@@ -32,6 +32,12 @@
   <property name="plugins" type="empty">
     <property name="plugin-2" type="string" value="tasklist">
       <property name="flat-buttons" type="bool" value="true"/>
+      <property name="grouping" type="uint" value="0"/>
+      <property name="show-wireframes" type="bool" value="false"/>
+      <property name="switch-workspace-on-unminimize" type="bool" value="true"/>
+      <property name="window-scrolling" type="bool" value="false"/>
+      <property name="include-all-workspaces" type="bool" value="false"/>
+      <property name="show-only-minimized" type="bool" value="false"/>
     </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
@@ -51,6 +57,7 @@
         <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="riot-web"/>
         <value type="string" value="anydesk"/>
+        <value type="string" value="hp-systray"/>
         <value type="string" value="telegram"/>
       </property>
     </property>
@@ -66,7 +73,7 @@
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="enable-mpris" type="bool" value="true"/>
       <property name="mixer-command" type="string" value="pavucontrol"/>
-      <property name="mpris-players" type="string" value="parole;vlc;vlc.instance10447;vlc.instance17116;vlc.instance18557;vlc.instance25816;vlc.instance2885;vlc.instance29663;vlc.instance3325;vlc.instance4633;vlc.instance4895;vlc.instance5205;vlc.instance7717;vlc.instance7982"/>
+      <property name="mpris-players" type="string" value="parole;vlc;vlc.instance10447;vlc.instance15739;vlc.instance17116;vlc.instance18557;vlc.instance25816;vlc.instance2885;vlc.instance29663;vlc.instance3325;vlc.instance4633;vlc.instance4895;vlc.instance5205;vlc.instance7717;vlc.instance7982"/>
       <property name="show-notifications" type="bool" value="true"/>
     </property>
     <property name="plugin-10" type="string" value="separator">
