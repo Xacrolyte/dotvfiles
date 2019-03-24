@@ -11,7 +11,9 @@ source $OMF_PATH/init.fish
 
 # Redshift
 #redshift -O 4200K
-#
+
+alias pip='pip3'
+
 # FOR GOLANG
 set -x -U GOPATH $HOME
 

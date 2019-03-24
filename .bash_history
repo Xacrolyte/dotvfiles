@@ -846,3 +846,26 @@ git --v
 git --version
 cd react-cotd/
 git remote origin
+python
+fish
+sudo code /bin/spidermon
+sudo geany /bin/spidermon
+sudo geany /bin/spidermon 
+fish
+top
+kill -9 1106
+sudo kill -9 1106
+top
+fish
+sudo apt autoremove
+sudo apt update
+sudo apt upgrade
+sudo apt autoremove --yes
+sudo gnome-tweaks
+apt-get install librsvg2-bin
+sduo apt-get install librsvg2-bin
+sudo apt-get install librsvg2-bin
+sudo add-apt-repository ppa:rebuntu16/other-stuff
+sudo apt update
+sudo apt install xfce-theme-manager
+sudo apt-get install xfce-theme-manager

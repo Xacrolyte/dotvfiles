@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix-Vaganza
+Comment=A modern flat theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Numix-Vaganza
+MetacityTheme=Numix-Vaganza
+IconTheme=gnome
+CursorTheme=DMZ-White
+ButtonLayout=menu:minimize,maximize,close
