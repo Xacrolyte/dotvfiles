@@ -876,3 +876,4 @@ fish
 sudo apt-get install gtk-theme-config
 sudo mousepad /usr/share/themes/Adwaita-dark/gtk-2.0/gtkrc 
 sudo dpkg -i Downloads/oomox_1.11-3-gde075379_18.10+.deb 
+nano
