@@ -29,6 +29,10 @@ col=1
 row=3
 col=14
 
+[/home/vipulgupta2048/Desktop/image002.jpg]
+row=7
+col=1
+
 [/home/vipulgupta2048/Desktop/Telegram]
 row=4
 col=0
@@ -53,6 +57,14 @@ col=0
 row=0
 col=2
 
+[0CB471A6B47192C6]
+row=0
+col=1
+
+[Android]
+row=8
+col=1
+
 [84967E1A967E0D44]
 row=1
 col=2
@@ -64,10 +76,6 @@ col=1
 [0C827B1A827B078A]
 row=1
 col=0
-
-[0CB471A6B47192C6]
-row=0
-col=1
 
 [Trash]
 row=2

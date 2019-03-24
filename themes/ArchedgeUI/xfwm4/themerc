@@ -24,5 +24,5 @@ popup_opacity=100
 show_frame_shadow=true
 show_popup_shadow=true
 
-gtk_color_scheme="fg_color:#000000\nbg_color:#000000\nbase_color:#000000\ntext_color:#50d000\nselected_bg_color:#282828\nselected_fg_color:#ffffff\ntooltip_bg_color:#303031\ntooltip_fg_color:#ffffff"
+gtk_color_scheme="fg_color:#000000\nbg_color:#000000\nbase_color:#000000\ntext_color:#50d000\nselected_bg_color:#000000\nselected_fg_color:#000000\ntooltip_bg_color:#000000\ntooltip_fg_color:#000000"
 

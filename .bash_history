@@ -869,3 +869,10 @@ sudo add-apt-repository ppa:rebuntu16/other-stuff
 sudo apt update
 sudo apt install xfce-theme-manager
 sudo apt-get install xfce-theme-manager
+cd dotvfiles/
+fish
+cd ..
+fish
+sudo apt-get install gtk-theme-config
+sudo mousepad /usr/share/themes/Adwaita-dark/gtk-2.0/gtkrc 
+sudo dpkg -i Downloads/oomox_1.11-3-gde075379_18.10+.deb 
