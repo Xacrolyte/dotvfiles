@@ -877,3 +877,12 @@ sudo apt-get install gtk-theme-config
 sudo mousepad /usr/share/themes/Adwaita-dark/gtk-2.0/gtkrc 
 sudo dpkg -i Downloads/oomox_1.11-3-gde075379_18.10+.deb 
 nano
+gpg -K
+cat microsoft.gpg 
+sudo apt-key list
+sudo apt upgrade
+sudo apt --fix-broken install
+sudo apt update
+sudo apt upgrade
+sudo apt autoclean
+sudo apt autoremove

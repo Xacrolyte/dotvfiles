@@ -57,12 +57,16 @@ col=0
 row=0
 col=2
 
-[0CB471A6B47192C6]
-row=0
-col=1
-
 [56CCBAA7CCBA80B3]
 row=8
+col=1
+
+[0C827B1A827B078A]
+row=1
+col=0
+
+[0CB471A6B47192C6]
+row=0
 col=1
 
 [84967E1A967E0D44]
@@ -72,10 +76,6 @@ col=2
 [423B-3EAB]
 row=1
 col=1
-
-[0C827B1A827B078A]
-row=1
-col=0
 
 [Trash]
 row=2
