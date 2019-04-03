@@ -1,24 +1,32 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/vipulgupta2048/Desktop/PyDelhi Celebrates Women's Day _ Meetup.html]
-row=2
+[/home/vipulgupta2048/Desktop/instructions]
+row=7
 col=1
 
 [/home/vipulgupta2048/Desktop/Summer ]
 row=4
 col=14
 
-[/home/vipulgupta2048/Desktop/groove.xspf]
-row=5
-col=0
-
 [/home/vipulgupta2048/Desktop/spidermon.py]
 row=6
 col=0
 
+[/home/vipulgupta2048/Desktop/groove.xspf]
+row=5
+col=0
+
 [/home/vipulgupta2048/Desktop/Desktop]
 row=4
+col=1
+
+[/home/vipulgupta2048/Desktop/Vipul Gupta - Proof of Enrollment.pdf]
+row=5
+col=1
+
+[/home/vipulgupta2048/Desktop/prim.py]
+row=8
 col=1
 
 [/home/vipulgupta2048/Desktop/X desktop Stuff]
@@ -29,36 +37,24 @@ col=1
 row=3
 col=14
 
-[/home/vipulgupta2048/Desktop/image002.jpg]
-row=7
-col=1
-
 [/home/vipulgupta2048/Desktop/Telegram]
 row=4
 col=0
-
-[/home/vipulgupta2048/Desktop/favicon.2.ico]
-row=6
-col=1
 
 [/home/vipulgupta2048/Desktop/Screenshot_2019-03-22_23-45-49.png]
 row=8
 col=0
 
 [/home/vipulgupta2048/Desktop/suits]
-row=5
+row=2
 col=1
 
 [/home/vipulgupta2048/Desktop/Screenshot_2019-03-22_19-52-00.png]
 row=7
 col=0
 
-[/home/vipulgupta2048/Desktop/a.py]
-row=0
-col=2
-
-[56CCBAA7CCBA80B3]
-row=8
+[/home/vipulgupta2048/Desktop/shub-standard-logo.png]
+row=6
 col=1
 
 [0C827B1A827B078A]
@@ -68,6 +64,10 @@ col=0
 [0CB471A6B47192C6]
 row=0
 col=1
+
+[56CCBAA7CCBA80B3]
+row=0
+col=2
 
 [84967E1A967E0D44]
 row=1

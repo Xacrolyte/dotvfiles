@@ -886,3 +886,26 @@ sudo apt update
 sudo apt upgrade
 sudo apt autoclean
 sudo apt autoremove
+git status
+git add .
+git commit -m "Still Updating"
+git push origin master
+shutdown 
+fish
+python -m pip install --upgrade pip setuptools wheel
+fish
+cd ..
+cd spider-tutorial/
+fish
+shut
+shutdown 
+fish
+nano spidermon/README.rst 
+shutdown 
+sudo add-apt-repository ppa:slgobinath/safeeyes
+sudo apt update
+sudo apt install safeeyes
+safeeyes
+whereis safeeyes
+exut
+exit

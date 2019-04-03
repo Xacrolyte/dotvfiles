@@ -53,6 +53,7 @@
         <value type="string" value="network"/>
         <value type="string" value="hexchat"/>
         <value type="string" value="blueman-applet"/>
+        <value type="string" value="safeeyes"/>
         <value type="string" value="update-notifier"/>
         <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="riot-web"/>
