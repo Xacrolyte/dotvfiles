@@ -909,3 +909,77 @@ safeeyes
 whereis safeeyes
 exut
 exit
+cd dotvfiles/
+git status
+git add .
+git commit -m "Add Safeeyes" 
+git push origin master
+sudo tlp start
+exit
+fish
+exit
+sudo gparted
+fish
+geany /bin/spidermon 
+sudo tlp start
+exit
+scarpy
+scrapy
+spidermon
+spidermon -h
+spidermon --help
+wget https://mindmup-export.s3.amazonaws.com/map.svg/out/a0bcef7059da11e9bc25c97845501f32.map.svg?AWSAccessKeyId=ASIASNCK5ADRSLBVWQ53&Expires=1554806714&Signature=SEGQbopW%2B3KaouBtE0IBGzI34X8%3D&x-amz-security-token=FQoGZXIvYXdzEIr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGcsxNe05VFBKgjRVCLpAZkDXv8LCfDgDAhXFinm5S3Zy9oieZvOvJ%2FBCwhtSb2K32C5uijoL2A7oPVt1h8vC%2F8rfdUz80sD2nuSRh019KQgn6UlOjA3xjEZo%2FEfuidlXZvcVHoFMQb9o3BbCBUbPPck3hO79TZVV%2B6KBQqNEAgkf3kia%2FuntiQLU3OWW1Xl2eZ3qkxrmcJlr6C2wGETg%2FWoQZfZeAdIKzOVqnBmaJe8Jc%2BN0ude2g%2FMiyNCe9k3xfy7IBYki2S0YXO3TzOEV285pGbXvlBjxB5YVuIYRdpyTKrrU1qs%2FUZIuY03qyJaKBts3XsHUb43KN%2BHrOUF
+top
+scrapy
+pip
+git status
+fish
+fish
+shutdown 
+sudo geany /bin/spidermon 
+rm -rf .config/geany/geany_socket_vipulgupta2048__0 
+sudo geany /bin/spidermon 
+reboot
+scrapy
+sudo geany /bin/spidermon 
+safeeyes --debug
+exit
+top
+sudo dpkg -i Downloads/wps-office_11.1.0.8372_amd64.deb 
+xkill
+top
+shutdown 
+top
+shutdown 
+shutdown -c
+shutdown 
+npm clear
+npm clean-install
+shutdown 
+pip freeze --no-version
+pip freeze --help
+sudo apt update
+fish
+sudo mousepad /etc/apt/source.list
+sudo mousepad /etc/apt/sources.list
+sudo apt update
+sudo apt updage
+sudo tlp start
+sudo apt upgrade
+upower
+upower --help
+upower -w
+upower -m
+top
+killall atril 
+top
+exit
+killall thunar
+top
+shutdown 
+top
+killall atril
+reboot 
+cd spidermon/
+fish
+top

@@ -1,17 +1,9 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/vipulgupta2048/Desktop/instructions]
-row=7
-col=1
-
 [/home/vipulgupta2048/Desktop/Summer ]
 row=4
 col=14
-
-[/home/vipulgupta2048/Desktop/spidermon.py]
-row=6
-col=0
 
 [/home/vipulgupta2048/Desktop/groove.xspf]
 row=5
@@ -21,41 +13,53 @@ col=0
 row=4
 col=1
 
-[/home/vipulgupta2048/Desktop/Vipul Gupta - Proof of Enrollment.pdf]
+[/home/vipulgupta2048/Desktop/GSoC]
 row=5
-col=1
+col=14
 
-[/home/vipulgupta2048/Desktop/prim.py]
-row=8
+[/home/vipulgupta2048/Desktop/D4NWN6wUIAAnK20.jpg]
+row=2
 col=1
 
 [/home/vipulgupta2048/Desktop/X desktop Stuff]
-row=3
+row=4
+col=0
+
+[/home/vipulgupta2048/Desktop/D4LzMamU8AAEeSs.jpg]
+row=5
 col=1
 
 [/home/vipulgupta2048/Desktop/Minor]
 row=3
 col=14
 
-[/home/vipulgupta2048/Desktop/Telegram]
-row=4
-col=0
-
-[/home/vipulgupta2048/Desktop/Screenshot_2019-03-22_23-45-49.png]
-row=8
-col=0
-
-[/home/vipulgupta2048/Desktop/suits]
-row=2
+[/home/vipulgupta2048/Desktop/Screenshot_2019-04-18_12-40-36.png]
+row=7
 col=1
 
-[/home/vipulgupta2048/Desktop/Screenshot_2019-03-22_19-52-00.png]
+[/home/vipulgupta2048/Desktop/Screenshot_2019-04-13_16-09-23.png]
 row=7
 col=0
 
-[/home/vipulgupta2048/Desktop/shub-standard-logo.png]
+[/home/vipulgupta2048/Desktop/Telegram]
+row=8
+col=0
+
+[/home/vipulgupta2048/Desktop/for_practise.py]
+row=3
+col=1
+
+[/home/vipulgupta2048/Desktop/Sugar_The_sweet_constructionist_learning_envi.pdf]
+row=6
+col=0
+
+[/home/vipulgupta2048/Desktop/onedrive-bitlocker-recovery-key.png]
 row=6
 col=1
+
+[/home/vipulgupta2048/Desktop/Screenshot_2019-04-10_01-16-00.png]
+row=2
+col=14
 
 [0C827B1A827B078A]
 row=1
@@ -65,17 +69,13 @@ col=0
 row=0
 col=1
 
-[56CCBAA7CCBA80B3]
-row=0
-col=2
-
 [84967E1A967E0D44]
 row=1
-col=2
+col=1
 
 [423B-3EAB]
 row=1
-col=1
+col=2
 
 [Trash]
 row=2

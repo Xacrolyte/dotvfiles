@@ -3,9 +3,9 @@ Dotfiles done right by Vipul Gupta. Well, mostly.
 
 [![HitCount](http://hits.dwyl.io/vipulgupta2048/dotvfiles.svg)](http://hits.dwyl.io/vipulgupta2048/dotvfiles) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-This right here is my small planet of dotfiles in the galaxy of awesome dotfiles created with :sparkling_heart: by Vipul Gupta :hatching_chick:.
+This here is my small planet of dotfiles in the galaxy of awesome dotfiles created with :sparkling_heart: by Vipul Gupta :hatching_chick:.
 
-This has been a pet project that I has been years in the making. **Purpose** - To full proof a backup of settings so strong, that I would be able to break my laptop tomorrow (Touchwood, that never happens) and get it back online right where I left off in an hour or two. Henceforth, I have passed a release for it. Check out the [release section](https://github.com/vipulgupta2048/dotvfiles/releases). 
+This has been a pet project of mine that I have worked on for years. **Purpose** - To full proof a backup of settings and dotfiles so strong, that I would be able to break my laptop tomorrow (Touchwood, that never happens) and get it back online right where I left off in an hour or two. Henceforth, I have passed a release for it. Check out the [release section](https://github.com/vipulgupta2048/dotvfiles/releases). 
 
 I love chicks, it's my Sigil. [Reference](https://mixstersite.wordpress.com/2017/06/26/firstpost-and-chicks/)
 

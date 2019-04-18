@@ -8,7 +8,7 @@
   <property name="last-window-maximized" type="bool" value="true"/>
   <property name="last-show-hidden" type="bool" value="true"/>
   <property name="misc-single-click" type="bool" value="false"/>
-  <property name="last-separator-position" type="int" value="170"/>
+  <property name="last-separator-position" type="int" value="193"/>
   <property name="last-window-width" type="int" value="950"/>
   <property name="last-window-height" type="int" value="1023"/>
   <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
@@ -17,5 +17,5 @@
   <property name="last-details-view-column-widths" type="string" value="50,200,50,50,1154,50,50,74,319"/>
   <property name="last-side-pane" type="string" value="ThunarShortcutsPane"/>
   <property name="last-location-bar" type="string" value="ThunarLocationEntry"/>
-  <property name="last-menubar-visible" type="bool" value="false"/>
+  <property name="last-menubar-visible" type="bool" value="true"/>
 </channel>
