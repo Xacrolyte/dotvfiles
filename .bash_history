@@ -983,3 +983,93 @@ reboot
 cd spidermon/
 fish
 top
+scrapy shell https://in.bookmyshow.com/national-capital-region-ncr/movies/avengers-endgame/ET00090482
+ls
+fish
+scrapy shell https://in.bookmyshow.com/national-capital-region-ncr/movies/avengers-endgame/ET00090482
+scrapy shell https://in.bookmyshow.com/national-capital-region-ncr/movies/shazam/ET00072971
+scrapy crawl avengers
+beep
+sudo apt install beep
+beep
+alarm
+echo -ne '\007'
+sudo modprobe pcspkr
+echo -ne '\007'
+beep
+paplay
+paplay ../../../Desktop/Desktop/mine/musix/
+paplay ../../../Desktop/Desktop/mine/musix/media/Treasure/ARCTIC\ MONKEYS\ -\ DISCOGRAPHY\ \(2005-18\)\ /\[2007\]\ Favourite\ Worst\ Nightmare/01\ -\ Brianstorm.mp3 
+cp ../../../Desktop/Desktop/mine/musix/media/Treasure/ARCTIC\ MONKEYS\ -\ DISCOGRAPHY\ \(2005-18\)\ /\[2007\]\ Favourite\ Worst\ Nightmare/01\ -\ Brianstorm.mp3 ../../../Desktop/
+paplay --help
+paplay ../../../Desktop/01\ -\ Brianstorm.mp3 
+paplay ../../../Desktop/01\ -\ Brianstorm.mp3 --verbose
+paplay /usr/share/sounds/ubuntu/ringtones/Harmonics.ogg
+paplay /usr/share/sounds/alsa/Front_
+paplay /usr/share/sounds/alsa/Front_Center.wav 
+sudo nano /etc/modprobe.d/blacklist.conf
+paplay /usr/share/sounds/alsa/Front_Center.wav 
+beep
+scrapy crawl avengers
+python3 
+beep 10
+beep * 2
+beep + beep
+beep | beep
+xkill
+sudo python Desktop/avengers.py 
+python3
+sudo python3 Desktop/avengers.py 
+redsift -O 4200K
+redshift -O 4200K
+sudo apt update
+shutdown 
+reboot
+fish
+sudo dpkg -i Downloads/webtorrent-desktop_0.20.0-1_amd64.deb 
+sudo gparted
+lm-sensors
+sensors
+xkill
+htop
+fish
+history
+sudo nano /etc/modprobe.d/blacklist.conf
+y
+history
+qsudo modprobe pcspkr
+sudo modprobe pcspkr
+shutdown 
+fish
+reboot
+sudo /etc/init.d/bluetooth start
+sudo apt-get purge blueman bluez-utils bluez bluetooth
+sudo apt install blueman bluez-utils bluez bluetooth
+sudo apt install blueman bluez bluetooth
+sudo apt update
+sudo apt upgrade
+sudo apt install -f
+sudo apt autoclean
+sudo apt autoremove
+sudo service bluetooth start
+sudo service bluetooth status
+sudo rfkill unblock bluetooth
+sudo apt install blueman bluez-utils bluetooth
+sudo apt install bluez:i386
+reboot
+systemctl status bluetooth.service
+sudo apt install bluez-tools
+sudo /etc/init.d/bluetooth start
+systemctl status bluetooth.service
+rfkill list
+ls /sys/class/bluetooth
+bluetoothctl
+sudo modprobe -r btusb
+
+sudo modprobe  btusb
+sudo systemctl start bluetooth
+fish
+shutdown 
+top
+shutdown 
+top

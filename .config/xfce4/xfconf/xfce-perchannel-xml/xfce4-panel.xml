@@ -77,6 +77,7 @@
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="network"/>
         <value type="string" value="hexchat"/>
+        <value type="string" value="webtorrent"/>
         <value type="string" value="blueman-applet"/>
         <value type="string" value="safeeyes"/>
         <value type="string" value="update-notifier"/>

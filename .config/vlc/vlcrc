@@ -23,7 +23,7 @@
 #scaletempo-search=14
 
 # Pitch Shift (float)
-#pitch-shift=0.000000
+pitch-shift=-4.000000
 
 [headphone] # Headphone virtual spatialization effect
 
@@ -67,25 +67,25 @@
 [compressor] # Dynamic range compressor
 
 # RMS/peak (float)
-#compressor-rms-peak=0.200000
+compressor-rms-peak=0.569000
 
 # Attack time (float)
-#compressor-attack=25.000000
+compressor-attack=1.500000
 
 # Release time (float)
-#compressor-release=100.000000
+compressor-release=800.000000
 
 # Threshold level (float)
-#compressor-threshold=-11.000000
+compressor-threshold=0.000000
 
 # Ratio (float)
-#compressor-ratio=4.000000
+compressor-ratio=20.000000
 
 # Knee radius (float)
-#compressor-knee=5.000000
+compressor-knee=10.000000
 
 # Makeup gain (float)
-#compressor-makeup-gain=7.000000
+compressor-makeup-gain=6.990000
 
 [gain] # Gain control filter
 
@@ -157,7 +157,7 @@
 #equalizer-preset=flat
 
 # Bands gain (string)
-#equalizer-bands=
+equalizer-bands=0 0 0 0 0 0 0 0 0 0
 
 # Two pass (boolean)
 #equalizer-2pass=0
@@ -196,7 +196,7 @@
 #stereowiden-crossfeed=0.300000
 
 # Dry mix (float)
-#stereowiden-dry-mix=0.800000
+stereowiden-dry-mix=0.700000
 
 [audiobargraph_a] # Audio part of the BarGraph function
 
@@ -3533,7 +3533,7 @@ qt-privacy-ask=0
 #role=video
 
 # Audio filters (string)
-#audio-filter=
+audio-filter=equalizer
 
 # Audio visualizations (string)
 #audio-visual=none
