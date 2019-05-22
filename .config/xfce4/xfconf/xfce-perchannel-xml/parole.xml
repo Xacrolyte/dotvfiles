@@ -11,9 +11,9 @@
     <property name="font" type="string" value="Sans Bold 20"/>
   </property>
   <property name="window" type="empty">
-    <property name="maximized" type="bool" value="false"/>
-    <property name="width" type="int" value="536"/>
-    <property name="height" type="int" value="284"/>
+    <property name="maximized" type="bool" value="true"/>
+    <property name="width" type="int" value="841"/>
+    <property name="height" type="int" value="285"/>
   </property>
   <property name="audio" type="empty">
     <property name="volume" type="int" value="100"/>
@@ -21,12 +21,12 @@
     <property name="visualization-name" type="string" value="monoscope"/>
   </property>
   <property name="folders" type="empty">
-    <property name="last-used-media" type="string" value="/home/vipulgupta2048/Desktop/Desktop/mine/Music"/>
+    <property name="last-used-media" type="string" value="/home/vipulgupta2048/Desktop/Desktop/mine/musix/media/Songs"/>
   </property>
   <property name="playlist" type="empty">
     <property name="remove-duplicates" type="bool" value="true"/>
     <property name="remember-playlist" type="bool" value="true"/>
-    <property name="show-playlist" type="bool" value="false"/>
+    <property name="show-playlist" type="bool" value="true"/>
   </property>
   <property name="plugins" type="empty">
     <property name="tray" type="empty">

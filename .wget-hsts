@@ -2,4 +2,5 @@
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 raw.githubusercontent.com	0	0	1551346516	31536000
+twitter.com	0	0	1558249342	631138519
 github.com	0	1	1551530798	31536000

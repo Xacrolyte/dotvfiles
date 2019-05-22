@@ -86,6 +86,7 @@
         <value type="string" value="anydesk"/>
         <value type="string" value="hp-systray"/>
         <value type="string" value="telegram"/>
+        <value type="string" value="parole"/>
       </property>
       <property name="show-frame" type="bool" value="false"/>
       <property name="size-max" type="uint" value="22"/>
@@ -102,7 +103,7 @@
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="enable-mpris" type="bool" value="true"/>
       <property name="mixer-command" type="string" value="pavucontrol"/>
-      <property name="mpris-players" type="string" value="parole;vlc;vlc.instance10447;vlc.instance15739;vlc.instance17116;vlc.instance18557;vlc.instance25816;vlc.instance2885;vlc.instance29663;vlc.instance3325;vlc.instance4633;vlc.instance4895;vlc.instance5046;vlc.instance5205;vlc.instance7717;vlc.instance7982"/>
+      <property name="mpris-players" type="string" value="parole;vlc;vlc.instance10447;vlc.instance14109;vlc.instance15739;vlc.instance17116;vlc.instance18557;vlc.instance25816;vlc.instance2885;vlc.instance29663;vlc.instance3325;vlc.instance4633;vlc.instance4895;vlc.instance5046;vlc.instance5205;vlc.instance7030;vlc.instance7717;vlc.instance7982"/>
       <property name="show-notifications" type="bool" value="true"/>
     </property>
   </property>

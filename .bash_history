@@ -1073,3 +1073,177 @@ shutdown
 top
 shutdown 
 top
+cd dotvfiles/
+git status
+git add .
+git commit -s -m "May Update"
+git push origin master
+sudo apt-get install build-essential
+sudo apt-get install python-dev python-pip python-setuptools
+sudo apt-get install libxml2-dev libxslt1-dev zlib1g-dev
+shutdown 
+curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World!"}' https://hooks.slack.com/services/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
+pip install slackclient
+shutdown 
+fish
+cd spidermon/
+fish
+acpi
+sudo apt install acpi
+acpi
+acpi -ib
+top
+shutdown 
+reboot
+git init
+git status
+git add . 
+git commit -s -m "6th Semester" 
+ping www.google.com
+ping http://.google.com
+ping http://google.com
+sudo apt update
+sudo apt upgrade
+cd .. 
+ls 
+cd lost+found/
+sudo cd lost+found/
+sudo fish
+cd placement/placement/placement/spiders/
+fihs
+fish
+systemctl 
+sudo systemctl network-manager status
+sudo systemctl --help
+sudo systemctl --failed
+sudo systemctl --status
+sudo systemctl --active
+sudo systemctl network
+sudo systemctl restart NetworkManager.service
+sudo systemctl restart NetworkManager
+sudo systemctl status NetworkManager
+sudo service status NetworkManager
+sudo service status network-manager
+sudo service network-manager
+sudo service network-manager status
+sudo service network-manager start
+sudo service network-manager stop
+sudo service network-manager start
+sudo service network-manager restart
+sudo nmcli networking off
+sudo nmcli networking on
+sudo ifdown -a
+sudo apt update
+sudo apt upgrade
+sudo apt upgrade --fix-missing
+reboot
+sudo service network-manager stop
+reboot
+sudo lshw --class network
+sudo lshw -class network
+sudo fish
+echo "option QCA9377 fwlps=N" | sudo tee /etc/modprobe.d/82540EM.conf
+reboot
+sudo nano /etc/network/interfaces
+sudo service network-manager restart
+sudo service network-manager force-reload
+sudo service network-manager restart
+killall nm-applet
+/bin/bash
+nm-applet4
+nm-applet
+lsusb
+sudo lsusb
+sudo lspci
+lshw -C network 
+sudo modprobe QCA9377
+sudo modprobe RTL8111/8168/8411
+sudo modprobe modulename 
+sudo modprobe
+sudo modprobe -h\
+sudo modprobe -h
+sudo apt install network-manager
+sudo apt re-install network-manager
+sudo apt reinstalla network-manager
+sudo apt reinstall network-manager
+sudo etc/network/interfaces
+sudo nano etc/network/interfaces
+sudo mousepad /etc/network/interfaces
+sudo ifdown wlan0 && sudi ifup -v wlan0
+sudo install ifup
+sudo apt install ifup
+sudo service network-manager restart
+sudo service network-manager start
+sudo service network-manager status
+nm-applet
+ifconfig wlan0
+lspci
+lshw
+sudo lshw
+ifconfig 
+ifconfig --help
+ifconfig wlan0
+ifconfig 
+ipconfig
+ifconfig -v
+iwconfig
+mount
+ls
+sls
+reboot
+fish
+python3
+sudo snap install --classic code
+sudo apt install geany nomacs safeeyes fish
+sudo apt purge parole
+vlc
+sudo apt update
+sudo apt upgrade
+sudo apt purge libreoffice-* thunderbird ristretto firefox pidgin transmission-* 
+sudo apt purge thunderbird ristretto firefox pidgin transmission-* 
+sudo apt purge thunderbird ristretto firefox pidgin 
+apt --fix-broken install
+sudo apt --fix-broken install
+sudo apt purge thunderbird ristretto firefox pidgin 
+sudo apt purge libreoffice-calc 
+sudo apt purge libreoffice-calc libreoffice-math libreoffice-core libreoffice-base-core libreoffice-common libreoffice-writer libreoffice-style-galaxy 
+sudo add-apt-repository ppa:videolan/stable-daily
+sudo add-apt-repository ppa:videolan/master-daily
+sudo apt-add-repository ppa:fish-shell/release-3
+sudo add-apt-repository ppa:nomacs/stable
+sudo add-apt-repository ppa:geany-dev/ppa
+sudo apt update
+sudo add-apt-repository ppa:videolan/stable-daily
+sudo snap install vlc
+vlc Desktop/groove.xspf 
+fish
+fish
+sudo apt update
+sudo apt upgrade
+cd Downloads/Deb\ Packages/
+ls
+sudo dpkg -i google-chrome-stable_current_amd64.debhrom
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+ls
+sudo dpkg -i webtorrent-desktop_0.20.0-1_amd64.deb 
+ls
+cd Telegram\ Desktop/
+ls
+cd ..
+sudo dpkg -i wps-office_11.1.0.8372_amd64.deb 
+thunar
+chrome
+google-chrome
+fish
+shutdown 
+sudo mv Desktop/Wallpapers/* /usr/share/xfce4/backdrops/
+sudo thunar
+Downloads/
+ls
+cd Downloads/
+ls
+thuanr
+thunar
+cd Deb\ Packages/
+sudo dpkg -i google-chrome-stable_current_amd64.deb 
+scrapy shell https://amity.edu/placement/upcoming-recruitment.asp
