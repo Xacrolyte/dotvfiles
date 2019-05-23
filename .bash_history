@@ -1247,3 +1247,23 @@ thunar
 cd Deb\ Packages/
 sudo dpkg -i google-chrome-stable_current_amd64.deb 
 scrapy shell https://amity.edu/placement/upcoming-recruitment.asp
+git status
+git add .
+git commit -s -m "Updated"
+git push 
+sudo add-apt-repository ppa:git-core/ppa
+shutdown 
+sudo apt-get install bluez bluez-alsa bluez-audio bluez-btsco bluez-compat bluez-cups bluez-dbg bluez-gstreamer bluez-hcidump bluez-pcmcia-support bluez-tools bluez-utils python-bluez bluewho indicator-bluetooth libbluetooth-dev  libgnome-bluetooth11 libbluetooth3 python-gobject python-dbus
+sudo apt-get install bluez bluez-btsco bluez-cups bluez-dbg bluez-hcidump bluez-tool python-bluez bluewho indicator-bluetooth libbluetooth-dev libbluetooth3 python-gobject python-dbus
+sudo apt-get install bluez bluez-btsco bluez-cups bluez-dbg bluez-hcidump python-bluez bluewho indicator-bluetooth libbluetooth-dev libbluetooth3 python-gobject python-dbus
+sudo add-apt-repository ppa:bluetooth/bluez
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt upgrade
+sudo apt update
+sudo apt install pulseaudio pulseaudio-utils pavucontrol pulseaudio-module-bluetooth
+sudo gedit /etc/bluetooth/audio.conf
+sudo mousepad /etc/bluetooth/audi
+sudo gedit /etc/bluetooth/audio.conf
+sudo mousepad /etc/bluetooth/audio.conf
+sudo service bluetooth restart
+shutdown 

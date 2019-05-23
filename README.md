@@ -13,17 +13,27 @@ I love chicks, it's my Sigil. [Reference](https://mixstersite.wordpress.com/2017
 
 <span style="text-align:center;">Like what you see? Dig deeper to find these dotfiles. Have fun :heart:</span>
 
+## LightDM GTK+ Greeter Configuration Settings 
+Some things need to be configured manually, and I love attention to detail 
+- Horizontal  - 15 (in %)
+- Vertical - 23 (in %)
+
+Alternatively, copy the lightdm folder into /etc/
+`sudo cp ~/dotvfiles/lightdm /etc/`
+
 ## Installation
 This really doesn't have a installation procedure. My dotfiles are small in comparison to many others, and I feel a normal symlinking script would and is enough to get the job done. 
 
 Give a try to Homely as well for your own dotfiles manager that is completely written in Python - here's a getting started presentation - [DotPython](https://slides.com/vipulgupta2048/dotpython-3/fullscreen)
 
-Let's dig, you all. 
+Dig in, you all. 
 
 ## Config Folder
 Config folder will now be containing all the files that you would normally find in the `.config/` directory. I have fixed the symlinking of the directories inside it, they put up a hell of a fight. 
 
 *Note to future Vipul: Don't touch anything in this folder, just copy and paste.* 
+
+Run `sudo cp ~/dotvfiles/.config/* ~/`
 
 ### Plymouth
 I love tweaking, hence once I knew about playing around the bootloader. I couldn't resist. Check out the many custom themes and scripts that I have. This is my bootscreen. Going to write describing how I did it. 
@@ -60,6 +70,8 @@ If you are a Fish user, luck and happiness will find you if you take a peek at m
 
 <img src= assets_repo/aa.jpeg align="center">
 
+`Bright Green` for commands, `Bright red` for errors, `Bright Pink` for predictions in the theme as `Old School` with the prompt as `Just a Dollar Sign`. Settings to be made in `fish_config`, You can also run `fish_update_completions` to update your predictions. 
+
 ## VScode
 Not much later after the acquistion of GitHub by Microsoft and struggling with Atom. I changed sides to VScode. Oh man, life became way much easier. I got all the best extensions, with all the best color schemes. 
 
@@ -74,6 +86,18 @@ The theme I am rocking for the GTK3+ is Adwaita
 You can learn [here](https://wiki.xfce.org/howto/install_new_themes) how to install themes, configure and customise them.
 
 The themes folder you see in the files goes into `/home/vipulgupta2048/.local/share/themes` and that's about the only installation instructions you will ever need. Cycle through the menus of `Window Manager` and `Appearence` to get the theme settings you need. 
+
+## Bluetooth Configuration
+Bluetooth has been a mess since day 1 for me in Xubuntu as none of the devices would get paired **properly** no matter how much I try, 
+
+Try some of these steps or just re-install the distro to save you from wasting your time.
+ 
+1. [This blog](https://medium.com/@overcode/fixing-bluetooth-in-ubuntu-pop-os-18-04-d4b8dbf7ddd6) is a life saver. 
+2. Or install every single that might be remotely needed  and hope for the best. 
+
+`sudo apt-get install bluez bluez-btsco bluez-cups bluez-dbg bluez-hcidump python-bluez bluewho indicator-bluetooth libbluetooth-dev libbluetooth3 python-gobject python-dbus`
+
+Usually the blog would do. 
  
 ## Chrome Extensions
 These are essential, I rock a lot of great extensions like Grammarly, Adblock, HTTPS everywhere, The Great Suspender, Dark Mode and many more. Get each of them in a neat list to help you with the installation in the folder `chrome-extensions`
